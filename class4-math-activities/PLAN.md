@@ -22,7 +22,9 @@ Part A is being built in the eBidyaloy web repo. **What is listed done below is 
 
 **Tests:** `engine-tests/` here (README): `aN-test.mjs` (website = server, the book's numbers, old behaviour unchanged) all pass; `aN-play.cjs` play each in Chrome at 390 px (and 1100) on the test site :3003 with no page errors.
 
-**Next session, in order:** A3's player → A5, A6, A9, A10, A11 → the user's "push" → Android port → part B (the games file).
+**No games are written yet** (no `ACTIVITIES-bn.json`).
+
+**Next session, in order:** A3's player → A5, A6, A9, A10, A11 → the user's "push" → Android port → part B (the games file; it may start earlier for the chapters part A doesn't touch: 2, 3, 7 apart from mixed numbers, 11).
 
 ## 1. What we make
 - **One Activity Studio file**, `ACTIVITIES-bn.json` (format `ebidyaloy-activity-import`, version 1), made the Class 3 way (`../class3-math-activities`):
