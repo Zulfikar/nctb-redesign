@@ -10,7 +10,7 @@ eBidyaloy's colourful, interactive editions of NCTB textbooks: each book rebuilt
 | `class2-math-activities` | its games (`ACTIVITIES-bn*.json`, the builder and checks) | | finished |
 | `class3-math-redesign` | প্রাথমিক গণিত, তৃতীয় শ্রেণি | /b/GVB5V3 | finished (all pictures, 229 games) |
 | `class3-math-activities` | its games | | finished |
-| `class4-math-redesign` | প্রাথমিক গণিত, চতুর্থ শ্রেণি (2026) | not yet | all 174 pages designed and checked (23 Nov); 39 pictures to make (`~/Downloads/class4-math-pictures/PROMPTS.md`); games and page QRs next (`PLAN.md`, `TEACHER-CHECK.md`) |
+| `class4-math-redesign` | প্রাথমিক গণিত, চতুর্থ শ্রেণি (2026) | not yet | all 174 pages designed and checked (23 Nov); all 39 pictures in; games and page QRs next (`PLAN.md`, `TEACHER-CHECK.md`) |
 | `eft-class3-redesign` | English for Today, Class 3 | /b/2KVK93 | finished |
 
 Each project's own `README.md` (Class 4: `PLAN.md` and `SPEC.md`) has the details. The NCTB book each one is built from is in its `source/` folder.

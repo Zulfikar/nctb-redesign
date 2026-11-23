@@ -34,10 +34,12 @@ Landscape 1536 × 1024. No text, letters or digits anywhere.
 Page 139, কাজ ১ (the day the school kept শহিদ দিবস). No `ref-children.png`.
 ```
 A bright, friendly 2D children's book illustration with clean dark outlines, soft shading and warm colours.
-The Central Shaheed Minar in Dhaka, seen from the front: the tall middle pair of white pillars whose tops bend
-gently forward, two shorter white pillars on each side, a large red circle (the rising sun) behind the middle
-pillars, the wide stepped platform of red and white tiles in front, a flowering red krishnachura tree and green
-trees behind, flowers laid at the foot of the pillars.
+The Central Shaheed Minar in Dhaka, seen straight from the front. In the middle stands ONE tall white frame (two
+upright posts joined at the top, thin dark vertical bars inside it) whose upper part bends gently forward, like a
+mother bowing her head. On each side of it stand two shorter upright white frames of the same kind, also with thin
+dark vertical bars: five frames in all, never two in the middle. A large red circle (the rising sun) behind the
+middle frame, the wide stepped platform of red and white tiles in front, flowers and wreaths laid at the foot of
+the frames, a flowering red krishnachura tree on one side and green trees behind.
 Landscape 1536 × 1024. No text, letters or digits anywhere.
 ```
 

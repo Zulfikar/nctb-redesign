@@ -116,9 +116,10 @@ module.exports = {
         { ex: "৬", mark: "anu", text: "সাদিদ তার বাড়ি থেকে ২৮০ মিটার পথ হেঁটে ও ৫৫০ মিটার পথ রিকশায় চড়ে বিদ্যালয়ে যায়। বিদ্যালয়ে যেতে সে কত সেমি পথ অতিক্রম করে?" },
         { ex: "৭", mark: "anu", text: "হাসপাতাল থেকে একই দিকে বাজারের দূরত্ব ৮৪৫ মি এবং পোস্ট অফিসের দূরত্ব ১ কিমি ২০০ মি। বাজার থেকে পোস্ট অফিসের দূরত্ব বের করে ‘সেমি’-এ প্রকাশ করি।", body: [
           // the hospital (left), the market (middle), the post office (right): the two distances drawn on the picture
-          { kind: "c4p121_scene", pic: "p124-hospital-market-post", w: 160, h: 47.9,
-            arrows: [{ p0: [14.8, 67.4], p1: [34.6, 97.7], p2: [62.2, 83.7] }, { p0: [14.8, 67.4], p1: [43.6, 119.6], p2: [92.9, 77] }],
-            tags: [{ x: 38.3, y: 82.4, text: "৮৪৫ মি" }, { x: 85.6, y: 91.2, text: "১ কিমি ২০০ মি", rot: -7 }] },
+          // the user's picture (23 Nov): cropped low (pos) so its bare ground shows, and the arrows run on it
+          { kind: "c4p121_scene", pic: "p124-hospital-market-post", w: 160, h: 52, pos: "50% 60%",
+            arrows: [{ p0: [14.5, 81], p1: [34, 92], p2: [55, 86] }, { p0: [14.5, 81], p1: [50, 110], p2: [87, 85] }],
+            tags: [{ x: 34.5, y: 80, text: "৮৪৫ মি" }, { x: 70, y: 87, text: "১ কিমি ২০০ মি", rot: -6 }] },
         ] },
       ],
     },

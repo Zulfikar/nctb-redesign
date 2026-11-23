@@ -118,9 +118,9 @@ function beakerSvg(h) {
 }
 
 // ── a picture (the user's, or the book's as a stand-in) ──
-function picInner(ctx, name) {
+function picInner(ctx, name, pos) {
   const f = ctx.picFile(name);
-  return f ? `<img src="file://${f.file}">${f.old ? `<span class="tag">stand-in</span>` : ""}` : `<div class="ph">ChatGPT: ${escx(name)}.png</div>`;
+  return f ? `<img src="file://${f.file}"${pos ? ` style="object-position:${pos}"` : ""}>${f.old ? `<span class="tag">stand-in</span>` : ""}` : `<div class="ph">ChatGPT: ${escx(name)}.png</div>`;
 }
 const arrowHead = (x, y, a, L = 2.6, Wd = 1.1, c = "#DC2626") => `<path d="M${f2(x)} ${f2(y)}L${f2(x - L * Math.cos(a) + Wd * Math.sin(a))} ${f2(y - L * Math.sin(a) - Wd * Math.cos(a))}L${f2(x - L * Math.cos(a) - Wd * Math.sin(a))} ${f2(y - L * Math.sin(a) + Wd * Math.cos(a))}Z" fill="${c}"/>`;
 
@@ -179,7 +179,7 @@ module.exports = {
         s += `<path d="M${f2(x0)} ${f2(y0)}Q${f2(x1)} ${f2(y1)} ${f2(x2 - 1.6 * Math.cos(ang))} ${f2(y2 - 1.6 * Math.sin(ang))}" fill="none" stroke="#DC2626" stroke-width=".7"/>${arrowHead(x2, y2, ang)}<circle cx="${f2(x0)}" cy="${f2(y0)}" r=".9" fill="#DC2626"/>`;
       }
       const tags = (b.tags || []).map((t) => `<span class="c4p121-stag" style="left:${t.x}%;top:${t.y}%;${t.rot ? `transform:translate(-50%, -50%) rotate(${t.rot}deg)` : ""}">${mdx(ctx, t.text)}</span>`).join("");
-      return `<div class="c4p121-scene" style="width:${W}mm;height:${H}mm">${picInner(ctx, b.pic)}<svg class="c4p121-svg" width="${W}mm" height="${H}mm" viewBox="0 0 ${W} ${H}">${s}</svg>${tags}</div>`;
+      return `<div class="c4p121-scene" style="width:${W}mm;height:${H}mm">${picInner(ctx, b.pic, b.pos)}<svg class="c4p121-svg" width="${W}mm" height="${H}mm" viewBox="0 0 ${W} ${H}">${s}</svg>${tags}</div>`;
     },
     c4p121_box: (b, ctx) => `<div class="c4p121-box" style="text-align:${b.align || "center"};${b.w ? `width:${b.w}mm;` : ""}">${mdx(ctx, b.text)}</div>`,
     c4p121_panel: (b, ctx, page) => `<div class="c4p121-panel ${b.tone || "lime"}${b.center ? " ctr" : ""}">${b.body.map((x) => typeof x === "string" ? `<p>${mdx(ctx, x)}</p>` : fix(ctx.blockHtml(x, page))).join("")}</div>`,
