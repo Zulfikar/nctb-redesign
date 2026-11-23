@@ -1,0 +1,123 @@
+{
+ "m3-p078-fact-trees": {
+  "module": "ch07",
+  "items": [
+   {
+    "want": 28
+   },
+   {
+    "want": 7
+   },
+   {
+    "want": 4
+   },
+   {
+    "want": 18
+   },
+   {
+    "want": 6
+   },
+   {
+    "want": 3
+   },
+   {
+    "want": 32
+   },
+   {
+    "want": 8
+   },
+   {
+    "want": 4
+   }
+  ]
+ },
+ "m3-p080-left-to-right": {
+  "module": "ch07",
+  "items": [
+   {
+    "want": 36
+   },
+   {
+    "want": 20
+   },
+   {
+    "want": 36
+   },
+   {
+    "want": 46
+   },
+   {
+    "want": 54
+   }
+  ]
+ },
+ "m3-p081-two-steps": {
+  "module": "ch07",
+  "items": [
+   {
+    "want": 16
+   },
+   {
+    "want": 30
+   },
+   {
+    "want": 9
+   },
+   {
+    "want": 8
+   },
+   {
+    "want": 256
+   },
+   {
+    "want": 216
+   }
+  ]
+ },
+ "m3-p083-left-to-right": {
+  "module": "ch07",
+  "items": [
+   {
+    "want": 21
+   },
+   {
+    "want": 48
+   },
+   {
+    "want": 25
+   },
+   {
+    "want": 90
+   },
+   {
+    "want": 20
+   }
+  ]
+ },
+ "m3-p083-stories": {
+  "module": "ch07",
+  "items": [
+   {
+    "want": 34
+   },
+   {
+    "want": 33
+   },
+   {
+    "want": 100
+   },
+   {
+    "want": 350
+   },
+   {
+    "want": 40
+   },
+   {
+    "want": 44
+   },
+   {
+    "want": 104
+   }
+  ]
+ }
+}

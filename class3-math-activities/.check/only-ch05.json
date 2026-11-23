@@ -1,0 +1,2199 @@
+{
+  "format": "ebidyaloy-activity-import",
+  "version": 1,
+  "book": {
+    "title": "প্রাথমিক গণিত - ক্লাস থ্রি",
+    "edition": "bn",
+    "editionName": "বাংলা",
+    "language": "bn",
+    "base": true,
+    "chapters": [
+      "অধ্যায় ১ · সংখ্যা",
+      "অধ্যায় ২ · যোগ",
+      "অধ্যায় ৩ · বিয়োগ",
+      "অধ্যায় ৪ · যোগ ও বিয়োগের সম্পর্ক",
+      "অধ্যায় ৫ · গুণ",
+      "অধ্যায় ৬ · ভাগ",
+      "অধ্যায় ৭ · গুণ ও ভাগের সম্পর্ক",
+      "অধ্যায় ৮ · যোগ, বিয়োগ, গুণ ও ভাগসংক্রান্ত সমস্যা",
+      "অধ্যায় ৯ · ভগ্নাংশ",
+      "অধ্যায় ১০ · বাংলাদেশি মুদ্রা",
+      "অধ্যায় ১১ · পরিমাপ",
+      "অধ্যায় ১২ · জ্যামিতি",
+      "অধ্যায় ১৩ · উপাত্ত সংগ্রহ ও বিন্যস্তকরণ"
+    ]
+  },
+  "activities": [
+    {
+      "key": "m3-p042-times-table",
+      "qr": "M3-p42-a",
+      "code": "LSBMXUJJ",
+      "type": "work_it_out",
+      "title": "গুণের নামতা মনে করি · খালিঘর পূরণ করি",
+      "chapter": "অধ্যায় ৫ · গুণ",
+      "page": 42,
+      "configuration": {
+        "fresh": {
+          "skill": "mul",
+          "count": 5
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 3,
+            "op": "×",
+            "b": 7,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 4,
+            "op": "×",
+            "b": 2,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 4,
+            "op": "×",
+            "b": 9,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 5,
+            "op": "×",
+            "b": 6,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 6,
+            "op": "×",
+            "b": 5,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 7,
+            "op": "×",
+            "b": 3,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 8,
+            "op": "×",
+            "b": 6,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 9,
+            "op": "×",
+            "b": 9,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 10,
+            "op": "×",
+            "b": 8,
+            "layout": "row"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p044-rules",
+      "qr": "M3-p44-a",
+      "code": "LSG3DVCU",
+      "type": "work_it_out",
+      "title": "গুণের নিয়ম · খালিঘর পূরণ করি",
+      "chapter": "অধ্যায় ৫ · গুণ",
+      "page": 44,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "pattern",
+            "terms": [
+              6,
+              12,
+              18,
+              24,
+              null,
+              36,
+              42,
+              48,
+              54,
+              60
+            ]
+          },
+          {
+            "kind": "missing",
+            "text": "6 × 5 = 6 × 4 + □"
+          },
+          {
+            "kind": "missing",
+            "text": "6 × 5 = 6 × 6 − □"
+          },
+          {
+            "kind": "missing",
+            "text": "6 × 5 − 6 × 4 = □"
+          },
+          {
+            "kind": "missing",
+            "text": "6 × 6 − 6 × 5 = □"
+          },
+          {
+            "kind": "missing",
+            "text": "6 × 5 = □ × 6"
+          },
+          {
+            "kind": "missing",
+            "text": "6 × 5 = 5 × □"
+          },
+          {
+            "kind": "missing",
+            "text": "4 × 6 = 4 × 5 + □"
+          },
+          {
+            "kind": "missing",
+            "text": "7 × 8 = 7 × 9 − □"
+          },
+          {
+            "kind": "missing",
+            "text": "5 × 4 = 5 × 3 + □"
+          },
+          {
+            "kind": "missing",
+            "text": "8 × 9 = 8 × 10 − □"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p045-split",
+      "qr": "M3-p45-a",
+      "code": "LS5J2VH3",
+      "type": "work_it_out",
+      "title": "গুণ্য বা গুণককে ভেঙ্গে লিখে গুণ করি",
+      "chapter": "অধ্যায় ৫ · গুণ",
+      "page": 45,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 3,
+            "op": "×",
+            "b": 6,
+            "layout": "row"
+          },
+          {
+            "kind": "missing",
+            "text": "8 × 6 = 3 × 6 + □ × 6"
+          },
+          {
+            "kind": "missing",
+            "text": "3 × 6 + 5 × 6 = □"
+          },
+          {
+            "kind": "missing",
+            "text": "9 × 5 = 5 × 5 + □ × 5"
+          },
+          {
+            "kind": "missing",
+            "text": "7 × 4 = 7 × □ + 7 × 2"
+          },
+          {
+            "kind": "missing",
+            "text": "13 + 13 + 13 + 13 + 13 = □"
+          },
+          {
+            "kind": "pattern",
+            "terms": [
+              45,
+              50,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "kind": "sum",
+            "a": 10,
+            "op": "×",
+            "b": 5,
+            "layout": "row"
+          },
+          {
+            "kind": "missing",
+            "text": "13 × 5 = 10 × 5 + □ × 5"
+          },
+          {
+            "kind": "sum",
+            "a": 14,
+            "op": "×",
+            "b": 11,
+            "layout": "row"
+          },
+          {
+            "kind": "missing",
+            "text": "10 × 3 + 3 × 3 = □"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p047-tables-12-13",
+      "qr": "M3-p47-a",
+      "code": "LSKWK2WE",
+      "type": "work_it_out",
+      "title": "১২ ও ১৩ এর গুণের নামতা",
+      "chapter": "অধ্যায় ৫ · গুণ",
+      "page": 47,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "grid",
+            "rows": [
+              13
+            ],
+            "cols": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ],
+            "shown": [
+              "0,0",
+              "0,1"
+            ]
+          },
+          {
+            "kind": "word",
+            "text": "তাহসিন ১৩টি লাটিম কিনতে চায়। প্রতিটি লাটিমের দাম ৮ টাকা হলে তার কত টাকার প্রয়োজন?",
+            "sum": "8 × 13",
+            "unit": "টাকা"
+          },
+          {
+            "kind": "grid",
+            "rows": [
+              12
+            ],
+            "cols": [
+              4,
+              5,
+              2,
+              9,
+              1,
+              7,
+              6,
+              3,
+              8
+            ],
+            "shown": [
+              "0,1"
+            ]
+          },
+          {
+            "kind": "grid",
+            "rows": [
+              13
+            ],
+            "cols": [
+              4,
+              6,
+              2,
+              8,
+              1,
+              7,
+              5,
+              3,
+              9
+            ],
+            "shown": [
+              "0,7"
+            ]
+          },
+          {
+            "kind": "sum",
+            "a": 12,
+            "op": "×",
+            "b": 11,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 12,
+            "op": "×",
+            "b": 13,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 12,
+            "op": "×",
+            "b": 15,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 13,
+            "op": "×",
+            "b": 11,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 13,
+            "op": "×",
+            "b": 14,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 13,
+            "op": "×",
+            "b": 15,
+            "layout": "row"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p047-table-14-match",
+      "qr": "M3-p47-b",
+      "code": "LSCAZVJS",
+      "type": "equation_match",
+      "title": "১৪ এর গুণের নামতা · দাগ টেনে মিল করি",
+      "chapter": "অধ্যায় ৫ · গুণ",
+      "page": 47,
+      "configuration": {},
+      "content": {
+        "pairs": [
+          {
+            "left": "১৪ × ১",
+            "right": "১৪"
+          },
+          {
+            "left": "১৪ × ২",
+            "right": "২৮"
+          },
+          {
+            "left": "১৪ × ৩",
+            "right": "৪২"
+          },
+          {
+            "left": "১৪ × ৪",
+            "right": "৫৬"
+          },
+          {
+            "left": "১৪ × ৫",
+            "right": "৭০"
+          },
+          {
+            "left": "১৪ × ৬",
+            "right": "৮৪"
+          },
+          {
+            "left": "১৪ × ৭",
+            "right": "৯৮"
+          },
+          {
+            "left": "১৪ × ৮",
+            "right": "১১২"
+          },
+          {
+            "left": "১৪ × ৯",
+            "right": "১২৬"
+          },
+          {
+            "left": "১৪ × ১০",
+            "right": "১৪০"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p048-table-15-1",
+      "qr": "M3-p48-a",
+      "code": "LSDAYUDF",
+      "type": "work_it_out",
+      "title": "১৫ এর ঘর পর্যন্ত গুণের নামতা (১)",
+      "chapter": "অধ্যায় ৫ · গুণ",
+      "page": 48,
+      "configuration": {
+        "fresh": {
+          "skill": "grid",
+          "count": 5
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "grid",
+            "rows": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ],
+            "cols": [
+              11,
+              12,
+              13,
+              14,
+              15
+            ]
+          },
+          {
+            "kind": "grid",
+            "rows": [
+              6,
+              7,
+              8,
+              9,
+              10
+            ],
+            "cols": [
+              11,
+              12,
+              13,
+              14,
+              15
+            ]
+          },
+          {
+            "kind": "grid",
+            "rows": [
+              11
+            ],
+            "cols": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15
+            ]
+          },
+          {
+            "kind": "sum",
+            "a": 12,
+            "op": "×",
+            "b": 12,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 13,
+            "op": "×",
+            "b": 13,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 14,
+            "op": "×",
+            "b": 14,
+            "layout": "row"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p048-table-15-2",
+      "qr": "M3-p48-b",
+      "code": "LSRBAAMJ",
+      "type": "work_it_out",
+      "title": "১৫ এর ঘর পর্যন্ত গুণের নামতা (২)",
+      "chapter": "অধ্যায় ৫ · গুণ",
+      "page": 48,
+      "configuration": {
+        "fresh": {
+          "skill": "grid",
+          "count": 5
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "grid",
+            "rows": [
+              12
+            ],
+            "cols": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15
+            ]
+          },
+          {
+            "kind": "grid",
+            "rows": [
+              13
+            ],
+            "cols": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15
+            ]
+          },
+          {
+            "kind": "grid",
+            "rows": [
+              14
+            ],
+            "cols": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15
+            ]
+          },
+          {
+            "kind": "grid",
+            "rows": [
+              15
+            ],
+            "cols": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15
+            ]
+          },
+          {
+            "kind": "sum",
+            "a": 11,
+            "op": "×",
+            "b": 11,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 11,
+            "op": "×",
+            "b": 14,
+            "layout": "row"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p049-tens-1",
+      "qr": "M3-p49-a",
+      "code": "LS2RDFYH",
+      "type": "work_it_out",
+      "title": "২০, ৩০, ৪০ … দিয়ে গুণ করি (১)",
+      "chapter": "অধ্যায় ৫ · গুণ",
+      "page": 49,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "word",
+            "text": "একটি আনারসের দাম ২০ টাকা। যদি তুমি ৪টি ক্রয় করো তবে এর দাম কত হবে?",
+            "sum": "20 × 4",
+            "unit": "টাকা"
+          },
+          {
+            "kind": "sum",
+            "a": 3,
+            "op": "×",
+            "b": 5,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 30,
+            "op": "×",
+            "b": 5,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 20,
+            "op": "×",
+            "b": 3,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 40,
+            "op": "×",
+            "b": 2,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 30,
+            "op": "×",
+            "b": 4,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 50,
+            "op": "×",
+            "b": 6,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 10,
+            "op": "×",
+            "b": 3,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 30,
+            "op": "×",
+            "b": 3,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 200,
+            "op": "×",
+            "b": 3,
+            "layout": "row"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p051-mul-1",
+      "qr": "M3-p51-a",
+      "code": "LS667JF4",
+      "type": "work_it_out",
+      "title": "উপর-নিচ ও পাশাপাশি গুণ করি (১)",
+      "chapter": "অধ্যায় ৫ · গুণ",
+      "page": 51,
+      "configuration": {
+        "fresh": {
+          "skill": "mulcol",
+          "count": 5,
+          "digits": 2,
+          "carry": "no"
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 23,
+            "op": "×",
+            "b": 3,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 12,
+            "op": "×",
+            "b": 4,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 21,
+            "op": "×",
+            "b": 4,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 32,
+            "op": "×",
+            "b": 3,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 22,
+            "op": "×",
+            "b": 2,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 30,
+            "op": "×",
+            "b": 2,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 20,
+            "op": "×",
+            "b": 3,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 34,
+            "op": "×",
+            "b": 2,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 24,
+            "op": "×",
+            "b": 2,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 30,
+            "op": "×",
+            "b": 3,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 20,
+            "op": "×",
+            "b": 4,
+            "layout": "row"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p052-mul-2",
+      "qr": "M3-p52-a",
+      "code": "LSNV56TP",
+      "type": "work_it_out",
+      "title": "উপর-নিচ ও পাশাপাশি গুণ করি (২)",
+      "chapter": "অধ্যায় ৫ · গুণ",
+      "page": 52,
+      "configuration": {
+        "fresh": {
+          "skill": "mulcol",
+          "count": 5,
+          "digits": 2,
+          "carry": "yes"
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 17,
+            "op": "×",
+            "b": 3,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 24,
+            "op": "×",
+            "b": 4,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 12,
+            "op": "×",
+            "b": 8,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 48,
+            "op": "×",
+            "b": 2,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 18,
+            "op": "×",
+            "b": 5,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 26,
+            "op": "×",
+            "b": 3,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 39,
+            "op": "×",
+            "b": 2,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 25,
+            "op": "×",
+            "b": 4,
+            "layout": "row"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p053-mul-3",
+      "qr": "M3-p53-a",
+      "code": "LSA8F6AH",
+      "type": "work_it_out",
+      "title": "উপর-নিচ ও পাশাপাশি গুণ করি (৩)",
+      "chapter": "অধ্যায় ৫ · গুণ",
+      "page": 53,
+      "configuration": {
+        "fresh": {
+          "skill": "mulcol",
+          "count": 5,
+          "digits": 2,
+          "carry": "yes"
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 43,
+            "op": "×",
+            "b": 3,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 67,
+            "op": "×",
+            "b": 3,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 62,
+            "op": "×",
+            "b": 4,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 41,
+            "op": "×",
+            "b": 5,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 72,
+            "op": "×",
+            "b": 3,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 37,
+            "op": "×",
+            "b": 5,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 32,
+            "op": "×",
+            "b": 8,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 68,
+            "op": "×",
+            "b": 4,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 79,
+            "op": "×",
+            "b": 2,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 95,
+            "op": "×",
+            "b": 6,
+            "layout": "row"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p054-mul-3digit-1",
+      "qr": "M3-p54-a",
+      "code": "LS5PCXRM",
+      "type": "work_it_out",
+      "title": "তিন অঙ্কের সংখ্যা গুণ করি (১)",
+      "chapter": "অধ্যায় ৫ · গুণ",
+      "page": 54,
+      "configuration": {
+        "fresh": {
+          "skill": "mulcol",
+          "count": 5,
+          "digits": 3,
+          "carry": "no"
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 231,
+            "op": "×",
+            "b": 3,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 121,
+            "op": "×",
+            "b": 4,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 314,
+            "op": "×",
+            "b": 2,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 232,
+            "op": "×",
+            "b": 3,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 423,
+            "op": "×",
+            "b": 2,
+            "layout": "column"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": [
+          "অনুশীলনের গুণগুলো বইয়ে পাশাপাশি দেওয়া; খেলায় উপর-নিচ করে গুণ করি, যেমন বইয়ের উদাহরণে।"
+        ]
+      }
+    },
+    {
+      "key": "m3-p055-mul-3digit-2",
+      "qr": "M3-p55-a",
+      "code": "LSAAE4P3",
+      "type": "work_it_out",
+      "title": "তিন অঙ্কের সংখ্যা গুণ করি (২)",
+      "chapter": "অধ্যায় ৫ · গুণ",
+      "page": 55,
+      "configuration": {
+        "fresh": {
+          "skill": "mulcol",
+          "count": 5,
+          "digits": 3,
+          "carry": "yes"
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 286,
+            "op": "×",
+            "b": 4,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 162,
+            "op": "×",
+            "b": 3,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 273,
+            "op": "×",
+            "b": 2,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 153,
+            "op": "×",
+            "b": 5,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 249,
+            "op": "×",
+            "b": 4,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 912,
+            "op": "×",
+            "b": 3,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 651,
+            "op": "×",
+            "b": 4,
+            "layout": "column"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": [
+          "অনুশীলনের গুণগুলো বইয়ে পাশাপাশি দেওয়া; খেলায় উপর-নিচ করে গুণ করি, যেমন বইয়ের উদাহরণে।"
+        ]
+      }
+    },
+    {
+      "key": "m3-p055-mul-3digit-3",
+      "qr": "M3-p55-b",
+      "code": "LSY42TFY",
+      "type": "work_it_out",
+      "title": "তিন অঙ্কের সংখ্যা গুণ করি (৩)",
+      "chapter": "অধ্যায় ৫ · গুণ",
+      "page": 55,
+      "configuration": {
+        "fresh": {
+          "skill": "mulcol",
+          "count": 5,
+          "digits": 3,
+          "carry": "yes"
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 276,
+            "op": "×",
+            "b": 7,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 475,
+            "op": "×",
+            "b": 8,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 604,
+            "op": "×",
+            "b": 8,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 207,
+            "op": "×",
+            "b": 5,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 820,
+            "op": "×",
+            "b": 7,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 380,
+            "op": "×",
+            "b": 6,
+            "layout": "column"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": [
+          "অনুশীলনের গুণগুলো বইয়ে পাশাপাশি দেওয়া; খেলায় উপর-নিচ করে গুণ করি, যেমন বইয়ের উদাহরণে।"
+        ]
+      }
+    },
+    {
+      "key": "m3-p056-tens-2",
+      "qr": "M3-p56-a",
+      "code": "LS7BM6DR",
+      "type": "work_it_out",
+      "title": "২০, ৩০, ৪০ … দিয়ে গুণ করি (২)",
+      "chapter": "অধ্যায় ৫ · গুণ",
+      "page": 56,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "word",
+            "text": "একটি শ্রেণিতে ৩০টি বেঞ্চ আছে। প্রতিটি বেঞ্চে ৪ জন শিক্ষার্থী বসতে পারে। তাহলে ৩০টি বেঞ্চে কতজন শিক্ষার্থী বসতে পারবে?",
+            "sum": "4 × 30",
+            "unit": "জন"
+          },
+          {
+            "kind": "sum",
+            "a": 2,
+            "op": "×",
+            "b": 4,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 20,
+            "op": "×",
+            "b": 4,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 20,
+            "op": "×",
+            "b": 40,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 3,
+            "op": "×",
+            "b": 20,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 7,
+            "op": "×",
+            "b": 40,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 8,
+            "op": "×",
+            "b": 60,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 4,
+            "op": "×",
+            "b": 50,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 12,
+            "op": "×",
+            "b": 30,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 25,
+            "op": "×",
+            "b": 20,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 30,
+            "op": "×",
+            "b": 50,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 60,
+            "op": "×",
+            "b": 70,
+            "layout": "row"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": [
+          "কাজ ১: বইয়ে ২০ × ৪০ এর ঘরের নিচে “২ × ৪ = ১২” ছাপা হয়েছে; সঠিক হলো ২ × ৪ = ৮।"
+        ]
+      }
+    },
+    {
+      "key": "m3-p058-mul-2digit-1",
+      "qr": "M3-p58-a",
+      "code": "LSXRTGUX",
+      "type": "work_it_out",
+      "title": "দুই অঙ্কের সংখ্যা দিয়ে গুণ করি (১)",
+      "chapter": "অধ্যায় ৫ · গুণ",
+      "page": 58,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "word",
+            "text": "মিনা ১৩টি পেনসিল কিনেছে। যদি প্রতিটি পেনসিলের দাম ২১ টাকা হয়, তবে সবগুলো পেনসিলের মোট দাম কত হবে?",
+            "sum": "21 × 13",
+            "unit": "টাকা"
+          },
+          {
+            "kind": "grid",
+            "rows": [
+              10,
+              3
+            ],
+            "cols": [
+              20,
+              1
+            ]
+          },
+          {
+            "kind": "sum",
+            "a": 21,
+            "op": "×",
+            "b": 13,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 12,
+            "op": "×",
+            "b": 24,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 63,
+            "op": "×",
+            "b": 16,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 30,
+            "op": "×",
+            "b": 23,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 41,
+            "op": "×",
+            "b": 23,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 25,
+            "op": "×",
+            "b": 24,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 17,
+            "op": "×",
+            "b": 42,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 15,
+            "op": "×",
+            "b": 36,
+            "layout": "column"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": [
+          "অনুশীলন ২ এর গুণগুলো বইয়ে পাশাপাশি দেওয়া; খেলায় উপর-নিচ করে গুণ করি, যেমন পৃষ্ঠা ৫৮ এর উদাহরণে।"
+        ]
+      }
+    },
+    {
+      "key": "m3-p059-mul-2digit-2",
+      "qr": "M3-p59-a",
+      "code": "LSHHC6XQ",
+      "type": "work_it_out",
+      "title": "দুই অঙ্কের সংখ্যা দিয়ে গুণ করি (২)",
+      "chapter": "অধ্যায় ৫ · গুণ",
+      "page": 59,
+      "configuration": {
+        "fresh": {
+          "skill": "mul2",
+          "count": 5,
+          "digits": 2
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 43,
+            "op": "×",
+            "b": 35,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 36,
+            "op": "×",
+            "b": 53,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 37,
+            "op": "×",
+            "b": 40,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 17,
+            "op": "×",
+            "b": 68,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 91,
+            "op": "×",
+            "b": 25,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 54,
+            "op": "×",
+            "b": 20,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 27,
+            "op": "×",
+            "b": 60,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 95,
+            "op": "×",
+            "b": 27,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 59,
+            "op": "×",
+            "b": 29,
+            "layout": "column"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": [
+          "৩৭ × ৪০: বইয়ে দ্বিতীয় সারির ১৪৮ এক ঘর বামে সরিয়ে লেখা, ০ ছাড়া। খেলায় পৃষ্ঠা ৫৮ এর মতো ০ বসিয়ে ১৪৮০ লিখি; গুণফল একই, ১৪৮০।"
+        ]
+      }
+    },
+    {
+      "key": "m3-p059-mul-2digit-3",
+      "qr": "M3-p59-b",
+      "code": "LSC9JSC4",
+      "type": "work_it_out",
+      "title": "দুই অঙ্কের সংখ্যা দিয়ে গুণ করি (৩)",
+      "chapter": "অধ্যায় ৫ · গুণ",
+      "page": 59,
+      "configuration": {
+        "fresh": {
+          "skill": "mul2",
+          "count": 5,
+          "digits": 2
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 35,
+            "op": "×",
+            "b": 57,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 81,
+            "op": "×",
+            "b": 49,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 25,
+            "op": "×",
+            "b": 64,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 48,
+            "op": "×",
+            "b": 96,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 12,
+            "op": "×",
+            "b": 30,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 38,
+            "op": "×",
+            "b": 20,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 87,
+            "op": "×",
+            "b": 50,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 70,
+            "op": "×",
+            "b": 80,
+            "layout": "column"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": [
+          "অনুশীলনের গুণগুলো বইয়ে পাশাপাশি দেওয়া; খেলায় উপর-নিচ করে গুণ করি, যেমন বইয়ের উদাহরণে।"
+        ]
+      }
+    },
+    {
+      "key": "m3-p060-mul-3by2-1",
+      "qr": "M3-p60-a",
+      "code": "LSHXEXUE",
+      "type": "work_it_out",
+      "title": "তিন অঙ্কের সংখ্যাকে দুই অঙ্কের সংখ্যা দিয়ে গুণ করি (১)",
+      "chapter": "অধ্যায় ৫ · গুণ",
+      "page": 60,
+      "configuration": {
+        "fresh": {
+          "skill": "mul2",
+          "count": 5,
+          "digits": 3
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 367,
+            "op": "×",
+            "b": 25,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 213,
+            "op": "×",
+            "b": 23,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 163,
+            "op": "×",
+            "b": 47,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 264,
+            "op": "×",
+            "b": 27,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 314,
+            "op": "×",
+            "b": 26,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 367,
+            "op": "×",
+            "b": 32,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 685,
+            "op": "×",
+            "b": 83,
+            "layout": "column"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": [
+          "অনুশীলনের গুণগুলো বইয়ে পাশাপাশি দেওয়া; খেলায় উপর-নিচ করে গুণ করি, যেমন বইয়ের উদাহরণে।"
+        ]
+      }
+    },
+    {
+      "key": "m3-p060-mul-3by2-2",
+      "qr": "M3-p60-b",
+      "code": "LSBBDCPD",
+      "type": "work_it_out",
+      "title": "তিন অঙ্কের সংখ্যাকে দুই অঙ্কের সংখ্যা দিয়ে গুণ করি (২)",
+      "chapter": "অধ্যায় ৫ · গুণ",
+      "page": 60,
+      "configuration": {
+        "fresh": {
+          "skill": "mul2",
+          "count": 5,
+          "digits": 3
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 517,
+            "op": "×",
+            "b": 43,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 528,
+            "op": "×",
+            "b": 79,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 404,
+            "op": "×",
+            "b": 42,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 203,
+            "op": "×",
+            "b": 54,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 309,
+            "op": "×",
+            "b": 85,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 708,
+            "op": "×",
+            "b": 26,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 502,
+            "op": "×",
+            "b": 63,
+            "layout": "column"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": [
+          "অনুশীলনের গুণগুলো বইয়ে পাশাপাশি দেওয়া; খেলায় উপর-নিচ করে গুণ করি, যেমন বইয়ের উদাহরণে।"
+        ]
+      }
+    },
+    {
+      "key": "m3-p061-tick-right-answer",
+      "qr": "M3-p61-a",
+      "code": "LSGCZ2UP",
+      "type": "mcq",
+      "title": "সঠিক উত্তরের পাশে টিক (✓) চিহ্ন দিই",
+      "chapter": "অধ্যায় ৫ · গুণ",
+      "page": 61,
+      "configuration": {},
+      "content": {
+        "questions": [
+          {
+            "prompt": "৫০০ × ৩০ এর গুণফল নিচের কোনটি?",
+            "options": [
+              "১৫০",
+              "১৫০০",
+              "১৫০০০",
+              "১৫০০০০"
+            ],
+            "answer": 2,
+            "why": "৫ × ৩ = ১৫। ৫০০ × ৩০ এ মোট ৩টি শূন্য, তাই গুণফল ১৫০০০।"
+          },
+          {
+            "prompt": "১৭২ × ৫০ এর গুণফল নিচের কোনটি?",
+            "options": [
+              "৫৫০০",
+              "৮৫০০",
+              "৮৬০০",
+              "১৭২৫০"
+            ],
+            "answer": 2,
+            "why": "১৭২ × ৫ = ৮৬০, তাই ১৭২ × ৫০ = ৮৬০ এর ১০ গুণ = ৮৬০০।"
+          },
+          {
+            "prompt": "নিচের কোনটির গুণফল ৭০ × ৫০ এর সমান",
+            "options": [
+              "৭ × ৫",
+              "৭ × ৫০",
+              "৭০ × ৫",
+              "৫০ × ৭০"
+            ],
+            "answer": 3,
+            "why": "গুণ্য ও গুণক স্থান বিনিময় করলেও গুণফল একই থাকে: ৭০ × ৫০ = ৫০ × ৭০ = ৩৫০০।"
+          },
+          {
+            "prompt": "৩ × ৭ = ২১ এ গুণক কোনটি?",
+            "options": [
+              "৩",
+              "২১",
+              "৭"
+            ],
+            "answer": 2,
+            "why": "গুণের ক্ষেত্রে প্রথম সংখ্যাটি হলো গুণ্য এবং দ্বিতীয় সংখ্যাটি হলো গুণক। এখানে ৩ গুণ্য, ৭ গুণক।"
+          },
+          {
+            "prompt": "৩ × ৭ = ২১ এ ২১ কে কী বলে?",
+            "options": [
+              "গুণক",
+              "গুণ্য",
+              "গুণফল"
+            ],
+            "answer": 2,
+            "why": "গুণ্য × গুণক = গুণফল। ৩ × ৭ = ২১, তাই ২১ হলো গুণফল।"
+          },
+          {
+            "prompt": "গুণক ১ করে বৃদ্ধি পেলে গুণফল কত করে বৃদ্ধি পায়?",
+            "options": [
+              "১ করে",
+              "গুণকের সমান",
+              "গুণ্যের সমান"
+            ],
+            "answer": 2,
+            "why": "৬ × ৪ = ২৪, ৬ × ৫ = ৩০: গুণক ১ বাড়লে গুণফল ৬ বাড়ে, গুণ্যের সমান।"
+          },
+          {
+            "prompt": "গুণক ১ করে কমে গেলে গুণফল কত করে কমে যায়?",
+            "options": [
+              "১ করে",
+              "গুণকের সমান",
+              "গুণ্যের সমান"
+            ],
+            "answer": 2,
+            "why": "৬ × ৬ = ৩৬, ৬ × ৫ = ৩০: গুণক ১ কমলে গুণফল ৬ কমে, গুণ্যের সমান।"
+          },
+          {
+            "prompt": "৮ × ৬ এর গুণফল নিচের কোনটির সমান?",
+            "options": [
+              "৮ × ৩ + ৬",
+              "৩ + ৫ × ৬",
+              "৩ × ৬ + ৫",
+              "৩ × ৬ + ৫ × ৬"
+            ],
+            "answer": 3,
+            "why": "গুণ্য ৮ কে ৩ ও ৫ এ ভেঙ্গে লিখি: ৩ × ৬ = ১৮, ৫ × ৬ = ৩০, একত্রে ৪৮ = ৮ × ৬।"
+          },
+          {
+            "prompt": "২০ সংখ্যাটিতে ২টি দশ আছে। ২০ × ৪ এর উত্তর কতটি দশ?",
+            "options": [
+              "৮০ দশ",
+              "২ দশ",
+              "৮ দশ",
+              "৬ দশ"
+            ],
+            "answer": 2,
+            "why": "২ × ৪ = ৮, তাই ২০ × ৪ = ৮ দশ = ৮০।"
+          },
+          {
+            "prompt": "২১ × ১৩ উপর-নিচ গুণ করতে দ্বিতীয় সারিতে ২১ × ১ কে কীভাবে লিখি?",
+            "options": [
+              "২১০",
+              "২১",
+              "২১০০"
+            ],
+            "answer": 0,
+            "why": "১৩ এর ১ হলো ১ দশ: ২১ × ১০ = ২১০। তাই ২১ এক ঘর বামে সরে যায়।"
+          },
+          {
+            "prompt": "৪ × ৩০ এর গুণফল ৪ × ৩ এর গুণফলের কত গুণ?",
+            "options": [
+              "৩ গুণ",
+              "৩০ গুণ",
+              "১০ গুণ",
+              "১০০ গুণ"
+            ],
+            "answer": 2,
+            "why": "৪ × ৩ = ১২ এবং ৪ × ৩০ = ১২০। ১২০ হলো ১২ এর ১০ গুণ।"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p061-nije-2",
+      "qr": "M3-p61-b",
+      "code": "LSJ2RZ58",
+      "type": "work_it_out",
+      "title": "নিজে করি: গুণ করি (১)",
+      "chapter": "অধ্যায় ৫ · গুণ",
+      "page": 61,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 15,
+            "op": "×",
+            "b": 5,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 18,
+            "op": "×",
+            "b": 9,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 53,
+            "op": "×",
+            "b": 8,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 75,
+            "op": "×",
+            "b": 6,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 21,
+            "op": "×",
+            "b": 31,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 48,
+            "op": "×",
+            "b": 93,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 121,
+            "op": "×",
+            "b": 31,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 495,
+            "op": "×",
+            "b": 14,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 284,
+            "op": "×",
+            "b": 28,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 269,
+            "op": "×",
+            "b": 35,
+            "layout": "column"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": [
+          "(৫)–(১০) বইয়ে পাশাপাশি দেওয়া; খেলায় উপর-নিচ করে গুণ করি।"
+        ]
+      }
+    },
+    {
+      "key": "m3-p061-nije-3",
+      "qr": "M3-p61-c",
+      "code": "LSRZCJWM",
+      "type": "work_it_out",
+      "title": "নিজে করি: গুণ করি (২)",
+      "chapter": "অধ্যায় ৫ · গুণ",
+      "page": 61,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 14,
+            "op": "×",
+            "b": 2,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 56,
+            "op": "×",
+            "b": 6,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 90,
+            "op": "×",
+            "b": 5,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 36,
+            "op": "×",
+            "b": 48,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 28,
+            "op": "×",
+            "b": 73,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 89,
+            "op": "×",
+            "b": 64,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 121,
+            "op": "×",
+            "b": 23,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 305,
+            "op": "×",
+            "b": 7,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 486,
+            "op": "×",
+            "b": 9,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 210,
+            "op": "×",
+            "b": 20,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 373,
+            "op": "×",
+            "b": 28,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 298,
+            "op": "×",
+            "b": 35,
+            "layout": "column"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p062-stories",
+      "qr": "M3-p62-a",
+      "code": "LSEEVV8E",
+      "type": "work_it_out",
+      "title": "নিজে করি: গুণের গল্প",
+      "chapter": "অধ্যায় ৫ · গুণ",
+      "page": 62,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "word",
+            "text": "রেজা তিন প্যাকেট বিস্কুট কিনতে চায়। এক প্যাকেটের দাম ২৩ টাকা। এজন্য তার কত টাকার প্রয়োজন?",
+            "sum": "23 × 3",
+            "unit": "টাকা"
+          },
+          {
+            "kind": "word",
+            "text": "তন্দ্রা চাকমা গাড়ি চালিয়ে ঘণ্টায় ৪৫ কিলোমিটার যান। একই গতিতে ৮ ঘণ্টায় তিনি কত কিলোমিটার যাবেন?",
+            "sum": "45 × 8",
+            "unit": "কিলোমিটার"
+          },
+          {
+            "kind": "word",
+            "text": "৪টিতে ১ হালি হয়। ৫ হালিতে কতগুলো হবে?",
+            "sum": "4 × 5",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "যদি এক গুচ্ছে ৬টি ফুল থাকে, তবে এরকম ৮ গুচ্ছে কয়টি ফুল থাকবে?",
+            "sum": "6 × 8",
+            "unit": "টি ফুল"
+          },
+          {
+            "kind": "word",
+            "text": "তাসকিয়া প্রতিদিন ৪ ঘণ্টা করে বই পড়ে। এক সপ্তাহে সে কত ঘণ্টা বই পড়ে?",
+            "sum": "4 × 7",
+            "unit": "ঘণ্টা"
+          },
+          {
+            "kind": "word",
+            "text": "এক দিস্তা কাগজে ২৪ তা থাকে। ১২ দিস্তায় কত তা কাগজ থাকবে?",
+            "sum": "24 × 12",
+            "unit": "তা"
+          },
+          {
+            "kind": "word",
+            "text": "১০০ পয়সায় ১ টাকা হয়। ১০ টাকায় কত পয়সা হবে?",
+            "sum": "100 × 10",
+            "unit": "পয়সা"
+          },
+          {
+            "kind": "word",
+            "text": "একটি বইয়ে ১৩০ পৃষ্ঠা আছে। এরূপ ২৮টি বইয়ে কত পৃষ্ঠা আছে?",
+            "sum": "130 × 28",
+            "unit": "পৃষ্ঠা"
+          },
+          {
+            "kind": "word",
+            "text": "মিলির টাকার ১৪ গুণ টাকা মুন্নীর কাছে আছে। মিলির কাছে যদি ২২৫ টাকা থাকে, তবে মুন্নীর কাছে কত টাকা আছে?",
+            "sum": "225 × 14",
+            "unit": "টাকা"
+          },
+          {
+            "kind": "word",
+            "text": "একটি ইলিশ মাছের দাম ৭৫০ টাকা। এরূপ ২০টি ইলিশ মাছের দাম কত?",
+            "sum": "750 × 20",
+            "unit": "টাকা"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": [
+          "নিজে করি ৬: ১ সপ্তাহ = ৭ দিন।"
+        ]
+      }
+    }
+  ]
+}

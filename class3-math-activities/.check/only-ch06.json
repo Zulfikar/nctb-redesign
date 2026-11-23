@@ -1,0 +1,1222 @@
+{
+  "format": "ebidyaloy-activity-import",
+  "version": 1,
+  "book": {
+    "title": "প্রাথমিক গণিত - ক্লাস থ্রি",
+    "edition": "bn",
+    "editionName": "বাংলা",
+    "language": "bn",
+    "base": true,
+    "chapters": [
+      "অধ্যায় ১ · সংখ্যা",
+      "অধ্যায় ২ · যোগ",
+      "অধ্যায় ৩ · বিয়োগ",
+      "অধ্যায় ৪ · যোগ ও বিয়োগের সম্পর্ক",
+      "অধ্যায় ৫ · গুণ",
+      "অধ্যায় ৬ · ভাগ",
+      "অধ্যায় ৭ · গুণ ও ভাগের সম্পর্ক",
+      "অধ্যায় ৮ · যোগ, বিয়োগ, গুণ ও ভাগসংক্রান্ত সমস্যা",
+      "অধ্যায় ৯ · ভগ্নাংশ",
+      "অধ্যায় ১০ · বাংলাদেশি মুদ্রা",
+      "অধ্যায় ১১ · পরিমাপ",
+      "অধ্যায় ১২ · জ্যামিতি",
+      "অধ্যায় ১৩ · উপাত্ত সংগ্রহ ও বিন্যস্তকরণ"
+    ]
+  },
+  "activities": [
+    {
+      "key": "m3-p064-share-equally",
+      "qr": "M3-p64-a",
+      "code": "LSSAMUZZ",
+      "type": "equal_groups",
+      "title": "প্রত্যেকে কয়টি করে পাবে?",
+      "chapter": "অধ্যায় ৬ · ভাগ",
+      "page": 64,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "groups",
+            "total": 12,
+            "groups": 3,
+            "emoji": "🍪"
+          },
+          {
+            "kind": "groups",
+            "total": 6,
+            "groups": 3,
+            "emoji": "🍊"
+          },
+          {
+            "kind": "groups",
+            "total": 3,
+            "groups": 3,
+            "emoji": "🍊"
+          },
+          {
+            "kind": "groups",
+            "total": 18,
+            "groups": 6,
+            "emoji": "🍫"
+          },
+          {
+            "kind": "groups",
+            "total": 20,
+            "groups": 5,
+            "emoji": "🍌"
+          },
+          {
+            "kind": "groups",
+            "total": 15,
+            "groups": 3,
+            "emoji": "🍪"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p067-how-many-children",
+      "qr": "M3-p67-a",
+      "code": "LSFXG5F7",
+      "type": "equal_groups",
+      "title": "কতজনকে দেওয়া যাবে?",
+      "chapter": "অধ্যায় ৬ · ভাগ",
+      "page": 67,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "groups",
+            "ask": "plates",
+            "total": 12,
+            "each": 3,
+            "emoji": "🍪"
+          },
+          {
+            "kind": "groups",
+            "ask": "plates",
+            "total": 18,
+            "each": 6,
+            "emoji": "🍫"
+          },
+          {
+            "kind": "groups",
+            "ask": "plates",
+            "total": 20,
+            "each": 5,
+            "emoji": "🍌"
+          },
+          {
+            "kind": "groups",
+            "ask": "plates",
+            "total": 15,
+            "each": 3,
+            "emoji": "🍪"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p068-stories",
+      "qr": "M3-p68-a",
+      "code": "LSDJ98KU",
+      "type": "work_it_out",
+      "title": "ভাগের গল্প",
+      "chapter": "অধ্যায় ৬ · ভাগ",
+      "page": 68,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "word",
+            "text": "যদি ৪৮টি কাগজ ৮ জন শিশুকে সমানভাবে ভাগ করে দেওয়া হয়, তবে প্রত্যেক শিশু কয়টি করে কাগজ পাবে?",
+            "sum": "48 ÷ 8",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "বাবার কাছে ৬৩ টাকা আছে। তিনি এই টাকা তাঁর পরিবারের ৭ জনকে সমানভাবে দিতে চান। প্রত্যেকে কত টাকা করে পাবে?",
+            "sum": "63 ÷ 7",
+            "unit": "টাকা"
+          },
+          {
+            "kind": "word",
+            "text": "১ হালি ডিমের দাম ৪৮ টাকা হলে ১টি ডিমের দাম কত? [১ হালি = ৪টি]",
+            "sum": "48 ÷ 4",
+            "unit": "টাকা"
+          },
+          {
+            "kind": "word",
+            "text": "আমরা কয়েকজন শিশুকে ৩২টি লিচু ভাগ করে দিলাম। প্রত্যেক শিশু ৮টি করে লিচু পেল। কতজন শিশুকে লিচু দেওয়া হয়েছে?",
+            "sum": "32 ÷ 8",
+            "unit": "জন"
+          },
+          {
+            "kind": "word",
+            "text": "একটি বিদ্যালয়ে শিক্ষার্থীদের পুরস্কারের জন্য ৪৫টি খাতা আছে। যদি প্রত্যেক শিক্ষার্থীকে ৫টি করে খাতা দেওয়া হয়, তবে কতজন শিক্ষার্থী পুরস্কার পাবে?",
+            "sum": "45 ÷ 5",
+            "unit": "জন"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p069-by-the-table",
+      "qr": "M3-p69-a",
+      "code": "LS5JW4H5",
+      "type": "work_it_out",
+      "title": "গুণের নামতা ব্যবহার করে ভাগ করি",
+      "chapter": "অধ্যায় ৬ · ভাগ",
+      "page": 69,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 3,
+            "op": "×",
+            "b": 5,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 4,
+            "op": "×",
+            "b": 5,
+            "layout": "row"
+          },
+          {
+            "kind": "missing",
+            "text": "□ × 5 = 20"
+          },
+          {
+            "kind": "sum",
+            "a": 20,
+            "op": "÷",
+            "b": 5,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 5,
+            "op": "×",
+            "b": 3,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 5,
+            "op": "×",
+            "b": 4,
+            "layout": "row"
+          },
+          {
+            "kind": "missing",
+            "text": "2 × □ = 16"
+          },
+          {
+            "kind": "sum",
+            "a": 16,
+            "op": "÷",
+            "b": 2,
+            "layout": "row"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p069-divide-1",
+      "qr": "M3-p69-b",
+      "code": "LST8BHFX",
+      "type": "work_it_out",
+      "title": "ভাগ করি (১)",
+      "chapter": "অধ্যায় ৬ · ভাগ",
+      "page": 69,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 3,
+            "op": "÷",
+            "b": 1,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 6,
+            "op": "÷",
+            "b": 1,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 12,
+            "op": "÷",
+            "b": 2,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 2,
+            "op": "÷",
+            "b": 2,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 18,
+            "op": "÷",
+            "b": 2,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 20,
+            "op": "÷",
+            "b": 2,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 9,
+            "op": "÷",
+            "b": 3,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 12,
+            "op": "÷",
+            "b": 3,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 6,
+            "op": "÷",
+            "b": 3,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 3,
+            "op": "÷",
+            "b": 3,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 21,
+            "op": "÷",
+            "b": 3,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 27,
+            "op": "÷",
+            "b": 3,
+            "layout": "row"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p069-divide-2",
+      "qr": "M3-p69-c",
+      "code": "LSTZ2G4A",
+      "type": "work_it_out",
+      "title": "ভাগ করি (২)",
+      "chapter": "অধ্যায় ৬ · ভাগ",
+      "page": 69,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 16,
+            "op": "÷",
+            "b": 4,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 20,
+            "op": "÷",
+            "b": 4,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 40,
+            "op": "÷",
+            "b": 4,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 32,
+            "op": "÷",
+            "b": 4,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 15,
+            "op": "÷",
+            "b": 5,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 30,
+            "op": "÷",
+            "b": 5,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 45,
+            "op": "÷",
+            "b": 5,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 10,
+            "op": "÷",
+            "b": 5,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 18,
+            "op": "÷",
+            "b": 6,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 6,
+            "op": "÷",
+            "b": 6,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 42,
+            "op": "÷",
+            "b": 6,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 54,
+            "op": "÷",
+            "b": 6,
+            "layout": "row"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p069-divide-3",
+      "qr": "M3-p69-d",
+      "code": "LSGRWANB",
+      "type": "work_it_out",
+      "title": "ভাগ করি (৩)",
+      "chapter": "অধ্যায় ৬ · ভাগ",
+      "page": 69,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 42,
+            "op": "÷",
+            "b": 7,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 70,
+            "op": "÷",
+            "b": 7,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 28,
+            "op": "÷",
+            "b": 7,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 14,
+            "op": "÷",
+            "b": 7,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 72,
+            "op": "÷",
+            "b": 8,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 32,
+            "op": "÷",
+            "b": 8,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 16,
+            "op": "÷",
+            "b": 8,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 40,
+            "op": "÷",
+            "b": 8,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 27,
+            "op": "÷",
+            "b": 9,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 9,
+            "op": "÷",
+            "b": 9,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 81,
+            "op": "÷",
+            "b": 9,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 54,
+            "op": "÷",
+            "b": 9,
+            "layout": "row"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p071-tick",
+      "qr": "M3-p71-a",
+      "code": "LSUMBGMG",
+      "type": "mcq",
+      "title": "সঠিক উত্তরটিতে টিক (✓) চিহ্ন দিই",
+      "chapter": "অধ্যায় ৬ · ভাগ",
+      "page": 71,
+      "configuration": {},
+      "content": {
+        "questions": [
+          {
+            "prompt": "৮০টি রঙিন কাগজ দিয়ে ১০টি করে কাগজের ৮টি বান্ডেল আছে। ৪ জন শিশুকে সমানভাবে ভাগ করে দিলে প্রত্যেক শিশু কয়টি বান্ডেল পাবে?",
+            "options": [
+              "২০টি",
+              "৮টি",
+              "৪টি",
+              "২টি"
+            ],
+            "answer": 3,
+            "why": "৮ ÷ ৪ = ২। প্রত্যেকে ২টি বান্ডেল, অর্থাৎ ৮০ ÷ ৪ = ২০টি কাগজ পাবে।"
+          },
+          {
+            "prompt": "১২ থেকে ৩ বিয়োগ করা যায় … বার",
+            "options": [
+              "৪",
+              "২",
+              "৩"
+            ],
+            "answer": 0,
+            "why": "১২ − ৩ = ৯, ৯ − ৩ = ৬, ৬ − ৩ = ৩, ৩ − ৩ = ০: মোট ৪ বার। তাই ১২ ÷ ৩ = ৪"
+          },
+          {
+            "prompt": "২৭ কে ৯ দিয়ে ভাগ করলে ভাগফল …",
+            "options": [
+              "৩",
+              "৪",
+              "৫"
+            ],
+            "answer": 0,
+            "why": "৯ × ৩ = ২৭, তাই ২৭ ÷ ৯ = ৩"
+          },
+          {
+            "prompt": "১০ বার ১০ যোগ করলে পাওয়া যায় …",
+            "options": [
+              "৯০",
+              "১০০",
+              "১১০"
+            ],
+            "answer": 1,
+            "why": "১০ বার ১০ যোগ = ১০ × ১০ = ১০০"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p072-tens-and-ones",
+      "qr": "M3-p72-a",
+      "code": "LSHE8DHH",
+      "type": "work_it_out",
+      "title": "দশক ও একক আলাদা করে ভাগ করি",
+      "chapter": "অধ্যায় ৬ · ভাগ",
+      "page": 72,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "word",
+            "text": "৮০টি রঙিন কাগজ আছে। যদি এই কাগজগুলো ৪ জন শিশুকে সমানভাবে ভাগ করে দেওয়া হয়, তবে প্রত্যেকে কয়টি করে কাগজ পাবে?",
+            "sum": "80 ÷ 4",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "৯০টি কমলা আছে। যদি কমলাগুলো ৩ জন শিশুর মধ্যে সমানভাবে ভাগ করে দেওয়া হয়, তাহলে প্রত্যেক শিশু কয়টি করে কমলা পাবে?",
+            "sum": "90 ÷ 3",
+            "unit": "টি"
+          },
+          {
+            "kind": "sum",
+            "a": 60,
+            "op": "÷",
+            "b": 2,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 50,
+            "op": "÷",
+            "b": 5,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 60,
+            "op": "÷",
+            "b": 3,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 80,
+            "op": "÷",
+            "b": 2,
+            "layout": "row"
+          },
+          {
+            "kind": "word",
+            "text": "৮৪টি রঙিন কাগজ আছে। যদি এই কাগজগুলো ৪ জন শিশুকে সমানভাবে ভাগ করে দেওয়া হয়, তবে প্রত্যেকে কয়টি করে কাগজ পাবে?",
+            "sum": "80 ÷ 4 + 4 ÷ 4",
+            "unit": "টি"
+          },
+          {
+            "kind": "sum",
+            "a": 36,
+            "op": "÷",
+            "b": 3,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 86,
+            "op": "÷",
+            "b": 2,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 69,
+            "op": "÷",
+            "b": 3,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 77,
+            "op": "÷",
+            "b": 7,
+            "layout": "row"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p073-leftover",
+      "qr": "M3-p73-a",
+      "code": "LS78D636",
+      "type": "equal_groups",
+      "title": "সমানভাবে ভাগ করি, কয়টি অবশিষ্ট থাকে?",
+      "chapter": "অধ্যায় ৬ · ভাগ",
+      "page": 73,
+      "configuration": {
+        "fresh": {
+          "skill": "groups",
+          "count": 5
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "groups",
+            "total": 14,
+            "groups": 4,
+            "emoji": "🍊"
+          },
+          {
+            "kind": "groups",
+            "ask": "plates",
+            "total": 19,
+            "each": 3,
+            "emoji": "🍫"
+          },
+          {
+            "kind": "groups",
+            "total": 9,
+            "groups": 2,
+            "emoji": "🍎"
+          },
+          {
+            "kind": "groups",
+            "total": 14,
+            "groups": 3,
+            "emoji": "🍎"
+          },
+          {
+            "kind": "groups",
+            "total": 26,
+            "groups": 5,
+            "emoji": "🍎"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p074-remainder",
+      "qr": "M3-p74-a",
+      "code": "LSHEN2CS",
+      "type": "work_it_out",
+      "title": "ভাগ করি: ভাগফল ও ভাগশেষ",
+      "chapter": "অধ্যায় ৬ · ভাগ",
+      "page": 74,
+      "configuration": {
+        "fresh": {
+          "skill": "divrem",
+          "count": 5
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "divrem",
+            "a": 9,
+            "b": 2,
+            "ask": "row"
+          },
+          {
+            "kind": "divrem",
+            "a": 14,
+            "b": 3,
+            "ask": "row"
+          },
+          {
+            "kind": "divrem",
+            "a": 26,
+            "b": 5,
+            "ask": "row"
+          },
+          {
+            "kind": "divrem",
+            "a": 75,
+            "b": 9,
+            "ask": "row"
+          },
+          {
+            "kind": "divrem",
+            "a": 67,
+            "b": 10,
+            "ask": "row"
+          },
+          {
+            "kind": "divrem",
+            "a": 52,
+            "b": 7,
+            "ask": "row"
+          },
+          {
+            "kind": "divrem",
+            "a": 71,
+            "b": 8,
+            "ask": "row"
+          },
+          {
+            "kind": "divrem",
+            "a": 41,
+            "b": 6,
+            "ask": "row"
+          },
+          {
+            "kind": "divrem",
+            "a": 30,
+            "b": 4,
+            "text": "৩০ সেমি লম্বা একটি ফিতা আছে। ফিতাটিকে ৪ সেমি করে কয়েকটি টুকরায় কেটে নেওয়া হলো। আমরা ৪ সেমি দৈর্ঘ্যের কয়টি টুকরা পাব? ফিতার কতটুকু অবশিষ্ট থাকবে?",
+            "qUnit": "টুকরা",
+            "rUnit": "সেমি"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p075-arrays",
+      "qr": "M3-p75-a",
+      "code": "LS7QKMGC",
+      "type": "work_it_out",
+      "title": "খালিঘর পূরণ করি: □ = □ × □ + □",
+      "chapter": "অধ্যায় ৬ · ভাগ",
+      "page": 75,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "divrem",
+            "a": 10,
+            "b": 4,
+            "ask": "array"
+          },
+          {
+            "kind": "divrem",
+            "a": 16,
+            "b": 6,
+            "ask": "array"
+          },
+          {
+            "kind": "divrem",
+            "a": 31,
+            "b": 8,
+            "ask": "array"
+          },
+          {
+            "kind": "divrem",
+            "a": 33,
+            "b": 7,
+            "ask": "array"
+          },
+          {
+            "kind": "divrem",
+            "a": 29,
+            "b": 6,
+            "ask": "array"
+          },
+          {
+            "kind": "divrem",
+            "a": 31,
+            "b": 7,
+            "ask": "array"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p076-tick",
+      "qr": "M3-p76-a",
+      "code": "LSE5A2H7",
+      "type": "mcq",
+      "title": "সঠিক উত্তরের পাশে টিক (✓) চিহ্ন দিই",
+      "chapter": "অধ্যায় ৬ · ভাগ",
+      "page": 76,
+      "configuration": {},
+      "content": {
+        "questions": [
+          {
+            "prompt": "২৬ ÷ ৫ এর ক্ষেত্রে ভাগশেষ কত?",
+            "options": [
+              "২৫",
+              "১",
+              "২৬",
+              "৫"
+            ],
+            "answer": 1,
+            "why": "৫ × ৫ = ২৫, ২৬ − ২৫ = ১। তাই ২৬ ÷ ৫ = ৫, অবশিষ্ট ১"
+          },
+          {
+            "prompt": "নিচের কোনটি সঠিক?",
+            "options": [
+              "ভাগশেষ > ভাজক",
+              "ভাগশেষ = ভাজক",
+              "ভাগশেষ < ভাজক",
+              "ভাজক < ভাগশেষ"
+            ],
+            "answer": 2,
+            "why": "ভাগের অবশিষ্ট ভাজক থেকে ছোটো হবে: ভাগশেষ < ভাজক"
+          },
+          {
+            "prompt": "একটি ভাগ এভাবে লেখা: ৭) ৪৩ (৬, ৪৩ এর নিচে ৪২, দাগের নিচে ১। এই ভাগটিতে ভাজ্য কত?",
+            "options": [
+              "১",
+              "৬",
+              "৭",
+              "৪৩"
+            ],
+            "answer": 3,
+            "why": "যে সংখ্যাকে ভাগ করা হয় সেটি ভাজ্য: ৪৩ ÷ ৭ = ৬, অবশিষ্ট ১। ভাজ্য ৪৩"
+          },
+          {
+            "prompt": "১২৫ ÷ ৫ = □, খালিঘরে কত হবে?",
+            "options": [
+              "২১",
+              "২৫",
+              "১২০",
+              "১৩০"
+            ],
+            "answer": 1,
+            "why": "৫ × ২৫ = ১২৫, তাই ১২৫ ÷ ৫ = ২৫"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [
+          {
+            "item": "প্রশ্ন ৩",
+            "subject": "পৃষ্ঠা ৭৬: ৭) ৪৩ (৬ — ৪৩ এর নিচে ৪২, তার নিচে দাগ, দাগের নিচে ১"
+          }
+        ],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p076-divide",
+      "qr": "M3-p76-b",
+      "code": "LSSQTFVR",
+      "type": "work_it_out",
+      "title": "নিজে করি: ভাগ করি",
+      "chapter": "অধ্যায় ৬ · ভাগ",
+      "page": 76,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 8,
+            "op": "÷",
+            "b": 2,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 9,
+            "op": "÷",
+            "b": 3,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 12,
+            "op": "÷",
+            "b": 2,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 21,
+            "op": "÷",
+            "b": 3,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 45,
+            "op": "÷",
+            "b": 5,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 30,
+            "op": "÷",
+            "b": 6,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 64,
+            "op": "÷",
+            "b": 8,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 54,
+            "op": "÷",
+            "b": 9,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 42,
+            "op": "÷",
+            "b": 7,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 35,
+            "op": "÷",
+            "b": 5,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 28,
+            "op": "÷",
+            "b": 4,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 63,
+            "op": "÷",
+            "b": 7,
+            "layout": "row"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p077-stories",
+      "qr": "M3-p77-a",
+      "code": "LSFPBSK8",
+      "type": "work_it_out",
+      "title": "নিজে করি: ভাগের গল্প",
+      "chapter": "অধ্যায় ৬ · ভাগ",
+      "page": 77,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "word",
+            "text": "৮টি আম দুইজনকে সমানভাবে ভাগ করে দেওয়া হলে, প্রত্যেকে কয়টি করে আম পাবে?",
+            "sum": "8 ÷ 2",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "২৪টি লজেন্স ৪ জনকে সমানভাবে ভাগ করে দেওয়া হলে, প্রত্যেকে কয়টি করে লজেন্স পাবে?",
+            "sum": "24 ÷ 4",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "২৭ টাকা ৩ জনকে সমানভাবে ভাগ করে দেওয়া হলে, প্রত্যেকে কত টাকা করে পাবে?",
+            "sum": "27 ÷ 3",
+            "unit": "টাকা"
+          },
+          {
+            "kind": "word",
+            "text": "একটি বেঞ্চে ৫ জন বসে। ৪৫ জনের জন্য কয়টি বেঞ্চের প্রয়োজন হবে?",
+            "sum": "45 ÷ 5",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "নাফিদ ৪০ টাকা দিয়ে কিছু কোয়েল পাখির ডিম কিনল। যদি ১টি ডিমের দাম ৫ টাকা হয়, তবে নাফিদ কয়টি ডিম কিনেছে?",
+            "sum": "40 ÷ 5",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "প্রতিটি দলে ৮ জন করে শিক্ষার্থী নিয়ে দল গঠন করা হলো। যদি ৭২ জন শিক্ষার্থী থাকে, তবে কয়টি দল হবে?",
+            "sum": "72 ÷ 8",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "সাদিদ ৫৪ পৃষ্ঠার একটি বই পড়ছে। যদি সে এক দিনে ৬ পৃষ্ঠা পড়ে, এই বই পড়ে শেষ করতে তার কত দিন সময় লাগবে?",
+            "sum": "54 ÷ 6",
+            "unit": "দিন"
+          },
+          {
+            "kind": "word",
+            "text": "একটি প্যাকেটে ৮টি বিস্কুট আছে। একজন বালিকা বিস্কুটের ২টি প্যাকেট কিনল। সে মোট কতগুলো বিস্কুট কিনল?",
+            "sum": "8 × 2",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "একটি শ্রেণিতে ৪৫ জন শিক্ষার্থী আছে। প্রতি বেঞ্চে ৩ জন করে শিক্ষার্থী বসতে পারে। তাদের বসার জন্য কয়টি বেঞ্চের প্রয়োজন?",
+            "sum": "45 ÷ 3",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "৪৮টি পেয়ারা ৬ জনের মধ্যে সমানভাবে বিতরণ করা হলো। প্রত্যেকে কয়টি করে পেয়ারা পেল?",
+            "sum": "48 ÷ 6",
+            "unit": "টি"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p077-remainder",
+      "qr": "M3-p77-b",
+      "code": "LS7PFDXM",
+      "type": "work_it_out",
+      "title": "নিজে করি: ভাগফল ও ভাগশেষ",
+      "chapter": "অধ্যায় ৬ · ভাগ",
+      "page": 77,
+      "configuration": {
+        "fresh": {
+          "skill": "divrem",
+          "count": 5
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "divrem",
+            "a": 8,
+            "b": 3,
+            "ask": "row"
+          },
+          {
+            "kind": "divrem",
+            "a": 15,
+            "b": 2,
+            "ask": "row"
+          },
+          {
+            "kind": "divrem",
+            "a": 37,
+            "b": 5,
+            "ask": "row"
+          },
+          {
+            "kind": "divrem",
+            "a": 52,
+            "b": 7,
+            "ask": "row"
+          },
+          {
+            "kind": "divrem",
+            "a": 23,
+            "b": 8,
+            "ask": "row"
+          },
+          {
+            "kind": "divrem",
+            "a": 31,
+            "b": 4,
+            "ask": "row"
+          },
+          {
+            "kind": "divrem",
+            "a": 73,
+            "b": 10,
+            "ask": "row"
+          },
+          {
+            "kind": "divrem",
+            "a": 40,
+            "b": 9,
+            "ask": "row"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    }
+  ]
+}

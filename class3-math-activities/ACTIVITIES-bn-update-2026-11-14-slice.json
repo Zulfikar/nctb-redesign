@@ -1,0 +1,439 @@
+{
+  "format": "ebidyaloy-activity-import",
+  "version": 1,
+  "book": {
+    "title": "প্রাথমিক গণিত - ক্লাস থ্রি",
+    "edition": "bn",
+    "editionName": "বাংলা",
+    "language": "bn",
+    "base": true,
+    "chapters": [
+      "অধ্যায় ১ · সংখ্যা",
+      "অধ্যায় ২ · যোগ",
+      "অধ্যায় ৩ · বিয়োগ",
+      "অধ্যায় ৪ · যোগ ও বিয়োগের সম্পর্ক",
+      "অধ্যায় ৫ · গুণ",
+      "অধ্যায় ৬ · ভাগ",
+      "অধ্যায় ৭ · গুণ ও ভাগের সম্পর্ক",
+      "অধ্যায় ৮ · যোগ, বিয়োগ, গুণ ও ভাগসংক্রান্ত সমস্যা",
+      "অধ্যায় ৯ · ভগ্নাংশ",
+      "অধ্যায় ১০ · বাংলাদেশি মুদ্রা",
+      "অধ্যায় ১১ · পরিমাপ",
+      "অধ্যায় ১২ · জ্যামিতি",
+      "অধ্যায় ১৩ · উপাত্ত সংগ্রহ ও বিন্যস্তকরণ"
+    ]
+  },
+  "activities": [
+    {
+      "key": "m3-p091-sl-halves",
+      "qr": "M3-p91-b",
+      "code": "LSH6ADG5",
+      "type": "fraction_slice",
+      "title": "রুটি ভাগ করি: সমান দুই ভাগ",
+      "chapter": "অধ্যায় ৯ · ভগ্নাংশ",
+      "page": 91,
+      "configuration": {},
+      "content": {
+        "rounds": [
+          {
+            "kind": "share",
+            "object": "roti",
+            "d": 2,
+            "text": "একটি রুটি আছে। রুটিটি কীভাবে ভাগ করলে রেজা ও মিনা দুজনেই সমান পরিমাণ পাবে?"
+          },
+          {
+            "kind": "slice",
+            "object": "chocolate",
+            "d": 2
+          },
+          {
+            "kind": "slice",
+            "object": "orange",
+            "d": 2
+          },
+          {
+            "kind": "eat",
+            "object": "watermelon",
+            "d": 2,
+            "eat": 1,
+            "ask": "left"
+          },
+          {
+            "kind": "share",
+            "object": "cake",
+            "d": 2,
+            "text": "রাফি আর তুলি একটি কেক সমান দুই ভাগ করে নেবে।"
+          },
+          {
+            "kind": "slice",
+            "object": "eggs",
+            "d": 2
+          },
+          {
+            "kind": "eat",
+            "object": "chocolate",
+            "d": 2,
+            "eat": 1,
+            "ask": "ate"
+          },
+          {
+            "kind": "share",
+            "object": "orange",
+            "d": 2
+          },
+          {
+            "kind": "slice",
+            "object": "roti",
+            "d": 2
+          },
+          {
+            "kind": "eat",
+            "object": "cake",
+            "d": 2,
+            "eat": 1,
+            "ask": "left"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p093-sl-quarters",
+      "qr": "M3-p93-b",
+      "code": "LSV42BCY",
+      "type": "fraction_slice",
+      "title": "কেটে দেখি: চার ভাগের এক ভাগ",
+      "chapter": "অধ্যায় ৯ · ভগ্নাংশ",
+      "page": 93,
+      "configuration": {},
+      "content": {
+        "rounds": [
+          {
+            "kind": "slice",
+            "object": "cake",
+            "d": 4
+          },
+          {
+            "kind": "share",
+            "object": "orange",
+            "d": 4,
+            "text": "একটি কমলা ৪ জন বন্ধু সমান ভাগ করে খাবে।"
+          },
+          {
+            "kind": "slice",
+            "object": "chocolate",
+            "d": 4
+          },
+          {
+            "kind": "eat",
+            "object": "roti",
+            "d": 4,
+            "eat": 1,
+            "ask": "left"
+          },
+          {
+            "kind": "share",
+            "object": "eggs",
+            "d": 4
+          },
+          {
+            "kind": "slice",
+            "object": "watermelon",
+            "d": 4
+          },
+          {
+            "kind": "eat",
+            "object": "cake",
+            "d": 4,
+            "eat": 2,
+            "ask": "ate"
+          },
+          {
+            "kind": "share",
+            "object": "roti",
+            "d": 4
+          },
+          {
+            "kind": "eat",
+            "object": "orange",
+            "d": 4,
+            "eat": 3,
+            "ask": "ate"
+          },
+          {
+            "kind": "slice",
+            "object": "eggs",
+            "d": 4
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p095-sl-thirds",
+      "qr": "M3-p95-c",
+      "code": "LSWPWVRS",
+      "type": "fraction_slice",
+      "title": "কেটে দেখি: তিন ভাগের এক ভাগ",
+      "chapter": "অধ্যায় ৯ · ভগ্নাংশ",
+      "page": 95,
+      "configuration": {},
+      "content": {
+        "rounds": [
+          {
+            "kind": "slice",
+            "object": "chocolate",
+            "d": 3
+          },
+          {
+            "kind": "share",
+            "object": "eggs",
+            "d": 3,
+            "text": "এক ট্রে ডিম ৩ জন বন্ধু সমান ভাগ করে নেবে।"
+          },
+          {
+            "kind": "eat",
+            "object": "chocolate",
+            "d": 3,
+            "eat": 1,
+            "ask": "left"
+          },
+          {
+            "kind": "slice",
+            "object": "eggs",
+            "d": 3
+          },
+          {
+            "kind": "share",
+            "object": "chocolate",
+            "d": 3
+          },
+          {
+            "kind": "eat",
+            "object": "eggs",
+            "d": 3,
+            "eat": 2,
+            "ask": "ate"
+          },
+          {
+            "kind": "eat",
+            "object": "chocolate",
+            "d": 3,
+            "eat": 2,
+            "ask": "left"
+          },
+          {
+            "kind": "share",
+            "object": "eggs",
+            "d": 3
+          },
+          {
+            "kind": "eat",
+            "object": "eggs",
+            "d": 3,
+            "eat": 1,
+            "ask": "left"
+          },
+          {
+            "kind": "slice",
+            "object": "chocolate",
+            "d": 3
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p096-sl-eighths",
+      "qr": "M3-p96-b",
+      "code": "LSDEGTAW",
+      "type": "fraction_slice",
+      "title": "কেটে দেখি: আট ভাগ",
+      "chapter": "অধ্যায় ৯ · ভগ্নাংশ",
+      "page": 96,
+      "configuration": {},
+      "content": {
+        "rounds": [
+          {
+            "kind": "slice",
+            "object": "cake",
+            "d": 8
+          },
+          {
+            "kind": "eat",
+            "object": "cake",
+            "d": 8,
+            "eat": 1,
+            "ask": "left"
+          },
+          {
+            "kind": "slice",
+            "object": "orange",
+            "d": 8
+          },
+          {
+            "kind": "eat",
+            "object": "watermelon",
+            "d": 8,
+            "eat": 3,
+            "ask": "ate"
+          },
+          {
+            "kind": "slice",
+            "object": "roti",
+            "d": 8
+          },
+          {
+            "kind": "eat",
+            "object": "orange",
+            "d": 8,
+            "eat": 5,
+            "ask": "ate"
+          },
+          {
+            "kind": "eat",
+            "object": "roti",
+            "d": 8,
+            "eat": 2,
+            "ask": "left"
+          },
+          {
+            "kind": "slice",
+            "object": "watermelon",
+            "d": 8
+          },
+          {
+            "kind": "eat",
+            "object": "cake",
+            "d": 8,
+            "eat": 7,
+            "ask": "ate"
+          },
+          {
+            "kind": "eat",
+            "object": "orange",
+            "d": 8,
+            "eat": 4,
+            "ask": "left"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p102-sl-one-minus",
+      "qr": "M3-p102-b",
+      "code": "LSBMWWB8",
+      "type": "fraction_slice",
+      "title": "খেয়ে ফেললে বাকি কত? (১ − ভগ্নাংশ)",
+      "chapter": "অধ্যায় ৯ · ভগ্নাংশ",
+      "page": 102,
+      "configuration": {},
+      "content": {
+        "rounds": [
+          {
+            "kind": "eat",
+            "object": "roti",
+            "d": 4,
+            "eat": 3,
+            "ask": "left",
+            "text": "১ − ৩/৪ = ? পুরোটা হলো ১। ৪ ভাগের ৩ ভাগ খেয়ে ফেললে বাকি কত থাকে?"
+          },
+          {
+            "kind": "eat",
+            "object": "watermelon",
+            "d": 2,
+            "eat": 1,
+            "ask": "left",
+            "text": "১ − ১/২ = ? পুরোটা হলো ১। ২ ভাগের ১ ভাগ খেয়ে ফেললে বাকি কত থাকে?"
+          },
+          {
+            "kind": "eat",
+            "object": "cake",
+            "d": 8,
+            "eat": 3,
+            "ask": "left",
+            "text": "১ − ৩/৮ = ? পুরোটা হলো ১। ৮ ভাগের ৩ ভাগ খেয়ে ফেললে বাকি কত থাকে?"
+          },
+          {
+            "kind": "eat",
+            "object": "chocolate",
+            "d": 3,
+            "eat": 1,
+            "ask": "left",
+            "text": "১ − ১/৩ = ? পুরোটা হলো ১। ৩ ভাগের ১ ভাগ খেয়ে ফেললে বাকি কত থাকে?"
+          },
+          {
+            "kind": "eat",
+            "object": "orange",
+            "d": 8,
+            "eat": 5,
+            "ask": "left",
+            "text": "১ − ৫/৮ = ? পুরোটা হলো ১। ৮ ভাগের ৫ ভাগ খেয়ে ফেললে বাকি কত থাকে?"
+          },
+          {
+            "kind": "eat",
+            "object": "roti",
+            "d": 4,
+            "eat": 1,
+            "ask": "left",
+            "text": "১ − ১/৪ = ? পুরোটা হলো ১। ৪ ভাগের ১ ভাগ খেয়ে ফেললে বাকি কত থাকে?"
+          },
+          {
+            "kind": "eat",
+            "object": "eggs",
+            "d": 3,
+            "eat": 2,
+            "ask": "left",
+            "text": "১ − ২/৩ = ? পুরোটা হলো ১। ৩ ভাগের ২ ভাগ খেয়ে ফেললে বাকি কত থাকে?"
+          },
+          {
+            "kind": "eat",
+            "object": "cake",
+            "d": 6,
+            "eat": 5,
+            "ask": "left",
+            "text": "১ − ৫/৬ = ? পুরোটা হলো ১। ৬ ভাগের ৫ ভাগ খেয়ে ফেললে বাকি কত থাকে?"
+          },
+          {
+            "kind": "eat",
+            "object": "watermelon",
+            "d": 8,
+            "eat": 1,
+            "ask": "left",
+            "text": "১ − ১/৮ = ? পুরোটা হলো ১। ৮ ভাগের ১ ভাগ খেয়ে ফেললে বাকি কত থাকে?"
+          },
+          {
+            "kind": "eat",
+            "object": "chocolate",
+            "d": 4,
+            "eat": 2,
+            "ask": "left",
+            "text": "১ − ২/৪ = ? পুরোটা হলো ১। ৪ ভাগের ২ ভাগ খেয়ে ফেললে বাকি কত থাকে?"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    }
+  ]
+}

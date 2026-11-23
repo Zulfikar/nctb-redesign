@@ -1,0 +1,7166 @@
+{
+  "format": "ebidyaloy-activity-import",
+  "version": 1,
+  "book": {
+    "title": "প্রাথমিক গণিত - দ্বিতীয় শ্রেণী",
+    "edition": "bn",
+    "editionName": "বাংলা",
+    "language": "bn",
+    "base": true,
+    "chapters": [
+      "অধ্যায় ১ · সংখ্যা ও স্থানীয় মান",
+      "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "অধ্যায় ৩ · গুণ",
+      "অধ্যায় ৪ · জ্যামিতিক আকৃতি ও প্যাটার্ন",
+      "অধ্যায় ৫ · পরিমাপ",
+      "অধ্যায় ৬ · মুদ্রা",
+      "অধ্যায় ৭ · উপাত্ত"
+    ]
+  },
+  "activities": [
+    {
+      "key": "m2-p001-words-21-28",
+      "qr": "M2-p1-a",
+      "code": "LS2U8ZQF",
+      "type": "number_match",
+      "title": "সংখ্যা ও কথায় (২১–২৮) · মিলাও",
+      "chapter": "অধ্যায় ১ · সংখ্যা ও স্থানীয় মান",
+      "page": 1,
+      "configuration": {},
+      "content": {
+        "pairs": [
+          {
+            "left": "২১",
+            "right": "একুশ"
+          },
+          {
+            "left": "২২",
+            "right": "বাইশ"
+          },
+          {
+            "left": "২৩",
+            "right": "তেইশ"
+          },
+          {
+            "left": "২৪",
+            "right": "চব্বিশ"
+          },
+          {
+            "left": "২৫",
+            "right": "পঁচিশ"
+          },
+          {
+            "left": "২৬",
+            "right": "ছাব্বিশ"
+          },
+          {
+            "left": "২৭",
+            "right": "সাতাশ"
+          },
+          {
+            "left": "২৮",
+            "right": "আটাশ"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p002-words-29-36",
+      "qr": "M2-p2-a",
+      "code": "LS8WNMC9",
+      "type": "number_match",
+      "title": "সংখ্যা ও কথায় (২৯–৩৬) · মিলাও",
+      "chapter": "অধ্যায় ১ · সংখ্যা ও স্থানীয় মান",
+      "page": 2,
+      "configuration": {},
+      "content": {
+        "pairs": [
+          {
+            "left": "২৯",
+            "right": "ঊনত্রিশ"
+          },
+          {
+            "left": "৩০",
+            "right": "ত্রিশ"
+          },
+          {
+            "left": "৩১",
+            "right": "একত্রিশ"
+          },
+          {
+            "left": "৩২",
+            "right": "বত্রিশ"
+          },
+          {
+            "left": "৩৩",
+            "right": "তেত্রিশ"
+          },
+          {
+            "left": "৩৪",
+            "right": "চৌত্রিশ"
+          },
+          {
+            "left": "৩৫",
+            "right": "পঁয়ত্রিশ"
+          },
+          {
+            "left": "৩৬",
+            "right": "ছত্রিশ"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p004-words-37-44",
+      "qr": "M2-p4-a",
+      "code": "LSY7BQDF",
+      "type": "number_match",
+      "title": "সংখ্যা ও কথায় (৩৭–৪৪) · মিলাও",
+      "chapter": "অধ্যায় ১ · সংখ্যা ও স্থানীয় মান",
+      "page": 4,
+      "configuration": {},
+      "content": {
+        "pairs": [
+          {
+            "left": "৩৭",
+            "right": "সাঁইত্রিশ"
+          },
+          {
+            "left": "৩৮",
+            "right": "আটত্রিশ"
+          },
+          {
+            "left": "৩৯",
+            "right": "ঊনচল্লিশ"
+          },
+          {
+            "left": "৪০",
+            "right": "চল্লিশ"
+          },
+          {
+            "left": "৪১",
+            "right": "একচল্লিশ"
+          },
+          {
+            "left": "৪২",
+            "right": "বিয়াল্লিশ"
+          },
+          {
+            "left": "৪৩",
+            "right": "তেতাল্লিশ"
+          },
+          {
+            "left": "৪৪",
+            "right": "চুয়াল্লিশ"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p005-words-45-50",
+      "qr": "M2-p5-a",
+      "code": "LSUV3WJ6",
+      "type": "number_match",
+      "title": "সংখ্যা ও কথায় (৪৫–৫০) · মিলাও",
+      "chapter": "অধ্যায় ১ · সংখ্যা ও স্থানীয় মান",
+      "page": 5,
+      "configuration": {},
+      "content": {
+        "pairs": [
+          {
+            "left": "৪৫",
+            "right": "পঁয়তাল্লিশ"
+          },
+          {
+            "left": "৪৬",
+            "right": "ছেচল্লিশ"
+          },
+          {
+            "left": "৪৭",
+            "right": "সাতচল্লিশ"
+          },
+          {
+            "left": "৪৮",
+            "right": "আটচল্লিশ"
+          },
+          {
+            "left": "৪৯",
+            "right": "ঊনপঞ্চাশ"
+          },
+          {
+            "left": "৫০",
+            "right": "পঞ্চাশ"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p007-words-51-100",
+      "qr": "M2-p7-a",
+      "code": "LSWXN5EM",
+      "type": "number_match",
+      "title": "সংখ্যা ও কথায় (৫১–১০০) · মিলাও",
+      "chapter": "অধ্যায় ১ · সংখ্যা ও স্থানীয় মান",
+      "page": 7,
+      "configuration": {},
+      "content": {
+        "pairs": [
+          {
+            "left": "৫৯",
+            "right": "ঊনষাট"
+          },
+          {
+            "left": "৮৭",
+            "right": "সাতাশি"
+          },
+          {
+            "left": "৭৫",
+            "right": "পঁচাত্তর"
+          },
+          {
+            "left": "৯৩",
+            "right": "তিরানব্বই"
+          },
+          {
+            "left": "৮৯",
+            "right": "ঊননব্বই"
+          },
+          {
+            "left": "৮৬",
+            "right": "ছিয়াশি"
+          },
+          {
+            "left": "৯৯",
+            "right": "নিরানব্বই"
+          },
+          {
+            "left": "১০০",
+            "right": "একশত"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p011-wio-count-blocks",
+      "qr": "M2-p11-a",
+      "code": "LSDCRMUY",
+      "type": "work_it_out",
+      "title": "ব্লক গুনে সংখ্যা লিখি",
+      "chapter": "অধ্যায় ১ · সংখ্যা ও স্থানীয় মান",
+      "page": 11,
+      "configuration": {
+        "fresh": {
+          "count": 10,
+          "skill": "place",
+          "digits": 3
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "place",
+            "n": 236,
+            "ask": "number"
+          },
+          {
+            "kind": "place",
+            "n": 147,
+            "ask": "number"
+          },
+          {
+            "kind": "place",
+            "n": 504,
+            "ask": "number"
+          },
+          {
+            "kind": "place",
+            "n": 655,
+            "ask": "number"
+          },
+          {
+            "kind": "place",
+            "n": 765,
+            "ask": "number"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p013-words-hundreds",
+      "qr": "M2-p13-a",
+      "code": "LSW4RMSX",
+      "type": "number_match",
+      "title": "তিন অঙ্কের সংখ্যা কথায় · মিলাও",
+      "chapter": "অধ্যায় ১ · সংখ্যা ও স্থানীয় মান",
+      "page": 13,
+      "configuration": {},
+      "content": {
+        "pairs": [
+          {
+            "left": "৩৪৫",
+            "right": "তিনশত পঁয়তাল্লিশ"
+          },
+          {
+            "left": "১১০",
+            "right": "একশত দশ"
+          },
+          {
+            "left": "৩৪৯",
+            "right": "তিনশত ঊনপঞ্চাশ"
+          },
+          {
+            "left": "৫৮৫",
+            "right": "পাঁচশত পঁচাশি"
+          },
+          {
+            "left": "৬৭২",
+            "right": "ছয়শত বাহাত্তর"
+          },
+          {
+            "left": "৮৫০",
+            "right": "আটশত পঞ্চাশ"
+          },
+          {
+            "left": "৯০৮",
+            "right": "নয়শত আট"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p016-compare",
+      "qr": "M2-p16-a",
+      "code": "LSXUHAVH",
+      "type": "mcq",
+      "title": "কোনটি বড়ো? কোনটি ছোটো?",
+      "chapter": "অধ্যায় ১ · সংখ্যা ও স্থানীয় মান",
+      "page": 16,
+      "configuration": {},
+      "content": {
+        "questions": [
+          {
+            "prompt": "কোনটি বড়ো: ৮৫ না ৫৭?",
+            "options": [
+              "৮৫",
+              "৫৭",
+              "দুটি সমান"
+            ],
+            "answer": 0,
+            "why": "দশক স্থানের ৫ থেকে ৮ বড়ো। তাই ৮৫ বড়ো।"
+          },
+          {
+            "prompt": "কোনটি বড়ো: ৫২৪ না ৩৪৮?",
+            "options": [
+              "৫২৪",
+              "৩৪৮",
+              "দুটি সমান"
+            ],
+            "answer": 0,
+            "why": "শতক স্থানের ৩ থেকে ৫ বড়ো। তাই ৫২৪ বড়ো।"
+          },
+          {
+            "prompt": "কোনটি বড়ো: ৬৩৪ না ৬৭০?",
+            "options": [
+              "৬৩৪",
+              "৬৭০",
+              "দুটি সমান"
+            ],
+            "answer": 1,
+            "why": "শতক স্থানের অঙ্ক সমান। দশক স্থানের ৩ থেকে ৭ বড়ো। তাই ৬৭০ বড়ো।"
+          },
+          {
+            "prompt": "কোনটি বড়ো: ৪২৩ না ৪২৮?",
+            "options": [
+              "৪২৩",
+              "৪২৮",
+              "দুটি সমান"
+            ],
+            "answer": 1,
+            "why": "শতক ও দশক স্থানের অঙ্ক সমান। একক স্থানের ৩ থেকে ৮ বড়ো। তাই ৪২৮ বড়ো।"
+          },
+          {
+            "prompt": "কোনটি বড়ো: ৮২৩ না ৫৪০?",
+            "options": [
+              "৮২৩",
+              "৫৪০",
+              "দুটি সমান"
+            ],
+            "answer": 0,
+            "why": "শতক স্থানের ৫ থেকে ৮ বড়ো। তাই ৮২৩ বড়ো।"
+          },
+          {
+            "prompt": "কোনটি ছোটো: ৭৫ না ৬৫?",
+            "options": [
+              "৭৫",
+              "৬৫",
+              "দুটি সমান"
+            ],
+            "answer": 1,
+            "why": "দশক স্থানের ৬ থেকে ৭ বড়ো। তাই ৬৫ ছোটো।"
+          },
+          {
+            "prompt": "কোনটি ছোটো: ৪২৩ না ৩৩৭?",
+            "options": [
+              "৪২৩",
+              "৩৩৭",
+              "দুটি সমান"
+            ],
+            "answer": 1,
+            "why": "শতক স্থানের ৩ থেকে ৪ বড়ো। তাই ৩৩৭ ছোটো।"
+          },
+          {
+            "prompt": "কোনটি ছোটো: ৫৫৭ না ৬৪২?",
+            "options": [
+              "৫৫৭",
+              "৬৪২",
+              "দুটি সমান"
+            ],
+            "answer": 0,
+            "why": "শতক স্থানের ৫ থেকে ৬ বড়ো। তাই ৫৫৭ ছোটো।"
+          },
+          {
+            "prompt": "কোনটি ছোটো: ৮৭৬ না ৭০৬?",
+            "options": [
+              "৮৭৬",
+              "৭০৬",
+              "দুটি সমান"
+            ],
+            "answer": 1,
+            "why": "শতক স্থানের ৭ থেকে ৮ বড়ো। তাই ৭০৬ ছোটো।"
+          },
+          {
+            "prompt": "কোনটি ছোটো: ৬৭৮ না ৯৪৮?",
+            "options": [
+              "৬৭৮",
+              "৯৪৮",
+              "দুটি সমান"
+            ],
+            "answer": 0,
+            "why": "শতক স্থানের ৬ থেকে ৯ বড়ো। তাই ৬৭৮ ছোটো।"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p016-wio-compare",
+      "qr": "M2-p16-b",
+      "code": "LSQFXNCC",
+      "type": "work_it_out",
+      "title": "তুলনা করি: <, > না =",
+      "chapter": "অধ্যায় ১ · সংখ্যা ও স্থানীয় মান",
+      "page": 16,
+      "configuration": {
+        "fresh": {
+          "count": 10,
+          "skill": "compare",
+          "digits": 3
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "compare",
+            "a": "85",
+            "b": "57"
+          },
+          {
+            "kind": "compare",
+            "a": "524",
+            "b": "348"
+          },
+          {
+            "kind": "compare",
+            "a": "634",
+            "b": "670"
+          },
+          {
+            "kind": "compare",
+            "a": "423",
+            "b": "428"
+          },
+          {
+            "kind": "compare",
+            "a": "823",
+            "b": "540"
+          },
+          {
+            "kind": "compare",
+            "a": "901",
+            "b": "972"
+          },
+          {
+            "kind": "compare",
+            "a": "75",
+            "b": "65"
+          },
+          {
+            "kind": "compare",
+            "a": "423",
+            "b": "337"
+          },
+          {
+            "kind": "compare",
+            "a": "557",
+            "b": "642"
+          },
+          {
+            "kind": "compare",
+            "a": "876",
+            "b": "706"
+          },
+          {
+            "kind": "compare",
+            "a": "678",
+            "b": "948"
+          },
+          {
+            "kind": "compare",
+            "a": "785",
+            "b": "639"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p020-place-value",
+      "qr": "M2-p20-a",
+      "code": "LS2MG5HW",
+      "type": "number_match",
+      "title": "স্থানীয় মান · মিলাও",
+      "chapter": "অধ্যায় ১ · সংখ্যা ও স্থানীয় মান",
+      "page": 20,
+      "configuration": {},
+      "content": {
+        "pairs": [
+          {
+            "left": "৫ দশক ৬ একক",
+            "right": "৫৬"
+          },
+          {
+            "left": "৮ দশক ৩ একক",
+            "right": "৮৩"
+          },
+          {
+            "left": "১ শতক ২ দশক ০ একক",
+            "right": "১২০"
+          },
+          {
+            "left": "৪ শতক ৬ দশক ৭ একক",
+            "right": "৪৬৭"
+          },
+          {
+            "left": "৭ দশক ৪ একক",
+            "right": "৭৪"
+          },
+          {
+            "left": "১ শতক ৮ একক",
+            "right": "১০৮"
+          },
+          {
+            "left": "২ শতক ৩ দশক",
+            "right": "২৩০"
+          },
+          {
+            "left": "৭ শতক ৮ দশক ২ একক",
+            "right": "৭৮২"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p020-wio-place-value",
+      "qr": "M2-p20-b",
+      "code": "LSEXCYE2",
+      "type": "work_it_out",
+      "title": "স্থানীয় মান লিখি",
+      "chapter": "অধ্যায় ১ · সংখ্যা ও স্থানীয় মান",
+      "page": 20,
+      "configuration": {
+        "fresh": {
+          "count": 10,
+          "skill": "place",
+          "digits": 3
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "place",
+            "n": 56,
+            "ask": "parts"
+          },
+          {
+            "kind": "place",
+            "n": 83,
+            "ask": "parts"
+          },
+          {
+            "kind": "place",
+            "n": 120,
+            "ask": "parts"
+          },
+          {
+            "kind": "place",
+            "n": 467,
+            "ask": "parts"
+          },
+          {
+            "kind": "place",
+            "n": 976,
+            "ask": "parts"
+          },
+          {
+            "kind": "place",
+            "n": 1000,
+            "ask": "parts"
+          },
+          {
+            "kind": "place",
+            "n": 28,
+            "ask": "number"
+          },
+          {
+            "kind": "place",
+            "n": 74,
+            "ask": "number"
+          },
+          {
+            "kind": "place",
+            "n": 108,
+            "ask": "number"
+          },
+          {
+            "kind": "place",
+            "n": 230,
+            "ask": "number"
+          },
+          {
+            "kind": "place",
+            "n": 782,
+            "ask": "number"
+          },
+          {
+            "kind": "place",
+            "n": 1000,
+            "ask": "number"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p021-digit-value",
+      "qr": "M2-p21-a",
+      "code": "LSSTSRQA",
+      "type": "mcq",
+      "title": "কোন অঙ্কের স্থানীয় মান কত?",
+      "chapter": "অধ্যায় ১ · সংখ্যা ও স্থানীয় মান",
+      "page": 21,
+      "configuration": {},
+      "content": {
+        "questions": [
+          {
+            "prompt": "২৪ সংখ্যায় ২ এর স্থানীয় মান কত?",
+            "options": [
+              "২০",
+              "২",
+              "২০০"
+            ],
+            "answer": 0,
+            "why": "২ আছে দশক স্থানে: ২ দশক = ২০"
+          },
+          {
+            "prompt": "৫৬ সংখ্যায় ৬ এর স্থানীয় মান কত?",
+            "options": [
+              "৬০",
+              "৬",
+              "৬০০"
+            ],
+            "answer": 1,
+            "why": "৬ আছে একক স্থানে: ৬ একক = ৬"
+          },
+          {
+            "prompt": "৭৩ সংখ্যায় ৩ এর স্থানীয় মান কত?",
+            "options": [
+              "৩",
+              "৩০০",
+              "৩০"
+            ],
+            "answer": 0,
+            "why": "৩ আছে একক স্থানে: ৩ একক = ৩"
+          },
+          {
+            "prompt": "৯৮ সংখ্যায় ৯ এর স্থানীয় মান কত?",
+            "options": [
+              "৯০০",
+              "৯০",
+              "৯"
+            ],
+            "answer": 1,
+            "why": "৯ আছে দশক স্থানে: ৯ দশক = ৯০"
+          },
+          {
+            "prompt": "১০৫ সংখ্যায় ১ এর স্থানীয় মান কত?",
+            "options": [
+              "১",
+              "১০০",
+              "১০"
+            ],
+            "answer": 1,
+            "why": "১ আছে শতক স্থানে: ১ শতক = ১০০"
+          },
+          {
+            "prompt": "৩২৮ সংখ্যায় ২ এর স্থানীয় মান কত?",
+            "options": [
+              "২০",
+              "২০০",
+              "২"
+            ],
+            "answer": 0,
+            "why": "২ আছে দশক স্থানে: ২ দশক = ২০"
+          },
+          {
+            "prompt": "৬৩৯ সংখ্যায় ৩ এর স্থানীয় মান কত?",
+            "options": [
+              "৩০০",
+              "৩",
+              "৩০"
+            ],
+            "answer": 2,
+            "why": "৩ আছে দশক স্থানে: ৩ দশক = ৩০"
+          },
+          {
+            "prompt": "৮৪০ সংখ্যায় ৮ এর স্থানীয় মান কত?",
+            "options": [
+              "৮০",
+              "৮০০",
+              "৮"
+            ],
+            "answer": 1,
+            "why": "৮ আছে শতক স্থানে: ৮ শতক = ৮০০"
+          },
+          {
+            "prompt": "৯৫৭ সংখ্যায় ৭ এর স্থানীয় মান কত?",
+            "options": [
+              "৭০",
+              "৭০০",
+              "৭"
+            ],
+            "answer": 2,
+            "why": "৭ আছে একক স্থানে: ৭ একক = ৭"
+          },
+          {
+            "prompt": "১০০০ সংখ্যায় ১ এর স্থানীয় মান কত?",
+            "options": [
+              "১০০",
+              "১০",
+              "১",
+              "১০০০"
+            ],
+            "answer": 3,
+            "why": "১ আছে হাজার স্থানে: ১ হাজার = ১০০০"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p021-wio-digit-places",
+      "qr": "M2-p21-b",
+      "code": "LS6ZJD5Q",
+      "type": "work_it_out",
+      "title": "প্রতিটি অঙ্কের স্থানীয় মান",
+      "chapter": "অধ্যায় ১ · সংখ্যা ও স্থানীয় মান",
+      "page": 21,
+      "configuration": {
+        "fresh": {
+          "count": 10,
+          "skill": "place",
+          "digits": 3
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "place",
+            "n": 24,
+            "ask": "parts"
+          },
+          {
+            "kind": "place",
+            "n": 56,
+            "ask": "parts"
+          },
+          {
+            "kind": "place",
+            "n": 73,
+            "ask": "parts"
+          },
+          {
+            "kind": "place",
+            "n": 98,
+            "ask": "parts"
+          },
+          {
+            "kind": "place",
+            "n": 105,
+            "ask": "parts"
+          },
+          {
+            "kind": "place",
+            "n": 328,
+            "ask": "parts"
+          },
+          {
+            "kind": "place",
+            "n": 639,
+            "ask": "parts"
+          },
+          {
+            "kind": "place",
+            "n": 840,
+            "ask": "parts"
+          },
+          {
+            "kind": "place",
+            "n": 957,
+            "ask": "parts"
+          },
+          {
+            "kind": "place",
+            "n": 1000,
+            "ask": "parts"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p023-wio-compare",
+      "qr": "M2-p23-a",
+      "code": "LSTSHQVJ",
+      "type": "work_it_out",
+      "title": "তিন অঙ্কের সংখ্যার তুলনা",
+      "chapter": "অধ্যায় ১ · সংখ্যা ও স্থানীয় মান",
+      "page": 23,
+      "configuration": {
+        "fresh": {
+          "count": 10,
+          "skill": "compare",
+          "digits": 3
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "compare",
+            "a": "128",
+            "b": "235"
+          },
+          {
+            "kind": "compare",
+            "a": "248",
+            "b": "226"
+          },
+          {
+            "kind": "compare",
+            "a": "496",
+            "b": "469"
+          },
+          {
+            "kind": "compare",
+            "a": "692",
+            "b": "594"
+          },
+          {
+            "kind": "compare",
+            "a": "872",
+            "b": "858"
+          },
+          {
+            "kind": "compare",
+            "a": "1000",
+            "b": "998"
+          },
+          {
+            "kind": "compare",
+            "a": "430",
+            "b": "428"
+          },
+          {
+            "kind": "compare",
+            "a": "678",
+            "b": "675"
+          },
+          {
+            "kind": "compare",
+            "a": "827",
+            "b": "948"
+          },
+          {
+            "kind": "compare",
+            "a": "985",
+            "b": "950"
+          },
+          {
+            "kind": "compare",
+            "a": "744",
+            "b": "722"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p024-small-to-big",
+      "qr": "M2-p24-a",
+      "code": "LS2678ZA",
+      "type": "sequence",
+      "title": "ছোটো থেকে বড়ো সাজাও",
+      "chapter": "অধ্যায় ১ · সংখ্যা ও স্থানীয় মান",
+      "page": 24,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "text": "২২৩"
+          },
+          {
+            "text": "২৩২"
+          },
+          {
+            "text": "২৩৯"
+          },
+          {
+            "text": "৩২৮"
+          },
+          {
+            "text": "৪৩২"
+          },
+          {
+            "text": "৫১৭"
+          },
+          {
+            "text": "৫২৯"
+          },
+          {
+            "text": "৫৪০"
+          },
+          {
+            "text": "৫৪৯"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p029-even-odd",
+      "qr": "M2-p29-a",
+      "code": "LS7GE94B",
+      "type": "categorize",
+      "title": "জোড় না বিজোড়?",
+      "chapter": "অধ্যায় ১ · সংখ্যা ও স্থানীয় মান",
+      "page": 29,
+      "configuration": {},
+      "content": {
+        "categories": [
+          {
+            "name": "জোড় সংখ্যা",
+            "emoji": ""
+          },
+          {
+            "name": "বিজোড় সংখ্যা",
+            "emoji": ""
+          }
+        ],
+        "items": [
+          {
+            "text": "৮",
+            "category": 0,
+            "emoji": ""
+          },
+          {
+            "text": "১৩",
+            "category": 1,
+            "emoji": ""
+          },
+          {
+            "text": "২০",
+            "category": 0,
+            "emoji": ""
+          },
+          {
+            "text": "১১",
+            "category": 1,
+            "emoji": ""
+          },
+          {
+            "text": "২৪",
+            "category": 0,
+            "emoji": ""
+          },
+          {
+            "text": "৯",
+            "category": 1,
+            "emoji": ""
+          },
+          {
+            "text": "৬",
+            "category": 0,
+            "emoji": ""
+          },
+          {
+            "text": "১৫",
+            "category": 1,
+            "emoji": ""
+          },
+          {
+            "text": "১২",
+            "category": 0,
+            "emoji": ""
+          },
+          {
+            "text": "২৫",
+            "category": 1,
+            "emoji": ""
+          },
+          {
+            "text": "২৩",
+            "category": 1,
+            "emoji": ""
+          },
+          {
+            "text": "৩২",
+            "category": 0,
+            "emoji": ""
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p031-wio-patterns",
+      "qr": "M2-p31-a",
+      "code": "LSQJQDAF",
+      "type": "work_it_out",
+      "title": "পরবর্তী সংখ্যাগুলো লিখি (১)",
+      "chapter": "অধ্যায় ১ · সংখ্যা ও স্থানীয় মান",
+      "page": 31,
+      "configuration": {
+        "fresh": {
+          "count": 10,
+          "skill": "pattern"
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "pattern",
+            "terms": [
+              2,
+              4,
+              6,
+              8,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "kind": "pattern",
+            "terms": [
+              15,
+              20,
+              25,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "kind": "pattern",
+            "terms": [
+              21,
+              19,
+              17,
+              15,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "kind": "pattern",
+            "terms": [
+              1,
+              3,
+              5,
+              7,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "kind": "pattern",
+            "terms": [
+              4,
+              6,
+              8,
+              10,
+              null,
+              null
+            ]
+          },
+          {
+            "kind": "pattern",
+            "terms": [
+              3,
+              7,
+              11,
+              15,
+              19,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "kind": "pattern",
+            "terms": [
+              0,
+              5,
+              10,
+              15,
+              20,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "kind": "pattern",
+            "terms": [
+              48,
+              null,
+              null,
+              null,
+              null,
+              38
+            ]
+          },
+          {
+            "kind": "pattern",
+            "terms": [
+              9,
+              null,
+              null,
+              null,
+              null,
+              24
+            ]
+          },
+          {
+            "kind": "pattern",
+            "terms": [
+              50,
+              null,
+              40
+            ]
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p033-patterns",
+      "qr": "M2-p33-a",
+      "code": "LSTP2AX4",
+      "type": "mcq",
+      "title": "সংখ্যা প্যাটার্ন: পরের সংখ্যা",
+      "chapter": "অধ্যায় ১ · সংখ্যা ও স্থানীয় মান",
+      "page": 33,
+      "configuration": {},
+      "content": {
+        "questions": [
+          {
+            "prompt": "পরের সংখ্যাটি কত? ২, ৪, ৬, ৮, …",
+            "options": [
+              "১২",
+              "১০",
+              "১১",
+              "৯"
+            ],
+            "answer": 1,
+            "why": "প্রতিবার ২ করে বাড়ছে: ৮ + ২ = ১০"
+          },
+          {
+            "prompt": "পরের সংখ্যাটি কত? ১৫, ২০, ২৫, …",
+            "options": [
+              "৩০",
+              "৩১",
+              "২৯",
+              "৩৫"
+            ],
+            "answer": 0,
+            "why": "প্রতিবার ৫ করে বাড়ছে: ২৫ + ৫ = ৩০"
+          },
+          {
+            "prompt": "পরের সংখ্যাটি কত? ২১, ১৯, ১৭, ১৫, …",
+            "options": [
+              "১৩",
+              "১১",
+              "১৪",
+              "১২"
+            ],
+            "answer": 0,
+            "why": "প্রতিবার ২ করে কমছে: ১৫ − ২ = ১৩"
+          },
+          {
+            "prompt": "পরের সংখ্যাটি কত? ১, ৩, ৫, ৭, …",
+            "options": [
+              "৯",
+              "১১",
+              "১০",
+              "৮"
+            ],
+            "answer": 0,
+            "why": "প্রতিবার ২ করে বাড়ছে: ৭ + ২ = ৯"
+          },
+          {
+            "prompt": "পরের সংখ্যাটি কত? ২, ৩, ৫, ৮, ১২, …",
+            "options": [
+              "১৬",
+              "১৮",
+              "১৭",
+              "২২"
+            ],
+            "answer": 2,
+            "why": "পার্থক্য ১, ২, ৩, ৪ করে বাড়ছে, তাই এবার ৫ বাড়বে: ১২ + ৫ = ১৭"
+          },
+          {
+            "prompt": "খালি ঘরে কোন সংখ্যা বসবে? ৪০, ৪২, ☐, ৪৬",
+            "options": [
+              "৪৫",
+              "৪৩",
+              "৪৬",
+              "৪৪"
+            ],
+            "answer": 3,
+            "why": "প্রতিবার ২ করে বাড়ছে: ৪২ + ২ = ৪৪"
+          },
+          {
+            "prompt": "পরের সংখ্যাটি কত? ১৬, ১৮, ২০, …",
+            "options": [
+              "২৩",
+              "২৪",
+              "২১",
+              "২২"
+            ],
+            "answer": 3,
+            "why": "প্রতিবার ২ করে বাড়ছে: ২০ + ২ = ২২"
+          },
+          {
+            "prompt": "পরের সংখ্যাটি কত? ৩৭, ৩৯, ৪১, …",
+            "options": [
+              "৪৩",
+              "৪৫",
+              "৪২",
+              "৪৪"
+            ],
+            "answer": 0,
+            "why": "প্রতিবার ২ করে বাড়ছে: ৪১ + ২ = ৪৩"
+          },
+          {
+            "prompt": "পরের সংখ্যাটি কত? ৩, ৬, ৯, …",
+            "options": [
+              "১২",
+              "১৫",
+              "১৩",
+              "১১"
+            ],
+            "answer": 0,
+            "why": "প্রতিবার ৩ করে বাড়ছে: ৯ + ৩ = ১২"
+          },
+          {
+            "prompt": "পরের সংখ্যাটি কত? ১৫, ১৩, ১১, …",
+            "options": [
+              "১০",
+              "৮",
+              "৭",
+              "৯"
+            ],
+            "answer": 3,
+            "why": "প্রতিবার ২ করে কমছে: ১১ − ২ = ৯"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p033-wio-patterns",
+      "qr": "M2-p33-b",
+      "code": "LSB72PAX",
+      "type": "work_it_out",
+      "title": "পরবর্তী সংখ্যাগুলো লিখি (২)",
+      "chapter": "অধ্যায় ১ · সংখ্যা ও স্থানীয় মান",
+      "page": 33,
+      "configuration": {
+        "fresh": {
+          "count": 10,
+          "skill": "pattern"
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "pattern",
+            "terms": [
+              1,
+              3,
+              5,
+              7,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "kind": "pattern",
+            "terms": [
+              40,
+              42,
+              null,
+              46,
+              null,
+              50,
+              null
+            ]
+          },
+          {
+            "kind": "pattern",
+            "terms": [
+              16,
+              18,
+              20,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "kind": "pattern",
+            "terms": [
+              37,
+              39,
+              41,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "kind": "pattern",
+            "terms": [
+              47,
+              45,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "kind": "pattern",
+            "terms": [
+              24,
+              28,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "kind": "pattern",
+            "terms": [
+              3,
+              6,
+              9,
+              null,
+              null,
+              null,
+              null
+            ]
+          },
+          {
+            "kind": "pattern",
+            "terms": [
+              15,
+              13,
+              11,
+              null,
+              null,
+              null,
+              null
+            ]
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p034-ordinals",
+      "qr": "M2-p34-a",
+      "code": "LS288V8H",
+      "type": "number_match",
+      "title": "ক্রমবাচক সংখ্যা · মিলাও",
+      "chapter": "অধ্যায় ১ · সংখ্যা ও স্থানীয় মান",
+      "page": 34,
+      "configuration": {},
+      "content": {
+        "pairs": [
+          {
+            "left": "১ম",
+            "right": "প্রথম"
+          },
+          {
+            "left": "২য়",
+            "right": "দ্বিতীয়"
+          },
+          {
+            "left": "৩য়",
+            "right": "তৃতীয়"
+          },
+          {
+            "left": "৪র্থ",
+            "right": "চতুর্থ"
+          },
+          {
+            "left": "৫ম",
+            "right": "পঞ্চম"
+          },
+          {
+            "left": "৬ষ্ঠ",
+            "right": "ষষ্ঠ"
+          },
+          {
+            "left": "৭ম",
+            "right": "সপ্তম"
+          },
+          {
+            "left": "৮ম",
+            "right": "অষ্টম"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p037-ordinals-line",
+      "qr": "M2-p37-a",
+      "code": "LSFAU42F",
+      "type": "mcq",
+      "title": "কে কোথায়? ক্রমবাচক সংখ্যা",
+      "chapter": "অধ্যায় ১ · সংখ্যা ও স্থানীয় মান",
+      "page": 37,
+      "configuration": {},
+      "content": {
+        "questions": [
+          {
+            "prompt": "বাম থেকে ডানে আছে: হাতি, ঘোড়া, বাঘ, খরগোশ, মোরগ। বাম থেকে কে দ্বিতীয়?",
+            "options": [
+              "ঘোড়া",
+              "খরগোশ",
+              "মোরগ",
+              "বাঘ"
+            ],
+            "answer": 0,
+            "why": "বাম থেকে গুনলে দ্বিতীয় হলো ঘোড়া।"
+          },
+          {
+            "prompt": "বাম থেকে ডানে আছে: হাতি, ঘোড়া, বাঘ, খরগোশ, মোরগ। ডান থেকে কে প্রথম?",
+            "options": [
+              "বাঘ",
+              "খরগোশ",
+              "ঘোড়া",
+              "মোরগ"
+            ],
+            "answer": 3,
+            "why": "ডান থেকে গুনলে প্রথম হলো মোরগ।"
+          },
+          {
+            "prompt": "বাম থেকে ডানে আছে: হাতি, ঘোড়া, বাঘ, খরগোশ, মোরগ। ডান থেকে কে তৃতীয়?",
+            "options": [
+              "ঘোড়া",
+              "মোরগ",
+              "খরগোশ",
+              "বাঘ"
+            ],
+            "answer": 3,
+            "why": "ডান থেকে গুনলে তৃতীয় হলো বাঘ।"
+          },
+          {
+            "prompt": "বাম থেকে ডানে আছে: আনারস, আপেল, আঙুর, কলা, তরমুজ। ডান থেকে কোনটি চতুর্থ?",
+            "options": [
+              "আঙুর",
+              "আপেল",
+              "কলা",
+              "তরমুজ"
+            ],
+            "answer": 1,
+            "why": "ডান থেকে গুনলে চতুর্থ হলো আপেল।"
+          },
+          {
+            "prompt": "লাইনে সামনে থেকে পিছনে আছে: নাসিমা, আলী, সবিতা, ডেভিড, তামিম, আব্দুর রহিম, আব্দুল করিম, আলেয়া, রতন, জারিয়া। সামনে থেকে কে ষষ্ঠ?",
+            "options": [
+              "আলেয়া",
+              "সবিতা",
+              "আব্দুর রহিম",
+              "আলী"
+            ],
+            "answer": 2,
+            "why": "সামনে থেকে গুনলে ষষ্ঠ হলো আব্দুর রহিম।"
+          },
+          {
+            "prompt": "লাইনে সামনে থেকে পিছনে আছে: নাসিমা, আলী, সবিতা, ডেভিড, তামিম, আব্দুর রহিম, আব্দুল করিম, আলেয়া, রতন, জারিয়া। পিছন থেকে কে সপ্তম?",
+            "options": [
+              "ডেভিড",
+              "আলেয়া",
+              "নাসিমা",
+              "সবিতা"
+            ],
+            "answer": 0,
+            "why": "পিছন থেকে গুনলে সপ্তম হলো ডেভিড।"
+          },
+          {
+            "prompt": "লাইনে সামনে থেকে পিছনে আছে: নাসিমা, আলী, সবিতা, ডেভিড, তামিম, আব্দুর রহিম, আব্দুল করিম, আলেয়া, রতন, জারিয়া। সামনে থেকে আলেয়া কততম?",
+            "options": [
+              "নবম",
+              "সপ্তম",
+              "অষ্টম"
+            ],
+            "answer": 2,
+            "why": "সামনে থেকে গুনলে আলেয়া অষ্টম।"
+          },
+          {
+            "prompt": "লাইনে সামনে থেকে পিছনে আছে: নাসিমা, আলী, সবিতা, ডেভিড, তামিম, আব্দুর রহিম, আব্দুল করিম, আলেয়া, রতন, জারিয়া। পিছন থেকে আলেয়া কততম?",
+            "options": [
+              "তৃতীয়",
+              "চতুর্থ",
+              "দ্বিতীয়"
+            ],
+            "answer": 0,
+            "why": "পিছন থেকে গুনলে আলেয়া তৃতীয়।"
+          },
+          {
+            "prompt": "কয়েকজন শিশু লাইনে দাঁড়িয়ে আছে। সবিতা সামনে থেকে দ্বিতীয় এবং তার পিছনে আরও ৫ জন শিশু আছে। লাইনে কতজন শিশু আছে?",
+            "options": [
+              "১৭ জন",
+              "৭ জন",
+              "৬ জন",
+              "৫ জন"
+            ],
+            "answer": 1,
+            "why": "সবিতা পর্যন্ত ২ জন, তার পিছনে ৫ জন: ২ + ৫ = ৭"
+          },
+          {
+            "prompt": "কয়েকজন শিশু লাইনে দাঁড়িয়ে আছে। রাজু সামনে থেকে তৃতীয় এবং পিছন থেকে পঞ্চম। লাইনে কতজন শিশু আছে?",
+            "options": [
+              "৭ জন",
+              "৬ জন",
+              "১৭ জন",
+              "৮ জন"
+            ],
+            "answer": 0,
+            "why": "দুদিক থেকে গুনলে রাজুকে দুবার গোনা হয়: ৩ + ৫ − ১ = ৭"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p042-add-1",
+      "qr": "M2-p42-a",
+      "code": "LSSEYDBY",
+      "type": "equation_match",
+      "title": "যোগ করি (১) · মিলাও",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 42,
+      "configuration": {},
+      "content": {
+        "pairs": [
+          {
+            "left": "৩২ + ৩০",
+            "right": "৬২"
+          },
+          {
+            "left": "৫১ + ১৪",
+            "right": "৬৫"
+          },
+          {
+            "left": "৩২ + ২২",
+            "right": "৫৪"
+          },
+          {
+            "left": "৫০ + ২০",
+            "right": "৭০"
+          },
+          {
+            "left": "৬৫ + ১৩",
+            "right": "৭৮"
+          },
+          {
+            "left": "২২ + ৩৬",
+            "right": "৫৮"
+          },
+          {
+            "left": "৭২ + ১৫",
+            "right": "৮৭"
+          },
+          {
+            "left": "৭১ + ৫",
+            "right": "৭৬"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p042-wio-add",
+      "qr": "M2-p42-b",
+      "code": "LSW7UAJP",
+      "type": "work_it_out",
+      "title": "যোগ করে লিখি (১)",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 42,
+      "configuration": {
+        "fresh": {
+          "count": 10,
+          "skill": "add",
+          "digits": 2,
+          "carry": "no",
+          "layout": "column"
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 32,
+            "op": "+",
+            "b": 30,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 51,
+            "op": "+",
+            "b": 14,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 32,
+            "op": "+",
+            "b": 22,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 50,
+            "op": "+",
+            "b": 20,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 65,
+            "op": "+",
+            "b": 13,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 22,
+            "op": "+",
+            "b": 36,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 72,
+            "op": "+",
+            "b": 15,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 71,
+            "op": "+",
+            "b": 5,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 8,
+            "op": "+",
+            "b": 60,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 35,
+            "op": "+",
+            "b": 10,
+            "layout": "row"
+          },
+          {
+            "kind": "word",
+            "text": "রাজুর ৩৮টি রঙিন কার্ডের একটি বান্ডেল আছে। মিনার ২৪ টি রঙিন কার্ডের একটি বান্ডেল আছে। দুজনের মোট কতগুলো রঙিন কার্ড আছে?",
+            "sum": "38 + 24",
+            "unit": "টি"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p044-add-2",
+      "qr": "M2-p44-a",
+      "code": "LSYCDMGK",
+      "type": "equation_match",
+      "title": "যোগ করি (২) · মিলাও",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 44,
+      "configuration": {},
+      "content": {
+        "pairs": [
+          {
+            "left": "২৩ + ১৮",
+            "right": "৪১"
+          },
+          {
+            "left": "৪৫ + ২৭",
+            "right": "৭২"
+          },
+          {
+            "left": "৫২ + ৩৮",
+            "right": "৯০"
+          },
+          {
+            "left": "৭৮ + ৮",
+            "right": "৮৬"
+          },
+          {
+            "left": "২৬ + ৩৭",
+            "right": "৬৩"
+          },
+          {
+            "left": "৪৭ + ১৮",
+            "right": "৬৫"
+          },
+          {
+            "left": "৬৫ + ৫",
+            "right": "৭০"
+          },
+          {
+            "left": "৪২ + ২৯",
+            "right": "৭১"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p044-wio-add",
+      "qr": "M2-p44-b",
+      "code": "LS8EJF38",
+      "type": "work_it_out",
+      "title": "যোগ করে লিখি (২)",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 44,
+      "configuration": {
+        "fresh": {
+          "count": 10,
+          "skill": "add",
+          "digits": 2,
+          "carry": "yes",
+          "layout": "column"
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 23,
+            "op": "+",
+            "b": 18,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 45,
+            "op": "+",
+            "b": 27,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 52,
+            "op": "+",
+            "b": 38,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 78,
+            "op": "+",
+            "b": 8,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 26,
+            "op": "+",
+            "b": 37,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 37,
+            "op": "+",
+            "b": 53,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 45,
+            "op": "+",
+            "b": 45,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 47,
+            "op": "+",
+            "b": 18,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 65,
+            "op": "+",
+            "b": 5,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 42,
+            "op": "+",
+            "b": 29,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 38,
+            "op": "+",
+            "b": 52,
+            "layout": "column"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p045-wio-add",
+      "qr": "M2-p45-a",
+      "code": "LS4GVTD8",
+      "type": "work_it_out",
+      "title": "যোগ করে লিখি (৩)",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 45,
+      "configuration": {
+        "fresh": {
+          "count": 10,
+          "skill": "add",
+          "digits": 2,
+          "carry": "yes",
+          "layout": "column"
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 35,
+            "op": "+",
+            "b": 6,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 7,
+            "op": "+",
+            "b": 36,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 26,
+            "op": "+",
+            "b": 37,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 38,
+            "op": "+",
+            "b": 22,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 56,
+            "op": "+",
+            "b": 14,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 36,
+            "op": "+",
+            "b": 17,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 75,
+            "op": "+",
+            "b": 15,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 42,
+            "op": "+",
+            "b": 28,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 78,
+            "op": "+",
+            "b": 13,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 62,
+            "op": "+",
+            "b": 28,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 6,
+            "op": "+",
+            "b": 57,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 72,
+            "op": "+",
+            "b": 9,
+            "layout": "row"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p048-sub-1",
+      "qr": "M2-p48-a",
+      "code": "LS3FKVBG",
+      "type": "equation_match",
+      "title": "বিয়োগ করি (১) · মিলাও",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 48,
+      "configuration": {},
+      "content": {
+        "pairs": [
+          {
+            "left": "৪৫ − ২৩",
+            "right": "২২"
+          },
+          {
+            "left": "৩২ − ১১",
+            "right": "২১"
+          },
+          {
+            "left": "৬৮ − ১২",
+            "right": "৫৬"
+          },
+          {
+            "left": "৭৯ − ৫০",
+            "right": "২৯"
+          },
+          {
+            "left": "৯৮ − ৬৭",
+            "right": "৩১"
+          },
+          {
+            "left": "৪৯ − ১০",
+            "right": "৩৯"
+          },
+          {
+            "left": "৬৬ − ৪০",
+            "right": "২৬"
+          },
+          {
+            "left": "৫৮ − ১৮",
+            "right": "৪০"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p048-wio-sub",
+      "qr": "M2-p48-b",
+      "code": "LSM79HNR",
+      "type": "work_it_out",
+      "title": "বিয়োগ করে লিখি (১)",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 48,
+      "configuration": {
+        "fresh": {
+          "count": 10,
+          "skill": "sub",
+          "digits": 2,
+          "carry": "no",
+          "layout": "column"
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 45,
+            "op": "−",
+            "b": 23,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 32,
+            "op": "−",
+            "b": 11,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 68,
+            "op": "−",
+            "b": 12,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 79,
+            "op": "−",
+            "b": 50,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 98,
+            "op": "−",
+            "b": 67,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 49,
+            "op": "−",
+            "b": 10,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 66,
+            "op": "−",
+            "b": 40,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 58,
+            "op": "−",
+            "b": 18,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 70,
+            "op": "−",
+            "b": 30,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 38,
+            "op": "−",
+            "b": 34,
+            "layout": "column"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p049-wio-sub",
+      "qr": "M2-p49-a",
+      "code": "LSCH6VJG",
+      "type": "work_it_out",
+      "title": "বিয়োগ করে লিখি (২)",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 49,
+      "configuration": {
+        "fresh": {
+          "count": 10,
+          "skill": "sub",
+          "digits": 2,
+          "carry": "no",
+          "layout": "row"
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 45,
+            "op": "−",
+            "b": 23,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 56,
+            "op": "−",
+            "b": 12,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 86,
+            "op": "−",
+            "b": 31,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 75,
+            "op": "−",
+            "b": 23,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 85,
+            "op": "−",
+            "b": 13,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 79,
+            "op": "−",
+            "b": 44,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 61,
+            "op": "−",
+            "b": 50,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 75,
+            "op": "−",
+            "b": 25,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 90,
+            "op": "−",
+            "b": 50,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 49,
+            "op": "−",
+            "b": 42,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 97,
+            "op": "−",
+            "b": 5,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 53,
+            "op": "−",
+            "b": 3,
+            "layout": "row"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p051-sub-2",
+      "qr": "M2-p51-a",
+      "code": "LSRWQ7QZ",
+      "type": "equation_match",
+      "title": "বিয়োগ করি (২) · মিলাও",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 51,
+      "configuration": {},
+      "content": {
+        "pairs": [
+          {
+            "left": "৯৭ − ৫৯",
+            "right": "৩৮"
+          },
+          {
+            "left": "৭১ − ৪৪",
+            "right": "২৭"
+          },
+          {
+            "left": "৭৫ − ৪৭",
+            "right": "২৮"
+          },
+          {
+            "left": "৬০ − ৫৩",
+            "right": "৭"
+          },
+          {
+            "left": "৭০ − ২২",
+            "right": "৪৮"
+          },
+          {
+            "left": "৩২ − ১৫",
+            "right": "১৭"
+          },
+          {
+            "left": "৬৪ − ২৭",
+            "right": "৩৭"
+          },
+          {
+            "left": "৯২ − ২৩",
+            "right": "৬৯"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p051-wio-sub",
+      "qr": "M2-p51-b",
+      "code": "LSFF3FRQ",
+      "type": "work_it_out",
+      "title": "বিয়োগ করে লিখি (৩)",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 51,
+      "configuration": {
+        "fresh": {
+          "count": 10,
+          "skill": "sub",
+          "digits": 2,
+          "carry": "yes",
+          "layout": "column"
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 64,
+            "op": "−",
+            "b": 3,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 78,
+            "op": "−",
+            "b": 5,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 94,
+            "op": "−",
+            "b": 2,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 76,
+            "op": "−",
+            "b": 6,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 57,
+            "op": "−",
+            "b": 7,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 34,
+            "op": "−",
+            "b": 7,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 30,
+            "op": "−",
+            "b": 6,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 97,
+            "op": "−",
+            "b": 59,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 71,
+            "op": "−",
+            "b": 44,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 75,
+            "op": "−",
+            "b": 47,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 60,
+            "op": "−",
+            "b": 53,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 70,
+            "op": "−",
+            "b": 22,
+            "layout": "column"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p052-wio-sub",
+      "qr": "M2-p52-a",
+      "code": "LSTJXFHK",
+      "type": "work_it_out",
+      "title": "বিয়োগ করে লিখি (৪)",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 52,
+      "configuration": {
+        "fresh": {
+          "count": 10,
+          "skill": "sub",
+          "digits": 2,
+          "carry": "yes",
+          "layout": "row"
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 32,
+            "op": "−",
+            "b": 15,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 85,
+            "op": "−",
+            "b": 47,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 64,
+            "op": "−",
+            "b": 27,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 92,
+            "op": "−",
+            "b": 23,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 82,
+            "op": "−",
+            "b": 13,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 71,
+            "op": "−",
+            "b": 44,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 97,
+            "op": "−",
+            "b": 59,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 60,
+            "op": "−",
+            "b": 35,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 74,
+            "op": "−",
+            "b": 68,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 40,
+            "op": "−",
+            "b": 34,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 93,
+            "op": "−",
+            "b": 5,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 50,
+            "op": "−",
+            "b": 3,
+            "layout": "row"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p052-wio-sub-stories",
+      "qr": "M2-p52-b",
+      "code": "LS32NFV6",
+      "type": "work_it_out",
+      "title": "বিয়োগ করে লিখি (৫)",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 52,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 25,
+            "op": "−",
+            "b": 8,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 43,
+            "op": "−",
+            "b": 5,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 30,
+            "op": "−",
+            "b": 7,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 60,
+            "op": "−",
+            "b": 6,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 80,
+            "op": "−",
+            "b": 9,
+            "layout": "column"
+          },
+          {
+            "kind": "word",
+            "text": "রুমির ৭৫টি মারবেল আছে এবং রাজুর ৪৯টি মারবেল আছে। রুমি থেকে রাজুর কয়টি মারবেল বেশি বা কম আছে?",
+            "sum": "75 − 49",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "মা ও মেয়ের বয়স একত্রে ৭০ বছর। মেয়ের বয়স ২২ বছর। মায়ের বয়স কত?",
+            "sum": "70 − 22",
+            "unit": "বছর"
+          },
+          {
+            "kind": "word",
+            "text": "রুমু থেকে ঝুমু ৮ বছরের বড়ো। ঝুমুর বয়স ২৪ বছর। রুমুর বয়স কত?",
+            "sum": "24 − 8",
+            "unit": "বছর"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p054-missing-and-stories",
+      "qr": "M2-p54-a",
+      "code": "LSZ4MVJM",
+      "type": "mcq",
+      "title": "খালি ঘর ও গল্পের অঙ্ক",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 54,
+      "configuration": {},
+      "content": {
+        "questions": [
+          {
+            "prompt": "খালি ঘরে কোন সংখ্যা বসবে? ৯ + ☐ = ১৬",
+            "options": [
+              "৭",
+              "১৭",
+              "৮",
+              "৬"
+            ],
+            "answer": 0,
+            "why": "৯ + ৭ = ১৬, তাই খালি ঘরে ৭ বসবে।"
+          },
+          {
+            "prompt": "খালি ঘরে কোন সংখ্যা বসবে? ৩৯ − ☐ = ৩১",
+            "options": [
+              "১৮",
+              "৭",
+              "৮",
+              "৯"
+            ],
+            "answer": 2,
+            "why": "৩৯ − ৮ = ৩১, তাই খালি ঘরে ৮ বসবে।"
+          },
+          {
+            "prompt": "খালি ঘরে কোন সংখ্যা বসবে? ☐ + ২৩ = ৩৪",
+            "options": [
+              "১২",
+              "২১",
+              "১১",
+              "১০"
+            ],
+            "answer": 2,
+            "why": "১১ + ২৩ = ৩৪, তাই খালি ঘরে ১১ বসবে।"
+          },
+          {
+            "prompt": "খালি ঘরে কোন সংখ্যা বসবে? ১৪ + ☐ = ৩৫",
+            "options": [
+              "৩১",
+              "২১",
+              "২০",
+              "২২"
+            ],
+            "answer": 1,
+            "why": "১৪ + ২১ = ৩৫, তাই খালি ঘরে ২১ বসবে।"
+          },
+          {
+            "prompt": "খালি ঘরে কোন সংখ্যা বসবে? ☐ − ৩৯ = ৪৫",
+            "options": [
+              "৮৫",
+              "৮৪",
+              "৮৩",
+              "৯৪"
+            ],
+            "answer": 1,
+            "why": "৮৪ − ৩৯ = ৪৫, তাই খালি ঘরে ৮৪ বসবে।"
+          },
+          {
+            "prompt": "খালি ঘরে কোন সংখ্যা বসবে? ১২ + ৯ − ☐ = ১৩",
+            "options": [
+              "৮",
+              "১৮",
+              "৯",
+              "৭"
+            ],
+            "answer": 0,
+            "why": "১২ + ৯ − ৮ = ১৩, তাই খালি ঘরে ৮ বসবে।"
+          },
+          {
+            "prompt": "রুমির ৭৫টি মারবেল আছে এবং রাজুর ৪৯টি মারবেল আছে। রুমি থেকে রাজুর কয়টি মারবেল কম আছে?",
+            "options": [
+              "২৬টি",
+              "১৬টি",
+              "৩৬টি",
+              "১২৪টি"
+            ],
+            "answer": 0,
+            "why": "৭৫ − ৪৯ = ২৬"
+          },
+          {
+            "prompt": "মা ও মেয়ের বয়স একত্রে ৭০ বছর। মেয়ের বয়স ২২ বছর। মায়ের বয়স কত?",
+            "options": [
+              "৪৮ বছর",
+              "৩৮ বছর",
+              "৫৮ বছর",
+              "৯২ বছর"
+            ],
+            "answer": 0,
+            "why": "৭০ − ২২ = ৪৮"
+          },
+          {
+            "prompt": "জলিল সাহেব বাজার থেকে ১০০টি লিচু কিনলেন। বাড়িতে এসে ২৫টি মেয়েকে, ২৩টি ছেলেকে দিলেন। তার কাছে কতটি লিচু থাকল?",
+            "options": [
+              "৪৮টি",
+              "৬২টি",
+              "৭৫টি",
+              "৫২টি"
+            ],
+            "answer": 3,
+            "why": "১০০ − ২৫ − ২৩ = ৫২"
+          },
+          {
+            "prompt": "কোনো বাক্সে ২৫টি চকলেট ছিল। এর থেকে কয়েকটি চকলেট মিতুকে দেওয়া হলো। বাক্সে ১৭টি চকলেট থাকল। কয়টি চকলেট মিতুকে দেওয়া হয়েছিল?",
+            "options": [
+              "১৮টি",
+              "৯টি",
+              "৮টি",
+              "৪২টি"
+            ],
+            "answer": 2,
+            "why": "২৫ − ১৭ = ৮"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p054-wio-missing",
+      "qr": "M2-p54-b",
+      "code": "LSH2ZCR7",
+      "type": "work_it_out",
+      "title": "খালি ঘর পূরণ করি",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 54,
+      "configuration": {
+        "fresh": {
+          "count": 10,
+          "skill": "missing",
+          "digits": 2
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "missing",
+            "text": "9 + □ = 16"
+          },
+          {
+            "kind": "missing",
+            "text": "39 − □ = 31"
+          },
+          {
+            "kind": "missing",
+            "text": "□ + 23 = 34"
+          },
+          {
+            "kind": "missing",
+            "text": "□ + 19 = 45"
+          },
+          {
+            "kind": "missing",
+            "text": "14 + □ = 35"
+          },
+          {
+            "kind": "missing",
+            "text": "29 − □ = 17"
+          },
+          {
+            "kind": "missing",
+            "text": "□ + 27 = 75"
+          },
+          {
+            "kind": "missing",
+            "text": "□ − 39 = 45"
+          },
+          {
+            "kind": "missing",
+            "text": "12 + 9 − □ = 13"
+          },
+          {
+            "kind": "missing",
+            "text": "22 + 8 − □ = 23"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p054-wio-stories",
+      "qr": "M2-p54-c",
+      "code": "LSCATE5R",
+      "type": "work_it_out",
+      "title": "যোগ-বিয়োগের গল্প (১)",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 54,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "word",
+            "text": "দিলীপ বাজার থেকে ৪৫ টাকার মাছ ও ৩৮ টাকার সবজি কিনল। সে মোট কত টাকা খরচ করল?",
+            "sum": "45 + 38",
+            "unit": "টাকা"
+          },
+          {
+            "kind": "word",
+            "text": "মাহদি ও তার বন্ধুরা দুই দলে একুশে ফেব্রুয়ারির প্রভাত ফেরিতে গেল। এক দলে ৩৫ জন ও অন্য দলে ২৭ জন আছে। দুই দলে মোট কতজন আছে?",
+            "sum": "35 + 27",
+            "unit": "জন"
+          },
+          {
+            "kind": "word",
+            "text": "মানহাদের পারিবারিক লাইব্রেরিতে ৫৪টি গল্পের বই ও ৩৮টি অন্য বিষয়ের বই আছে। লাইব্রেরিতে মোট কতগুলো বই আছে?",
+            "sum": "54 + 38",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "মিনার ৩৬টি কাগজ ছিল, সে এর থেকে ১৩টি কাগজ রাজুকে দিল। মিনার কাছে কতটি কাগজ রইল?",
+            "sum": "36 − 13",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "রাজুর কাছে ৪৫টি রং পেনসিল ছিল। সে তুলিকে ১৮টি রং পেনসিল দিল। রাজুর কাছে কতটি রং পেনসিল রইল?",
+            "sum": "45 − 18",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "একটি ব্যাগে কয়েকটি আম ছিল। ৫টি আম বিক্রি করা হলো। এখন ব্যাগে ৬টি আম আছে। প্রথমে ব্যাগে কয়টি আম ছিল?",
+            "sum": "6 + 5",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "বিজয় কিছু সংখ্যক আম বিক্রি করার জন্য বাজারে যাচ্ছিল। তার চাচা বিক্রি করার জন্য আরও ১৫টি আম দিল। ৩৩টি আম বিক্রি করার পর তার কাছে ১২টি আম অবশিষ্ট রইলো। তার কাছে প্রথমে কতগুলো আম ছিল?",
+            "sum": "12 + 33 − 15",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "জলিল সাহেব বাজার থেকে ১০০টি লিচু ক্রয় করলেন। বাড়িতে এসে ২৫টি মেয়েকে, ২৩টি ছেলেকে দিলেন। তার কাছে কতটি লিচু থাকল?",
+            "sum": "100 − 25 − 23",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "কোনো বাক্সে ২৫টি চকলেট ছিল। এর থেকে কয়েকটি চকলেট মিতুকে দেওয়া হলো। বাক্সে ১৭টি চকলেট থাকল। কয়টি চকলেট মিতুকে দেওয়া হয়েছিল? এর গাণিতিক বাক্য কী হবে?",
+            "sum": "25 − 17",
+            "unit": "টি"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p055-wio-tens",
+      "qr": "M2-p55-a",
+      "code": "LSPWVUQD",
+      "type": "work_it_out",
+      "title": "দশকের যোগ করে লিখি",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 55,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 80,
+            "op": "+",
+            "b": 50,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 60,
+            "op": "+",
+            "b": 60,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 50,
+            "op": "+",
+            "b": 90,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 80,
+            "op": "+",
+            "b": 70,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 100,
+            "op": "+",
+            "b": 300,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 500,
+            "op": "+",
+            "b": 200,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 140,
+            "op": "+",
+            "b": 20,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 30,
+            "op": "+",
+            "b": 130,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 160,
+            "op": "+",
+            "b": 30,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 50,
+            "op": "+",
+            "b": 220,
+            "layout": "row"
+          },
+          {
+            "kind": "word",
+            "text": "তুলির ৭০টি গল্পের বই ছিল। বই মেলা থেকে সে আরও ৫০টি গল্পের বই কিনল। তুলির মোট কয়টি গল্পের বই হলো?",
+            "sum": "70 + 50",
+            "unit": "টি"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p057-wio-add",
+      "qr": "M2-p57-a",
+      "code": "LSPAGHD8",
+      "type": "work_it_out",
+      "title": "তিন অঙ্কের যোগ (১)",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 57,
+      "configuration": {
+        "fresh": {
+          "count": 10,
+          "skill": "add",
+          "digits": 3,
+          "carry": "any",
+          "layout": "row"
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 86,
+            "op": "+",
+            "b": 43,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 68,
+            "op": "+",
+            "b": 35,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 74,
+            "op": "+",
+            "b": 65,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 55,
+            "op": "+",
+            "b": 45,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 93,
+            "op": "+",
+            "b": 9,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 216,
+            "op": "+",
+            "b": 142,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 468,
+            "op": "+",
+            "b": 394,
+            "layout": "row"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p059-add-3digit",
+      "qr": "M2-p59-a",
+      "code": "LSTW6JWV",
+      "type": "equation_match",
+      "title": "তিন অঙ্কের যোগ · মিলাও",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 59,
+      "configuration": {},
+      "content": {
+        "pairs": [
+          {
+            "left": "৫২৬ + ২৫৩",
+            "right": "৭৭৯"
+          },
+          {
+            "left": "৫৫২ + ৪৩৬",
+            "right": "৯৮৮"
+          },
+          {
+            "left": "৮৭২ + ১২৭",
+            "right": "৯৯৯"
+          },
+          {
+            "left": "৬৭২ + ৩২৬",
+            "right": "৯৯৮"
+          },
+          {
+            "left": "৪৩৮ + ৩১",
+            "right": "৪৬৯"
+          },
+          {
+            "left": "৪৬২ + ৩",
+            "right": "৪৬৫"
+          },
+          {
+            "left": "৬২০ + ৩৭০",
+            "right": "৯৯০"
+          },
+          {
+            "left": "২৩৩ + ৩৫৫",
+            "right": "৫৮৮"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p059-wio-add",
+      "qr": "M2-p59-b",
+      "code": "LSRKTVKN",
+      "type": "work_it_out",
+      "title": "তিন অঙ্কের যোগ (২)",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 59,
+      "configuration": {
+        "fresh": {
+          "count": 10,
+          "skill": "add",
+          "digits": 3,
+          "carry": "any",
+          "layout": "column"
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 462,
+            "op": "+",
+            "b": 3,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 953,
+            "op": "+",
+            "b": 46,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 620,
+            "op": "+",
+            "b": 370,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 233,
+            "op": "+",
+            "b": 355,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 438,
+            "op": "+",
+            "b": 521,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 232,
+            "op": "+",
+            "b": 354,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 423,
+            "op": "+",
+            "b": 241,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 555,
+            "op": "+",
+            "b": 324,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 284,
+            "op": "+",
+            "b": 581,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 294,
+            "op": "+",
+            "b": 687,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 568,
+            "op": "+",
+            "b": 432,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 409,
+            "op": "+",
+            "b": 384,
+            "layout": "column"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p062-wio-add",
+      "qr": "M2-p62-a",
+      "code": "LS59AWQD",
+      "type": "work_it_out",
+      "title": "তিন অঙ্কের যোগ (৩)",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 62,
+      "configuration": {
+        "fresh": {
+          "count": 10,
+          "skill": "add",
+          "digits": 3,
+          "carry": "any",
+          "layout": "row"
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 526,
+            "op": "+",
+            "b": 253,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 552,
+            "op": "+",
+            "b": 436,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 872,
+            "op": "+",
+            "b": 127,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 672,
+            "op": "+",
+            "b": 326,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 438,
+            "op": "+",
+            "b": 31,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 596,
+            "op": "+",
+            "b": 312,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 649,
+            "op": "+",
+            "b": 161,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 427,
+            "op": "+",
+            "b": 185,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 381,
+            "op": "+",
+            "b": 269,
+            "layout": "row"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p063-wio-stories",
+      "qr": "M2-p63-a",
+      "code": "LSZ9YVC4",
+      "type": "work_it_out",
+      "title": "যোগের গল্প",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 63,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "word",
+            "text": "দিলীপের কাছে ৭৩টি কাগজ ছিল। তার বোন দীপা তাকে আরও ৫৪টি কাগজ দিল। তার কাছে কতটি কাগজ হলো?",
+            "sum": "73 + 54",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "শ্রেণিকক্ষ সাজানোর জন্য রাজু ১৩৪টি কাগজের ফুল বানালো। মীনা ১৪৫টি ফুল বানালো। তারা কাগজ দিয়ে মোট কতগুলো ফুল বানালো?",
+            "sum": "134 + 145",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "রাফি কোনো এক ঈদে তার বাবার কাছ থেকে ২৫০ টাকা এবং মায়ের কাছ থেকে ১২০ টাকা পায়। সে মোট কত টাকা পায়?",
+            "sum": "250 + 120",
+            "unit": "টাকা"
+          },
+          {
+            "kind": "word",
+            "text": "রাজুর একটি খাতায় ২৬৭ পৃষ্ঠা কাগজ আছে। আরেকটি খাতায় ১৪৫ পৃষ্ঠা কাগজ আছে। দুটি খাতায় মোট পৃষ্ঠার সংখ্যা কত?",
+            "sum": "267 + 145",
+            "unit": "পৃষ্ঠা"
+          },
+          {
+            "kind": "word",
+            "text": "শিমু একমাসে একটি গল্পের বইয়ের ১৫৪ পৃষ্ঠা পড়ে। পরের মাসে ২৭৫ পৃষ্ঠা পড়ে। সে দুই মাসে মোট কত পৃষ্ঠা পড়েছে?",
+            "sum": "154 + 275",
+            "unit": "পৃষ্ঠা"
+          },
+          {
+            "kind": "word",
+            "text": "একটি বিদ্যালয়ে ২য় শ্রেণিতে ১৩৬ জন ছাত্র এবং ১২০ জন ছাত্রী আছে। দ্বিতীয় শ্রেণিতে মোট কত জন শিক্ষার্থী আছে?",
+            "sum": "136 + 120",
+            "unit": "জন"
+          },
+          {
+            "kind": "word",
+            "text": "দ্বিতীয় শ্রেণির ক শাখায় ১২৩টি বই শিক্ষার্থীদের মাঝে বিতরণ করা হলো। খ শাখায় ১৩১টি বই বিতরণ করা হলো। মোট কতগুলো বই বিতরণ করা হলো?",
+            "sum": "123 + 131",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "একটি নার্সারিতে ১২০টি গোলাপ ফুল গাছ আছে এবং ১২৭ টি গাঁদা ফুল গাছ আছে। ঐ নার্সারীতে মোট কতগুলো ফুল গাছ আছে?",
+            "sum": "120 + 127",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "একটি পুকুরে ১২৫টি শিং মাছের পোনা এবং ২৫০টি মাগুর মাছের পোনা ছাড়া হলো। ঐ পুকুরে মোট কতগুলো মাছের পোনা ছাড়া হলো?",
+            "sum": "125 + 250",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "একজন ফল বিক্রেতা প্রথম দিন ৩৬০ টাকার আম বিক্রি করলেন। দ্বিতীয় দিন ৪৭৫ টাকার আম বিক্রি করলেন। তিনি দুদিনে মোট কত টাকার আম বিক্রি করলেন?",
+            "sum": "360 + 475",
+            "unit": "টাকা"
+          },
+          {
+            "kind": "word",
+            "text": "একটি গ্রামের লোকসংখ্যা ৪০০ জন। আরেকটি গ্রামের লোকসংখ্যা ৩২০ জন। দুই গ্রামের মোট লোকসংখ্যা কত?",
+            "sum": "400 + 320",
+            "unit": "জন"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p064-tens-rapid",
+      "qr": "M2-p64-a",
+      "code": "LSHT23G2",
+      "type": "rapid_quiz",
+      "title": "দশকের যোগ-বিয়োগ · দ্রুত",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 64,
+      "configuration": {},
+      "content": {
+        "questions": [
+          {
+            "prompt": "৮০ + ৫০ = ?",
+            "options": [
+              "৩০",
+              "১৪০",
+              "১৩০"
+            ],
+            "answer": 2,
+            "why": "৮০ + ৫০ = ১৩০"
+          },
+          {
+            "prompt": "৬০ + ৬০ = ?",
+            "options": [
+              "২২০",
+              "১৩০",
+              "১২০"
+            ],
+            "answer": 2,
+            "why": "৬০ + ৬০ = ১২০"
+          },
+          {
+            "prompt": "৫০ + ৯০ = ?",
+            "options": [
+              "১৩০",
+              "১৪০",
+              "৪০"
+            ],
+            "answer": 1,
+            "why": "৫০ + ৯০ = ১৪০"
+          },
+          {
+            "prompt": "৫০০ + ২০০ = ?",
+            "options": [
+              "৭০০",
+              "৮০০",
+              "৬৯০"
+            ],
+            "answer": 0,
+            "why": "৫০০ + ২০০ = ৭০০"
+          },
+          {
+            "prompt": "১৪০ + ২০ = ?",
+            "options": [
+              "১৭০",
+              "২৬০",
+              "১৬০"
+            ],
+            "answer": 2,
+            "why": "১৪০ + ২০ = ১৬০"
+          },
+          {
+            "prompt": "৫০ + ২২০ = ?",
+            "options": [
+              "২৬০",
+              "৩৭০",
+              "২৭০"
+            ],
+            "answer": 2,
+            "why": "৫০ + ২২০ = ২৭০"
+          },
+          {
+            "prompt": "১৭০ − ৪০ = ?",
+            "options": [
+              "৩০",
+              "১৩০",
+              "১২০"
+            ],
+            "answer": 1,
+            "why": "১৭০ − ৪০ = ১৩০"
+          },
+          {
+            "prompt": "৯০০ − ২২০ = ?",
+            "options": [
+              "৬৯০",
+              "৬৮০",
+              "৫৮০"
+            ],
+            "answer": 1,
+            "why": "৯০০ − ২২০ = ৬৮০"
+          },
+          {
+            "prompt": "৩৯০ − ৭০ = ?",
+            "options": [
+              "৪২০",
+              "২২০",
+              "৩২০"
+            ],
+            "answer": 2,
+            "why": "৩৯০ − ৭০ = ৩২০"
+          },
+          {
+            "prompt": "৫২০ − ৩০ = ?",
+            "options": [
+              "৪৯০",
+              "৪৮০",
+              "৫০০"
+            ],
+            "answer": 0,
+            "why": "৫২০ − ৩০ = ৪৯০"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p064-wio-tens",
+      "qr": "M2-p64-b",
+      "code": "LSXXSD2K",
+      "type": "work_it_out",
+      "title": "দশকের বিয়োগ করে লিখি",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 64,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 170,
+            "op": "−",
+            "b": 40,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 180,
+            "op": "−",
+            "b": 20,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 160,
+            "op": "−",
+            "b": 40,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 190,
+            "op": "−",
+            "b": 20,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 500,
+            "op": "−",
+            "b": 200,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 700,
+            "op": "−",
+            "b": 500,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 900,
+            "op": "−",
+            "b": 220,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 380,
+            "op": "−",
+            "b": 30,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 390,
+            "op": "−",
+            "b": 70,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 460,
+            "op": "−",
+            "b": 60,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 520,
+            "op": "−",
+            "b": 30,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 220,
+            "op": "−",
+            "b": 50,
+            "layout": "row"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p066-sub-3digit",
+      "qr": "M2-p66-a",
+      "code": "LSSRCQRP",
+      "type": "equation_match",
+      "title": "তিন অঙ্কের বিয়োগ · মিলাও",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 66,
+      "configuration": {},
+      "content": {
+        "pairs": [
+          {
+            "left": "৩২৫ − ১৩",
+            "right": "৩১২"
+          },
+          {
+            "left": "৫২৭ − ২৮",
+            "right": "৪৯৯"
+          },
+          {
+            "left": "৭৩৫ − ৪৮",
+            "right": "৬৮৭"
+          },
+          {
+            "left": "৪৭৪ − ৮১",
+            "right": "৩৯৩"
+          },
+          {
+            "left": "৮২৯ − ৭৫",
+            "right": "৭৫৪"
+          },
+          {
+            "left": "৯৩০ − ৪০",
+            "right": "৮৯০"
+          },
+          {
+            "left": "৫০৯ − ২৫",
+            "right": "৪৮৪"
+          },
+          {
+            "left": "৭২৯ − ৫৬",
+            "right": "৬৭৩"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p066-wio-sub",
+      "qr": "M2-p66-b",
+      "code": "LSAG922R",
+      "type": "work_it_out",
+      "title": "তিন অঙ্কের বিয়োগ (১)",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 66,
+      "configuration": {
+        "fresh": {
+          "count": 10,
+          "skill": "sub",
+          "digits": 3,
+          "carry": "any",
+          "layout": "column"
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 125,
+            "op": "−",
+            "b": 43,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 325,
+            "op": "−",
+            "b": 13,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 527,
+            "op": "−",
+            "b": 28,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 735,
+            "op": "−",
+            "b": 48,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 474,
+            "op": "−",
+            "b": 81,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 829,
+            "op": "−",
+            "b": 75,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 930,
+            "op": "−",
+            "b": 40,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 509,
+            "op": "−",
+            "b": 25,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 729,
+            "op": "−",
+            "b": 56,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 845,
+            "op": "−",
+            "b": 58,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 785,
+            "op": "−",
+            "b": 421,
+            "layout": "column"
+          },
+          {
+            "kind": "word",
+            "text": "মিনার ২৪১ টাকা আছে। রাজুর নিকট ১১৫ টাকা আছে। রাজু অপেক্ষা মিনার কত টাকা বেশি আছে?",
+            "sum": "241 − 115",
+            "unit": "টাকা"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p067-wio-sub",
+      "qr": "M2-p67-a",
+      "code": "LSRTY3Z6",
+      "type": "work_it_out",
+      "title": "তিন অঙ্কের বিয়োগ (২)",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 67,
+      "configuration": {
+        "fresh": {
+          "count": 10,
+          "skill": "sub",
+          "digits": 3,
+          "carry": "yes",
+          "layout": "column"
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 231,
+            "op": "−",
+            "b": 48,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 230,
+            "op": "−",
+            "b": 90,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 320,
+            "op": "−",
+            "b": 280,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 437,
+            "op": "−",
+            "b": 273,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 452,
+            "op": "−",
+            "b": 378,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 663,
+            "op": "−",
+            "b": 267,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 490,
+            "op": "−",
+            "b": 84,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 321,
+            "op": "−",
+            "b": 279,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 941,
+            "op": "−",
+            "b": 608,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 792,
+            "op": "−",
+            "b": 486,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 341,
+            "op": "−",
+            "b": 126,
+            "layout": "column"
+          },
+          {
+            "kind": "sum",
+            "a": 540,
+            "op": "−",
+            "b": 280,
+            "layout": "column"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p068-wio-stories",
+      "qr": "M2-p68-a",
+      "code": "LSGX2W5Q",
+      "type": "work_it_out",
+      "title": "বিয়োগের গল্প",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 68,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "word",
+            "text": "শ্যামল ৩৮৫ টাকা নিয়ে বাজারে গেল। সে ২৫৩ টাকা খরচ করল। তার কাছে কত টাকা থাকল?",
+            "sum": "385 − 253",
+            "unit": "টাকা"
+          },
+          {
+            "kind": "word",
+            "text": "ক্রিকেট খেলায় বাংলাদেশ দল ৩৫৮ রান করেছে এবং শ্রীলঙ্কা দল ৩১২ রান করেছে। কোন দল বেশি রান করেছে এবং কত রান বেশি করেছে?",
+            "sum": "358 − 312",
+            "unit": "রান"
+          },
+          {
+            "kind": "word",
+            "text": "একটি বিদ্যালয়ে ৫৪২ জন শিক্ষার্থী আছে। ছাত্রীর সংখ্যা ২৯০। ঐ বিদ্যালয়ে ছাত্রের সংখ্যা কত?",
+            "sum": "542 − 290",
+            "unit": "জন"
+          },
+          {
+            "kind": "word",
+            "text": "বিজয়পুর গ্রামের শিশুদের সংখ্যা ৩৩৪ জন। তাদের মধ্যে ৩১৫ জন টিকা নিয়েছে। কতজন টিকা নেয়নি?",
+            "sum": "334 − 315",
+            "unit": "জন"
+          },
+          {
+            "kind": "word",
+            "text": "বাগানে ২১২টি আম গাছ আছে। ১৯৫টি গাছে আম ধরেছে। কতটি গাছে আম ধরেনি?",
+            "sum": "212 − 195",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "রিতার ২৫৫টি মারবেল ছিল। সে তার ছোট ভাইকে ১৫০টি মারবেল দিল। রিতার কাছে কতগুলো মারবেল রইল?",
+            "sum": "255 − 150",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "একটি নার্সারিতে ১৪৬টি মেহগনি গাছের চারা আছে এবং ১২০টি নিম গাছের চারা আছে। ঐ নার্সারিতে কতটি মেহগনি গাছের চারা বেশি আছে?",
+            "sum": "146 − 120",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "৩৫৫ থেকে কোন সংখ্যা বিয়োগ করলে ২৪৫ হবে?",
+            "sum": "355 − 245",
+            "unit": ""
+          },
+          {
+            "kind": "word",
+            "text": "একটি পুকুরে ২০০টি তেলাপিয়া মাছ ছিল এবং ১৬৫টি তেলাপিয়া মাছ বিক্রি করা হলো। পুকুরে আর কতগুলো তেলাপিয়া মাছ রইল?",
+            "sum": "200 − 165",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "তুহিনের ৩৪২ টাকা আছে। শাকিলের ৩১৫ টাকা আছে। কার টাকা কম আছে এবং কত টাকা কম আছে?",
+            "sum": "342 − 315",
+            "unit": "টাকা"
+          },
+          {
+            "kind": "word",
+            "text": "শাকিবের ৩টি একশ টাকার নোট ছিল, তা থেকে মিনাকে ২২৫ টাকা দিল। শাকিবের কাছে কত টাকা রইল?",
+            "sum": "300 − 225",
+            "unit": "টাকা"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p070-wio-pictures",
+      "qr": "M2-p70-a",
+      "code": "LSKCMG5Q",
+      "type": "work_it_out",
+      "title": "ছবি দেখে হিসাব করি",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 70,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "word",
+            "text": "একটি বিদ্যালয়ে বিগত ৩ বছরে শিক্ষার্থী ভর্তি হয়েছে: ১ম বছর ১২৩ জন, ২য় বছর ১৫৫ জন, ৩য় বছর ২০৯ জন। ১ম বছরের তুলনায় ৩য় বছর কতজন বেশি ভর্তি হয়েছে?",
+            "sum": "209 − 123",
+            "unit": "জন"
+          },
+          {
+            "kind": "word",
+            "text": "একটি বিদ্যালয়ে বিগত ৩ বছরে শিক্ষার্থী ভর্তি হয়েছে: ১ম বছর ১২৩ জন, ২য় বছর ১৫৫ জন, ৩য় বছর ২০৯ জন। বর্তমানে বিদ্যালয়ে শিক্ষার্থী সংখ্যা কতজন?",
+            "sum": "123 + 155 + 209",
+            "unit": "জন"
+          },
+          {
+            "kind": "word",
+            "text": "চিত্রে দুটি পাত্রে পানি দেখানো হলো: ১ম পাত্রে ২৩৫ গ্লাস পানি, ২য় পাত্রে ৩৬৫ গ্লাস পানি। ২য় পাত্রে কত গ্লাস পানি বেশি আছে?",
+            "sum": "365 − 235",
+            "unit": "গ্লাস"
+          },
+          {
+            "kind": "word",
+            "text": "চিত্রে দুটি পাত্রে পানি দেখানো হলো: ১ম পাত্রে ২৩৫ গ্লাস পানি, ২য় পাত্রে ৩৬৫ গ্লাস পানি। দুটি পাত্রে মোট কত গ্লাস পানি আছে?",
+            "sum": "235 + 365",
+            "unit": "গ্লাস"
+          },
+          {
+            "kind": "word",
+            "text": "সোহাগের ফলের ঝুড়িতে ১৫০টি, গীতার ফলের ঝুড়িতে ২৪৮টি এবং তুলির ফলের ঝুড়িতে ৪৭৫টি ফল আছে। গীতার ফলের চেয়ে তুলির কতটি ফল বেশি আছে?",
+            "sum": "475 − 248",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "সোহাগের ফলের ঝুড়িতে ১৫০টি, গীতার ফলের ঝুড়িতে ২৪৮টি এবং তুলির ফলের ঝুড়িতে ৪৭৫টি ফল আছে। সোহাগের এবং তুলির দুজনের মোট কতটি ফল আছে?",
+            "sum": "150 + 475",
+            "unit": "টি"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p071-word-problems",
+      "qr": "M2-p71-a",
+      "code": "LSRZE2JJ",
+      "type": "mcq",
+      "title": "যোগ ও বিয়োগের সমস্যা",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 71,
+      "configuration": {},
+      "content": {
+        "questions": [
+          {
+            "prompt": "শ্যামল ৩৮৫ টাকা নিয়ে বাজারে গেল। সে ২৫৩ টাকা খরচ করল। তার কাছে কত টাকা থাকল?",
+            "options": [
+              "১৪২ টাকা",
+              "৬৩৮ টাকা",
+              "১২২ টাকা",
+              "১৩২ টাকা"
+            ],
+            "answer": 3,
+            "why": "৩৮৫ − ২৫৩ = ১৩২"
+          },
+          {
+            "prompt": "ক্রিকেট খেলায় বাংলাদেশ দল ৩৫৮ রান করেছে এবং শ্রীলঙ্কা দল ৩১২ রান করেছে। বাংলাদেশ দল কত রান বেশি করেছে?",
+            "options": [
+              "৪৬ রান",
+              "৫৬ রান",
+              "৩৬ রান",
+              "৬৭০ রান"
+            ],
+            "answer": 0,
+            "why": "৩৫৮ − ৩১২ = ৪৬"
+          },
+          {
+            "prompt": "একটি বিদ্যালয়ে ৫৪২ জন শিক্ষার্থী আছে। ছাত্রীর সংখ্যা ২৯০। ঐ বিদ্যালয়ে ছাত্রের সংখ্যা কত?",
+            "options": [
+              "২৫২ জন",
+              "৮৩২ জন",
+              "২৬২ জন",
+              "৩৫২ জন"
+            ],
+            "answer": 0,
+            "why": "৫৪২ − ২৯০ = ২৫২"
+          },
+          {
+            "prompt": "একটি পুকুরে ২০০টি তেলাপিয়া মাছ ছিল এবং ১৬৫টি তেলাপিয়া মাছ বিক্রি করা হলো। পুকুরে আর কতগুলো তেলাপিয়া মাছ রইল?",
+            "options": [
+              "১৩৫টি",
+              "২৫টি",
+              "৪৫টি",
+              "৩৫টি"
+            ],
+            "answer": 3,
+            "why": "২০০ − ১৬৫ = ৩৫"
+          },
+          {
+            "prompt": "শাকিবের ৩টি একশ টাকার নোট ছিল, তা থেকে মিনাকে ২২৫ টাকা দিল। শাকিবের কাছে কত টাকা রইল?",
+            "options": [
+              "৬৫ টাকা",
+              "৮৫ টাকা",
+              "১২৫ টাকা",
+              "৭৫ টাকা"
+            ],
+            "answer": 3,
+            "why": "৩টি একশ টাকার নোট = ৩০০ টাকা; ৩০০ − ২২৫ = ৭৫"
+          },
+          {
+            "prompt": "একটি বিদ্যালয়ে ৬২৫ জন শিক্ষার্থী ছিল। বছরের শুরুতে ২৭৫ জন নতুন ভর্তি হলো এবং ৩৫ জন চলে গেল। কতজন শিক্ষার্থী রইল?",
+            "options": [
+              "৮৭৫ জন",
+              "৯৩৫ জন",
+              "৮৬৫ জন",
+              "৯০০ জন"
+            ],
+            "answer": 2,
+            "why": "৬২৫ + ২৭৫ − ৩৫ = ৮৬৫"
+          },
+          {
+            "prompt": "ঝুমার ২৫০ টাকা আছে এবং বাবা তাকে আরও ১৫০ টাকা দিলেন। ঝুমা ২৩০ টাকা দিয়ে একটি বই কিনল। তার কাছে আর কত টাকা রইল?",
+            "options": [
+              "২০ টাকা",
+              "১৮০ টাকা",
+              "১৭০ টাকা",
+              "৪০০ টাকা"
+            ],
+            "answer": 2,
+            "why": "২৫০ + ১৫০ − ২৩০ = ১৭০"
+          },
+          {
+            "prompt": "দুটি সংখ্যার যোগফল ৮৪০। এদের একটি সংখ্যা ৫২৭ হলে অপর সংখ্যাটি কত?",
+            "options": [
+              "১৩৬৭",
+              "৩০৩",
+              "৩১৩",
+              "৩২৩"
+            ],
+            "answer": 2,
+            "why": "৮৪০ − ৫২৭ = ৩১৩"
+          },
+          {
+            "prompt": "সুজন ১০০০ টাকা উপবৃত্তি পেল। সে তা থেকে ৩৫০ টাকা দিয়ে ড্রেস এবং ৪৭৫ টাকা দিয়ে স্কুলের ব্যাগ কিনল। তার নিকট কত টাকা রইল?",
+            "options": [
+              "৬৫০ টাকা",
+              "১৮৫ টাকা",
+              "৮২৫ টাকা",
+              "১৭৫ টাকা"
+            ],
+            "answer": 3,
+            "why": "১০০০ − ৩৫০ − ৪৭৫ = ১৭৫"
+          },
+          {
+            "prompt": "নিজাম সাহেব ৯৭০ টাকা নিয়ে বাজারে গেলেন। তিনি ৫৫০ টাকা দিয়ে গরুর মাংস এবং ৩৭০ টাকা দিয়ে একটি মুরগি কিনলেন। তার নিকট কত টাকা রইল?",
+            "options": [
+              "৪২০ টাকা",
+              "৬০ টাকা",
+              "৫০ টাকা",
+              "৯২০ টাকা"
+            ],
+            "answer": 2,
+            "why": "৯৭০ − ৫৫০ − ৩৭০ = ৫০"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p071-wio-stories",
+      "qr": "M2-p71-b",
+      "code": "LS7SY7NN",
+      "type": "work_it_out",
+      "title": "যোগ-বিয়োগের গল্প (২)",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 71,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "word",
+            "text": "একটি বিদ্যালয়ে ৬২৫ জন শিক্ষার্থী ছিল। বছরের শুরুতে ২৭৫ জন শিক্ষার্থী নতুন ভর্তি হলো এবং ৩৫ জন শিক্ষার্থী চলে গেল। ঐ বিদ্যালয়ে কতজন শিক্ষার্থী রইল তা গাণিতিক বাক্যে সমাধান করি।",
+            "sum": "625 + 275 − 35",
+            "unit": "জন"
+          },
+          {
+            "kind": "word",
+            "text": "ঝুমার ২৫০ টাকা আছে এবং বাবা তাকে আরও ১৫০ টাকা দিলেন। ঝুমা ২৩০ টাকা দিয়ে একটি বই কিনল। তার কাছে আর কত টাকা রইল?",
+            "sum": "250 + 150 − 230",
+            "unit": "টাকা"
+          },
+          {
+            "kind": "word",
+            "text": "দুটি সংখ্যার যোগফল ৮৪০। এদের একটি সংখ্যা ৫২৭ হলে অপর সংখ্যাটি কত?",
+            "sum": "840 − 527",
+            "unit": ""
+          },
+          {
+            "kind": "word",
+            "text": "একজন দোকানদার সপ্তাহে আয় করেন ৯২০ টাকা এবং সপ্তাহে ব্যয় করেন ৬৭৫ টাকা। সপ্তাহ শেষে তার নিকট কত টাকা জমা থাকে?",
+            "sum": "920 − 675",
+            "unit": "টাকা"
+          },
+          {
+            "kind": "word",
+            "text": "দুটি সংখ্যার বিয়োগফল ৮৭। বড়ো সংখ্যাটি ৩৬৯ হলে ছোটো সংখ্যাটি কত?",
+            "sum": "369 − 87",
+            "unit": ""
+          },
+          {
+            "kind": "word",
+            "text": "একটি ঝুড়িতে ৪২৫টি আম এবং অপর একটি ঝুড়িতে ৩৪৫টি আম আছে। দুটি ঝুড়িতে মোট কতটি আম আছে?",
+            "sum": "425 + 345",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "একটি ঝুড়িতে ৪২৫টি আম এবং অপর একটি ঝুড়িতে ৩৪৫টি আম আছে। মোট আম থেকে ১৭৫টি আম বিক্রি করা হলো। কতটি আম রইল?",
+            "sum": "425 + 345 − 175",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "৯টি সংখ্যার যোগফল ৩৬০। প্রথম থেকে ৪র্থ সংখ্যা পর্যন্ত ৪টি সংখ্যার যোগফল ১৫২। ৬ষ্ঠ থেকে ৯ম সংখ্যা পর্যন্ত ৪টি সংখ্যার যোগফল ১৬৪। ৫ম সংখ্যাটি কত?",
+            "sum": "360 − 152 − 164",
+            "unit": ""
+          },
+          {
+            "kind": "word",
+            "text": "নাহিদের ৪৫০ টাকা আছে। নাহিদ অপেক্ষা সুমনের ১১৫ টাকা কম আছে। তাদের টাকা একত্র করলে আরিফের টাকার সমান হয়। আরিফের কত টাকা আছে?",
+            "sum": "450 + 450 − 115",
+            "unit": "টাকা"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p072-wio-stories",
+      "qr": "M2-p72-a",
+      "code": "LSBVQZ7A",
+      "type": "work_it_out",
+      "title": "যোগ-বিয়োগের গল্প (৩)",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 72,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "word",
+            "text": "দুই ছেলের বয়স একত্রে ৩৭ বছর এবং পিতার বয়স ৬৩ বছর। ১০ বছর পর তাদের ৩ জনের বয়স মোট কত হবে?",
+            "sum": "37 + 63 + 10 + 10 + 10",
+            "unit": "বছর"
+          },
+          {
+            "kind": "word",
+            "text": "সুজন ১০০০ টাকা উপবৃত্তি পেল। সে তা থেকে ৩৫০ টাকা দিয়ে ড্রেস এবং ৪৭৫ টাকা দিয়ে স্কুলের ব্যাগ কিনল। তার নিকট কত টাকা রইল?",
+            "sum": "1000 − 350 − 475",
+            "unit": "টাকা"
+          },
+          {
+            "kind": "word",
+            "text": "ক্রিকেট খেলার ব্যাট ও বল কেনার জন্য ৭৫০ টাকা প্রয়োজন। সকল সদস্য মোট ৩৩০ টাকা দিল। ক্লাবের অনুদান হিসেবে ২৫০ টাকা দেওয়া হলো। তাদের আর কত টাকা প্রয়োজন?",
+            "sum": "750 − 330 − 250",
+            "unit": "টাকা"
+          },
+          {
+            "kind": "word",
+            "text": "একটি ফলের দোকানের মূল্য তালিকা: আম ১০০ টাকা, আপেল ২২০ টাকা, কমলা ১৬০ টাকা (প্রতি কেজি)। আমের মূল্যের চেয়ে আপেলের মূল্য কত টাকা বেশি?",
+            "sum": "220 − 100",
+            "unit": "টাকা"
+          },
+          {
+            "kind": "word",
+            "text": "একটি ফলের দোকানের মূল্য তালিকা: আম ১০০ টাকা, আপেল ২২০ টাকা, কমলা ১৬০ টাকা (প্রতি কেজি)। ফলগুলোর মোটমূল্য কত টাকা?",
+            "sum": "100 + 220 + 160",
+            "unit": "টাকা"
+          },
+          {
+            "kind": "word",
+            "text": "একজন চাষি নিজের জমি থেকে ৩২৬ বস্তা ধান পেয়েছেন এবং অন্যের জমি চাষ করে ১২৫ বস্তা ধান পেয়েছেন। তিনি মোট কত বস্তা ধান পেয়েছেন তা, গাণিতিক বাক্যে প্রকাশ করি।",
+            "sum": "326 + 125",
+            "unit": "বস্তা"
+          },
+          {
+            "kind": "word",
+            "text": "বিকাশ বড়ুয়া ১০০০ টাকা নিয়ে বই মেলায় গেলেন। বই কেনার পর তার কাছে ২০০ টাকা রইল। তিনি কত টাকার বই কিনলেন?",
+            "sum": "1000 − 200",
+            "unit": "টাকা"
+          },
+          {
+            "kind": "word",
+            "text": "নিজাম সাহেব ৯৭০ টাকা নিয়ে বাজারে গেলেন। তিনি ৫৫০ টাকা দিয়ে গরুর মাংস এবং ৩৭০ টাকা দিয়ে একটি মুরগি কিনলেন। তিনি মোট কত টাকা খরচ করলেন?",
+            "sum": "550 + 370",
+            "unit": "টাকা"
+          },
+          {
+            "kind": "word",
+            "text": "নিজাম সাহেব ৯৭০ টাকা নিয়ে বাজারে গেলেন। তিনি ৫৫০ টাকা দিয়ে গরুর মাংস এবং ৩৭০ টাকা দিয়ে একটি মুরগি কিনলেন। নিজাম সাহেবের নিকট কত টাকা রইল?",
+            "sum": "970 − 550 − 370",
+            "unit": "টাকা"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p076-repeated-addition",
+      "qr": "M2-p76-a",
+      "code": "LSM5GRXD",
+      "type": "equation_match",
+      "title": "যোগ থেকে গুণ · মিলাও",
+      "chapter": "অধ্যায় ৩ · গুণ",
+      "page": 76,
+      "configuration": {},
+      "content": {
+        "pairs": [
+          {
+            "left": "৩ + ৩ + ৩ + ৩",
+            "right": "৩ × ৪"
+          },
+          {
+            "left": "৪ + ৪ + ৪ + ৪ + ৪",
+            "right": "৪ × ৫"
+          },
+          {
+            "left": "৩ + ৩ + ৩ + ৩ + ৩",
+            "right": "৩ × ৫"
+          },
+          {
+            "left": "২ + ২ + ২ + ২ + ২",
+            "right": "২ × ৫"
+          },
+          {
+            "left": "৫ + ৫ + ৫ + ৫ + ৫ + ৫",
+            "right": "৫ × ৬"
+          },
+          {
+            "left": "২ + ২ + ২ + ২ + ২ + ২ + ২",
+            "right": "২ × ৭"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p077-wio-repeated-addition",
+      "qr": "M2-p77-a",
+      "code": "LSWXWHKP",
+      "type": "work_it_out",
+      "title": "যোগ থেকে গুণ · হিসাব করি",
+      "chapter": "অধ্যায় ৩ · গুণ",
+      "page": 77,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "missing",
+            "text": "4 + 4 + 4 + 4 + 4 = □"
+          },
+          {
+            "kind": "missing",
+            "text": "3 + 3 + 3 + 3 + 3 = □"
+          },
+          {
+            "kind": "missing",
+            "text": "2 + 2 + 2 + 2 + 2 = □"
+          },
+          {
+            "kind": "missing",
+            "text": "4 + 4 + 4 + 4 = □"
+          },
+          {
+            "kind": "missing",
+            "text": "2 + 2 + 2 + 2 + 2 + 2 = □"
+          },
+          {
+            "kind": "missing",
+            "text": "3 + 3 + 3 + 3 = □"
+          },
+          {
+            "kind": "sum",
+            "a": 3,
+            "op": "×",
+            "b": 5,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 4,
+            "op": "×",
+            "b": 3,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 4,
+            "op": "×",
+            "b": 4,
+            "layout": "row"
+          },
+          {
+            "kind": "word",
+            "text": "ছবিতে ৪টি থালার প্রত্যেকটিতে ৫টি করে টমেটো আছে। একত্রে কতগুলো টমেটো আছে?",
+            "sum": "5 × 4",
+            "unit": "টি"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p081-wio-tables-5-2",
+      "qr": "M2-p81-a",
+      "code": "LSSTXY9D",
+      "type": "work_it_out",
+      "title": "৫ ও ২ এর গুণ লিখি",
+      "chapter": "অধ্যায় ৩ · গুণ",
+      "page": 81,
+      "configuration": {
+        "fresh": {
+          "count": 10,
+          "skill": "mul",
+          "table": 2
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 5,
+            "op": "×",
+            "b": 3,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 5,
+            "op": "×",
+            "b": 4,
+            "layout": "row"
+          },
+          {
+            "kind": "word",
+            "text": "৬টি থালায় প্রতিটিতে ৫টি করে লিচু আছে। একত্রে কতগুলো লিচু আছে?",
+            "sum": "5 × 6",
+            "unit": "টি"
+          },
+          {
+            "kind": "sum",
+            "a": 2,
+            "op": "×",
+            "b": 3,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 2,
+            "op": "×",
+            "b": 4,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 2,
+            "op": "×",
+            "b": 5,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 2,
+            "op": "×",
+            "b": 6,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 2,
+            "op": "×",
+            "b": 7,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 2,
+            "op": "×",
+            "b": 8,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 2,
+            "op": "×",
+            "b": 9,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 2,
+            "op": "×",
+            "b": 10,
+            "layout": "row"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p083-tables-2-5",
+      "qr": "M2-p83-a",
+      "code": "LSXFFU7W",
+      "type": "equation_match",
+      "title": "২ ও ৫ এর নামতা · মিলাও",
+      "chapter": "অধ্যায় ৩ · গুণ",
+      "page": 83,
+      "configuration": {},
+      "content": {
+        "pairs": [
+          {
+            "left": "৫ × ৩",
+            "right": "১৫"
+          },
+          {
+            "left": "৫ × ৭",
+            "right": "৩৫"
+          },
+          {
+            "left": "৫ × ৯",
+            "right": "৪৫"
+          },
+          {
+            "left": "৫ × ৬",
+            "right": "৩০"
+          },
+          {
+            "left": "২ × ৪",
+            "right": "৮"
+          },
+          {
+            "left": "২ × ৭",
+            "right": "১৪"
+          },
+          {
+            "left": "২ × ৯",
+            "right": "১৮"
+          },
+          {
+            "left": "২ × ৬",
+            "right": "১২"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p084-wio-table-3",
+      "qr": "M2-p84-a",
+      "code": "LSAWM27M",
+      "type": "work_it_out",
+      "title": "৩ এর গুণ লিখি",
+      "chapter": "অধ্যায় ৩ · গুণ",
+      "page": 84,
+      "configuration": {
+        "fresh": {
+          "count": 10,
+          "skill": "mul",
+          "table": 3
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 3,
+            "op": "×",
+            "b": 3,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 3,
+            "op": "×",
+            "b": 4,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 3,
+            "op": "×",
+            "b": 5,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 3,
+            "op": "×",
+            "b": 6,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 3,
+            "op": "×",
+            "b": 7,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 3,
+            "op": "×",
+            "b": 8,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 3,
+            "op": "×",
+            "b": 9,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 3,
+            "op": "×",
+            "b": 10,
+            "layout": "row"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p086-wio-table-4",
+      "qr": "M2-p86-a",
+      "code": "LSFJWQH4",
+      "type": "work_it_out",
+      "title": "৪ এর গুণ লিখি",
+      "chapter": "অধ্যায় ৩ · গুণ",
+      "page": 86,
+      "configuration": {
+        "fresh": {
+          "count": 10,
+          "skill": "mul",
+          "table": 4
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 4,
+            "op": "×",
+            "b": 3,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 4,
+            "op": "×",
+            "b": 4,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 4,
+            "op": "×",
+            "b": 5,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 4,
+            "op": "×",
+            "b": 6,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 4,
+            "op": "×",
+            "b": 7,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 4,
+            "op": "×",
+            "b": 8,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 4,
+            "op": "×",
+            "b": 9,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 4,
+            "op": "×",
+            "b": 10,
+            "layout": "row"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p087-tables-2-5-rapid",
+      "qr": "M2-p87-a",
+      "code": "LSWGF5C9",
+      "type": "rapid_quiz",
+      "title": "নামতা ২–৫ · দ্রুত",
+      "chapter": "অধ্যায় ৩ · গুণ",
+      "page": 87,
+      "configuration": {},
+      "content": {
+        "questions": [
+          {
+            "prompt": "৩ × ৬ = ?",
+            "options": [
+              "১৫",
+              "২১",
+              "১৮"
+            ],
+            "answer": 2,
+            "why": "৩ × ৬ = ১৮"
+          },
+          {
+            "prompt": "৪ × ৭ = ?",
+            "options": [
+              "২৮",
+              "২৪",
+              "৩২"
+            ],
+            "answer": 0,
+            "why": "৪ × ৭ = ২৮"
+          },
+          {
+            "prompt": "২ × ৮ = ?",
+            "options": [
+              "১৬",
+              "১৮",
+              "১৪"
+            ],
+            "answer": 0,
+            "why": "২ × ৮ = ১৬"
+          },
+          {
+            "prompt": "৫ × ৪ = ?",
+            "options": [
+              "১৫",
+              "২০",
+              "২৫"
+            ],
+            "answer": 1,
+            "why": "৫ × ৪ = ২০"
+          },
+          {
+            "prompt": "৩ × ৯ = ?",
+            "options": [
+              "৩০",
+              "২৭",
+              "২৪"
+            ],
+            "answer": 1,
+            "why": "৩ × ৯ = ২৭"
+          },
+          {
+            "prompt": "৪ × ৬ = ?",
+            "options": [
+              "২৪",
+              "২৮",
+              "২০"
+            ],
+            "answer": 0,
+            "why": "৪ × ৬ = ২৪"
+          },
+          {
+            "prompt": "৫ × ৮ = ?",
+            "options": [
+              "৪০",
+              "৪৫",
+              "৩৫"
+            ],
+            "answer": 0,
+            "why": "৫ × ৮ = ৪০"
+          },
+          {
+            "prompt": "২ × ৯ = ?",
+            "options": [
+              "১৬",
+              "১৮",
+              "২০"
+            ],
+            "answer": 1,
+            "why": "২ × ৯ = ১৮"
+          },
+          {
+            "prompt": "৪ × ৯ = ?",
+            "options": [
+              "৩৬",
+              "৪০",
+              "৩২"
+            ],
+            "answer": 0,
+            "why": "৪ × ৯ = ৩৬"
+          },
+          {
+            "prompt": "৩ × ৮ = ?",
+            "options": [
+              "২১",
+              "২৪",
+              "২৭"
+            ],
+            "answer": 1,
+            "why": "৩ × ৮ = ২৪"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p087-wio-stories",
+      "qr": "M2-p87-b",
+      "code": "LS9V48VE",
+      "type": "work_it_out",
+      "title": "গুণের গল্প (১)",
+      "chapter": "অধ্যায় ৩ · গুণ",
+      "page": 87,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "word",
+            "text": "মিনা প্রতিদিন একটি বইয়ের ২ পৃষ্ঠা পড়ে। সে ৭ দিনে কত পৃষ্ঠা পড়ে?",
+            "sum": "2 × 7",
+            "unit": "পৃষ্ঠা"
+          },
+          {
+            "kind": "word",
+            "text": "একটি চকলেটের দাম ২ টাকা। রাজু ৬টি চকলেট কিনল। চকলেটগুলোর দাম কত টাকা?",
+            "sum": "2 × 6",
+            "unit": "টাকা"
+          },
+          {
+            "kind": "word",
+            "text": "একটি চকলেটের দাম ২ টাকা। রাজু ৬টি চকলেট কিনল। যদি সে আরও ৭টি চকলেট কিনে, তবে মোট কত টাকা লাগবে?",
+            "sum": "2 × 6 + 2 × 7",
+            "unit": "টাকা"
+          },
+          {
+            "kind": "word",
+            "text": "একটি রিক্সায় ৩টি চাকা আছে। ৪টি রিক্সায় একত্রে কয়টি চাকা রয়েছে?",
+            "sum": "3 × 4",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "একটি থালায় ৩টি পেয়ারা সাজানো যায়। ৭টি থালা সাজাতে কয়টি পেয়ারা প্রয়োজন?",
+            "sum": "3 × 7",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "একটি পরিবারে ৩ জন সদস্য থাকলে এরূপ ৯টি পরিবারে কতজন সদস্য থাকবে?",
+            "sum": "3 × 9",
+            "unit": "জন"
+          },
+          {
+            "kind": "word",
+            "text": "১টি বিড়ালের ৪টি পা আছে। ৮টি বিড়ালের মোট কতটি পা আছে?",
+            "sum": "4 × 8",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "১টি চেয়ারের ৪টি পায়া রয়েছে। ৬টি চেয়ারের কতটি পায়া আছে?",
+            "sum": "4 × 6",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "প্রতিটি ভেড়ার ৪টি বাচ্চা থাকলে ৯টি ভেড়ার কয়টি বাচ্চা থাকবে?",
+            "sum": "4 × 9",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "বাদলের বাবা এক সপ্তাহে ৫ দিন কাজ করেন। তিনি ৬ সপ্তাহে কতদিন কাজ করেন?",
+            "sum": "5 × 6",
+            "unit": "দিন"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p088-wio-table-6",
+      "qr": "M2-p88-a",
+      "code": "LSET3A5J",
+      "type": "work_it_out",
+      "title": "৬ এর গুণ লিখি",
+      "chapter": "অধ্যায় ৩ · গুণ",
+      "page": 88,
+      "configuration": {
+        "fresh": {
+          "count": 10,
+          "skill": "mul",
+          "table": 6
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 6,
+            "op": "×",
+            "b": 3,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 6,
+            "op": "×",
+            "b": 4,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 6,
+            "op": "×",
+            "b": 5,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 6,
+            "op": "×",
+            "b": 6,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 6,
+            "op": "×",
+            "b": 7,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 6,
+            "op": "×",
+            "b": 8,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 6,
+            "op": "×",
+            "b": 9,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 6,
+            "op": "×",
+            "b": 10,
+            "layout": "row"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p090-wio-table-7",
+      "qr": "M2-p90-a",
+      "code": "LS4Z4JQZ",
+      "type": "work_it_out",
+      "title": "৭ এর গুণ লিখি",
+      "chapter": "অধ্যায় ৩ · গুণ",
+      "page": 90,
+      "configuration": {
+        "fresh": {
+          "count": 10,
+          "skill": "mul",
+          "table": 7
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 7,
+            "op": "×",
+            "b": 3,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 7,
+            "op": "×",
+            "b": 4,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 7,
+            "op": "×",
+            "b": 5,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 7,
+            "op": "×",
+            "b": 6,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 7,
+            "op": "×",
+            "b": 7,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 7,
+            "op": "×",
+            "b": 8,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 7,
+            "op": "×",
+            "b": 9,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 7,
+            "op": "×",
+            "b": 10,
+            "layout": "row"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p093-tables-6-9",
+      "qr": "M2-p93-a",
+      "code": "LSQB7YAV",
+      "type": "equation_match",
+      "title": "৬, ৭, ৮ ও ৯ এর নামতা · মিলাও",
+      "chapter": "অধ্যায় ৩ · গুণ",
+      "page": 93,
+      "configuration": {},
+      "content": {
+        "pairs": [
+          {
+            "left": "৬ × ৪",
+            "right": "২৪"
+          },
+          {
+            "left": "৬ × ৭",
+            "right": "৪২"
+          },
+          {
+            "left": "৭ × ৩",
+            "right": "২১"
+          },
+          {
+            "left": "৭ × ৮",
+            "right": "৫৬"
+          },
+          {
+            "left": "৮ × ৫",
+            "right": "৪০"
+          },
+          {
+            "left": "৮ × ৯",
+            "right": "৭২"
+          },
+          {
+            "left": "৯ × ৬",
+            "right": "৫৪"
+          },
+          {
+            "left": "৯ × ৭",
+            "right": "৬৩"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p094-wio-stories",
+      "qr": "M2-p94-a",
+      "code": "LSBM7S9P",
+      "type": "work_it_out",
+      "title": "গুণের গল্প (২)",
+      "chapter": "অধ্যায় ৩ · গুণ",
+      "page": 94,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "word",
+            "text": "৭ দিনে ১ সপ্তাহ। ৮ সপ্তাহে কত দিন?",
+            "sum": "7 × 8",
+            "unit": "দিন"
+          },
+          {
+            "kind": "word",
+            "text": "৫টি বাক্সের প্রতিটিতে ৮টি করে চকলেট আছে। সেখানে কতগুলো চকলেট আছে?",
+            "sum": "8 × 5",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "একটি শ্রেণিকক্ষে প্রতিটি দলে ৮ জন করে শিক্ষার্থী আছে। যদি ৯টি দল থাকে, তবে সেখানে কতজন শিক্ষার্থী থাকবে?",
+            "sum": "8 × 9",
+            "unit": "জন"
+          },
+          {
+            "kind": "word",
+            "text": "প্রতিটি ঝুড়িতে ৯টি করে রুটি রাখা যায়। এরকম ৭টি ঝুড়িতে কতগুলো রুটি রাখা যায়?",
+            "sum": "9 × 7",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "রফিক একদিনে একটি বইয়ের ৯ পৃষ্ঠা পড়ে। সে ৮ দিনে কত পৃষ্ঠা পড়ে?",
+            "sum": "9 × 8",
+            "unit": "পৃষ্ঠা"
+          },
+          {
+            "kind": "word",
+            "text": "একজন মানুষের দুই হাতে মোট ১০টি আঙ্গুল আছে। এরকম ৭ জন মানুষের হাতে কতটি আঙ্গুল রয়েছে?",
+            "sum": "10 × 7",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "৩ জন ছাত্রকে ৫টি ও ৪ জন ছাত্রীকে ৭টি করে বই দিলে কতটি বইয়ের প্রয়োজন হবে?",
+            "sum": "5 × 3 + 7 × 4",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "৪ টাকা দরে ৭টি লিচু, ৬ টাকা দরে ৮টি আমড়া এবং ৯ টাকা দরে ৫টি কলা কিনতে মোট কত টাকা লাগবে?",
+            "sum": "4 × 7 + 6 × 8 + 9 × 5",
+            "unit": "টাকা"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p096-wio-one-zero",
+      "qr": "M2-p96-a",
+      "code": "LSDNTJ6A",
+      "type": "work_it_out",
+      "title": "১ ও ০ এর গুণ",
+      "chapter": "অধ্যায় ৩ · গুণ",
+      "page": 96,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "word",
+            "text": "যদি আমরা প্রতিদিন ১ টাকা করে জমা করি, তবে ৮ দিনে কত টাকা জমা করতে পারব?",
+            "sum": "1 × 8",
+            "unit": "টাকা"
+          },
+          {
+            "kind": "word",
+            "text": "একটি শ্রেণির প্রথম বেঞ্চে ৫ জন, দ্বিতীয় বেঞ্চে ৬ জন এবং তৃতীয় বেঞ্চে ৮ জন ছাত্র আছে। প্রত্যেক ছাত্রকে ১ টাকা করে প্রদান করলে কত টাকা প্রয়োজন হবে?",
+            "sum": "1 × (5 + 6 + 8)",
+            "unit": "টাকা"
+          },
+          {
+            "kind": "sum",
+            "a": 2,
+            "op": "×",
+            "b": 2,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 1,
+            "op": "×",
+            "b": 2,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 0,
+            "op": "×",
+            "b": 2,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 3,
+            "op": "×",
+            "b": 2,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 3,
+            "op": "×",
+            "b": 1,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 3,
+            "op": "×",
+            "b": 0,
+            "layout": "row"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p097-tables-6-10-rapid",
+      "qr": "M2-p97-a",
+      "code": "LS456XJT",
+      "type": "rapid_quiz",
+      "title": "নামতা ৬–১০ · দ্রুত",
+      "chapter": "অধ্যায় ৩ · গুণ",
+      "page": 97,
+      "configuration": {},
+      "content": {
+        "questions": [
+          {
+            "prompt": "৬ × ৮ = ?",
+            "options": [
+              "৪২",
+              "৫৪",
+              "৪৮"
+            ],
+            "answer": 2,
+            "why": "৬ × ৮ = ৪৮"
+          },
+          {
+            "prompt": "৭ × ৬ = ?",
+            "options": [
+              "৩৫",
+              "৪৯",
+              "৪২"
+            ],
+            "answer": 2,
+            "why": "৭ × ৬ = ৪২"
+          },
+          {
+            "prompt": "৮ × ৪ = ?",
+            "options": [
+              "২৪",
+              "৩২",
+              "৪০"
+            ],
+            "answer": 1,
+            "why": "৮ × ৪ = ৩২"
+          },
+          {
+            "prompt": "৯ × ৩ = ?",
+            "options": [
+              "৩৬",
+              "১৮",
+              "২৭"
+            ],
+            "answer": 2,
+            "why": "৯ × ৩ = ২৭"
+          },
+          {
+            "prompt": "১০ × ৭ = ?",
+            "options": [
+              "৭০",
+              "৬০",
+              "৮০"
+            ],
+            "answer": 0,
+            "why": "১০ × ৭ = ৭০"
+          },
+          {
+            "prompt": "৬ × ৯ = ?",
+            "options": [
+              "৪৮",
+              "৬০",
+              "৫৪"
+            ],
+            "answer": 2,
+            "why": "৬ × ৯ = ৫৪"
+          },
+          {
+            "prompt": "৭ × ৭ = ?",
+            "options": [
+              "৪৯",
+              "৪২",
+              "৫৬"
+            ],
+            "answer": 0,
+            "why": "৭ × ৭ = ৪৯"
+          },
+          {
+            "prompt": "৮ × ৮ = ?",
+            "options": [
+              "৭২",
+              "৫৬",
+              "৬৪"
+            ],
+            "answer": 2,
+            "why": "৮ × ৮ = ৬৪"
+          },
+          {
+            "prompt": "৯ × ৯ = ?",
+            "options": [
+              "৮১",
+              "৭২",
+              "৯০"
+            ],
+            "answer": 0,
+            "why": "৯ × ৯ = ৮১"
+          },
+          {
+            "prompt": "১০ × ৫ = ?",
+            "options": [
+              "৬০",
+              "৫০",
+              "৪০"
+            ],
+            "answer": 1,
+            "why": "১০ × ৫ = ৫০"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p098-commutative",
+      "qr": "M2-p98-a",
+      "code": "LSQWNZU4",
+      "type": "mcq",
+      "title": "গুণের বিনিময়, ১ ও ০ এর গুণ",
+      "chapter": "অধ্যায় ৩ · গুণ",
+      "page": 98,
+      "configuration": {},
+      "content": {
+        "questions": [
+          {
+            "prompt": "৩ × ৪ = ১২ হলে ৪ × ৩ = কত?",
+            "options": [
+              "১২",
+              "১৬",
+              "৭",
+              "২২"
+            ],
+            "answer": 0,
+            "why": "সংখ্যা বিনিময় করে গুণ করলে গুণফলের কোনো পরিবর্তন হয় না: ৪ × ৩ = ১২"
+          },
+          {
+            "prompt": "১৬ কোন দুটি সংখ্যার গুণফল?",
+            "options": [
+              "৩ × ৬",
+              "২ × ৮",
+              "৪ × ৫",
+              "৩ × ৫"
+            ],
+            "answer": 1,
+            "why": "২ × ৮ = ১৬"
+          },
+          {
+            "prompt": "২৪ কোন দুটি সংখ্যার গুণফল?",
+            "options": [
+              "৩ × ৭",
+              "৪ × ৫",
+              "৩ × ৮",
+              "৫ × ৫"
+            ],
+            "answer": 2,
+            "why": "৩ × ৮ = ২৪"
+          },
+          {
+            "prompt": "৩৬ কোন দুটি সংখ্যার গুণফল?",
+            "options": [
+              "৪ × ৮",
+              "৪ × ৯",
+              "৫ × ৭",
+              "৬ × ৫"
+            ],
+            "answer": 1,
+            "why": "৪ × ৯ = ৩৬"
+          },
+          {
+            "prompt": "৬৩ কোন দুটি সংখ্যার গুণফল?",
+            "options": [
+              "৭ × ৯",
+              "৮ × ৮",
+              "৭ × ৮",
+              "৬ × ৯"
+            ],
+            "answer": 0,
+            "why": "৭ × ৯ = ৬৩"
+          },
+          {
+            "prompt": "৭২ কোন দুটি সংখ্যার গুণফল?",
+            "options": [
+              "৮ × ৯",
+              "৬ × ৯",
+              "৮ × ৮",
+              "৭ × ৯"
+            ],
+            "answer": 0,
+            "why": "৮ × ৯ = ৭২"
+          },
+          {
+            "prompt": "কোনো সংখ্যাকে ০ দিয়ে গুণ করলে গুণফল কত হয়?",
+            "options": [
+              "সংখ্যাটি নিজেই",
+              "০",
+              "১"
+            ],
+            "answer": 1,
+            "why": "যখন একটি সংখ্যাকে ০ দিয়ে গুণ করা হয়, তখন এর উত্তর সবসময়ই ০ হবে।"
+          },
+          {
+            "prompt": "০ × ২ = কত?",
+            "options": [
+              "০",
+              "১",
+              "২",
+              "১০"
+            ],
+            "answer": 0,
+            "why": "০ × ২ = ০"
+          },
+          {
+            "prompt": "১ × ৭ = কত?",
+            "options": [
+              "৭",
+              "১",
+              "১৭",
+              "৮"
+            ],
+            "answer": 0,
+            "why": "১ × ৭ = ৭"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p099-two-digit",
+      "qr": "M2-p99-a",
+      "code": "LSKJNMSW",
+      "type": "equation_match",
+      "title": "দুই অঙ্কের সংখ্যার গুণ · মিলাও",
+      "chapter": "অধ্যায় ৩ · গুণ",
+      "page": 99,
+      "configuration": {},
+      "content": {
+        "pairs": [
+          {
+            "left": "১২ × ৪",
+            "right": "৪৮"
+          },
+          {
+            "left": "১৪ × ২",
+            "right": "২৮"
+          },
+          {
+            "left": "২৩ × ৩",
+            "right": "৬৯"
+          },
+          {
+            "left": "১১ × ৭",
+            "right": "৭৭"
+          },
+          {
+            "left": "৩২ × ৩",
+            "right": "৯৬"
+          },
+          {
+            "left": "৩৪ × ২",
+            "right": "৬৮"
+          },
+          {
+            "left": "২১ × ৪",
+            "right": "৮৪"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p099-wio-two-digit",
+      "qr": "M2-p99-b",
+      "code": "LSSSTQZM",
+      "type": "work_it_out",
+      "title": "গুণ করি ও গল্পের অঙ্ক",
+      "chapter": "অধ্যায় ৩ · গুণ",
+      "page": 99,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "sum",
+            "a": 14,
+            "op": "×",
+            "b": 2,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 23,
+            "op": "×",
+            "b": 3,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 11,
+            "op": "×",
+            "b": 7,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 32,
+            "op": "×",
+            "b": 3,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 34,
+            "op": "×",
+            "b": 2,
+            "layout": "row"
+          },
+          {
+            "kind": "sum",
+            "a": 21,
+            "op": "×",
+            "b": 4,
+            "layout": "row"
+          },
+          {
+            "kind": "word",
+            "text": "রাজুর বাবা এক দিনে ৮ ঘণ্টা কাজ করেন। যদি তিনি ৩ দিন কাজ করেন, তবে কত ঘণ্টা কাজ হবে?",
+            "sum": "8 × 3",
+            "unit": "ঘণ্টা"
+          },
+          {
+            "kind": "word",
+            "text": "আব্দুল করিম ৩টি গল্পের বই কিনতে চায়। প্রতিটি বইয়ের মূল্য ৩০ টাকা। বই কিনতে তার কত টাকা লাগবে?",
+            "sum": "30 × 3",
+            "unit": "টাকা"
+          },
+          {
+            "kind": "word",
+            "text": "একটি প্যাকেটে ২টি লজেন্স আছে। ৮টি প্যাকেটে কতগুলো লজেন্স আছে?",
+            "sum": "2 × 8",
+            "unit": "টি"
+          },
+          {
+            "kind": "word",
+            "text": "একটি শ্রেণিকক্ষে ১০টি বেঞ্চ আছে। একটি বেঞ্চে ৪ জন ছাত্র বসতে পারে। শ্রেণিকক্ষে মোট কতজন ছাত্র বসতে পারবে?",
+            "sum": "4 × 10",
+            "unit": "জন"
+          },
+          {
+            "kind": "word",
+            "text": "বাবা প্রতিদিন ৪ ঘণ্টা হাঁটেন। ৭ দিনে তিনি কত ঘণ্টা হাঁটেন?",
+            "sum": "4 × 7",
+            "unit": "ঘণ্টা"
+          },
+          {
+            "kind": "word",
+            "text": "উজ্জ্বল ৪টি বই কিনতে চায়। প্রতিটি বইয়ের দাম ২২ টাকা। বই কিনতে তার কত টাকা লাগবে?",
+            "sum": "22 × 4",
+            "unit": "টাকা"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p101-word-problems",
+      "qr": "M2-p101-a",
+      "code": "LSWRABHQ",
+      "type": "mcq",
+      "title": "গুণের সমস্যা",
+      "chapter": "অধ্যায় ৩ · গুণ",
+      "page": 101,
+      "configuration": {},
+      "content": {
+        "questions": [
+          {
+            "prompt": "৬টি থালায় প্রতিটিতে ৫টি করে লিচু আছে। একত্রে কতগুলো লিচু আছে?",
+            "options": [
+              "৩৫টি",
+              "২৫টি",
+              "১১টি",
+              "৩০টি"
+            ],
+            "answer": 3,
+            "why": "৫ কে ৬ বার যোগ করি: ৫ × ৬ = ৩০"
+          },
+          {
+            "prompt": "মিনা প্রতিদিন একটি বইয়ের ২ পৃষ্ঠা পড়ে। সে ৭ দিনে কত পৃষ্ঠা পড়ে?",
+            "options": [
+              "১২ পৃষ্ঠা",
+              "১৪ পৃষ্ঠা",
+              "১৬ পৃষ্ঠা",
+              "৯ পৃষ্ঠা"
+            ],
+            "answer": 1,
+            "why": "২ কে ৭ বার যোগ করি: ২ × ৭ = ১৪"
+          },
+          {
+            "prompt": "একটি পরিবারে ৩ জন সদস্য থাকলে এরূপ ৯টি পরিবারে কতজন সদস্য থাকবে?",
+            "options": [
+              "৩০ জন",
+              "২৭ জন",
+              "২৪ জন",
+              "১২ জন"
+            ],
+            "answer": 1,
+            "why": "৩ কে ৯ বার যোগ করি: ৩ × ৯ = ২৭"
+          },
+          {
+            "prompt": "১টি বিড়ালের ৪টি পা আছে। ৮টি বিড়ালের মোট কতটি পা আছে?",
+            "options": [
+              "৩২টি",
+              "১২টি",
+              "২৮টি",
+              "৩৬টি"
+            ],
+            "answer": 0,
+            "why": "৪ কে ৮ বার যোগ করি: ৪ × ৮ = ৩২"
+          },
+          {
+            "prompt": "বাদলের বাবা এক সপ্তাহে ৫ দিন কাজ করেন। তিনি ৬ সপ্তাহে কতদিন কাজ করেন?",
+            "options": [
+              "২৫ দিন",
+              "১১ দিন",
+              "৩০ দিন",
+              "৩৫ দিন"
+            ],
+            "answer": 2,
+            "why": "৫ কে ৬ বার যোগ করি: ৫ × ৬ = ৩০"
+          },
+          {
+            "prompt": "৭ দিনে ১ সপ্তাহ। ৮ সপ্তাহে কত দিন?",
+            "options": [
+              "৫৬ দিন",
+              "১৫ দিন",
+              "৬৩ দিন",
+              "৪৯ দিন"
+            ],
+            "answer": 0,
+            "why": "৭ কে ৮ বার যোগ করি: ৭ × ৮ = ৫৬"
+          },
+          {
+            "prompt": "একটি শ্রেণিকক্ষে প্রতিটি দলে ৮ জন করে শিক্ষার্থী আছে। যদি ৯টি দল থাকে, তবে সেখানে কতজন শিক্ষার্থী থাকবে?",
+            "options": [
+              "১৭ জন",
+              "৮০ জন",
+              "৬৪ জন",
+              "৭২ জন"
+            ],
+            "answer": 3,
+            "why": "৮ কে ৯ বার যোগ করি: ৮ × ৯ = ৭২"
+          },
+          {
+            "prompt": "প্রতিটি ঝুড়িতে ৯টি করে রুটি রাখা যায়। এরকম ৭টি ঝুড়িতে কতগুলো রুটি রাখা যায়?",
+            "options": [
+              "৭২টি",
+              "৫৪টি",
+              "৬৩টি",
+              "১৬টি"
+            ],
+            "answer": 2,
+            "why": "৯ কে ৭ বার যোগ করি: ৯ × ৭ = ৬৩"
+          },
+          {
+            "prompt": "রাজুর বাবা এক দিনে ৮ ঘণ্টা কাজ করেন। যদি তিনি ৩ দিন কাজ করেন, তবে কত ঘণ্টা কাজ হবে?",
+            "options": [
+              "১১ ঘণ্টা",
+              "১৬ ঘণ্টা",
+              "৩২ ঘণ্টা",
+              "২৪ ঘণ্টা"
+            ],
+            "answer": 3,
+            "why": "৮ কে ৩ বার যোগ করি: ৮ × ৩ = ২৪"
+          },
+          {
+            "prompt": "উজ্জ্বল ৪টি বই কিনতে চায়। প্রতিটি বইয়ের দাম ২২ টাকা। বই কিনতে তার কত টাকা লাগবে?",
+            "options": [
+              "৬৬ টাকা",
+              "২৬ টাকা",
+              "১১০ টাকা",
+              "৮৮ টাকা"
+            ],
+            "answer": 3,
+            "why": "২২ কে ৪ বার যোগ করি: ২২ × ৪ = ৮৮"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p103-shapes-sort",
+      "qr": "M2-p103-a",
+      "code": "LSZMVGBQ",
+      "type": "categorize",
+      "title": "আকৃতি চিনি · সাজাও",
+      "chapter": "অধ্যায় ৪ · জ্যামিতিক আকৃতি ও প্যাটার্ন",
+      "page": 103,
+      "configuration": {},
+      "content": {
+        "categories": [
+          {
+            "name": "ত্রিভুজাকার (তিনকোনা)",
+            "emoji": "🔺"
+          },
+          {
+            "name": "চতুর্ভুজাকার (চারকোনা)",
+            "emoji": "🟧"
+          },
+          {
+            "name": "গোলাকার",
+            "emoji": "🟢"
+          }
+        ],
+        "items": [
+          {
+            "text": "সমুচা",
+            "category": 0,
+            "emoji": "🥟"
+          },
+          {
+            "text": "পিরামিড",
+            "category": 0,
+            "emoji": "🔺"
+          },
+          {
+            "text": "বই",
+            "category": 1,
+            "emoji": "📕"
+          },
+          {
+            "text": "ম্যাচ বাক্স",
+            "category": 1,
+            "emoji": "📦"
+          },
+          {
+            "text": "ইট",
+            "category": 1,
+            "emoji": "🧱"
+          },
+          {
+            "text": "পাউরুটি",
+            "category": 1,
+            "emoji": "🍞"
+          },
+          {
+            "text": "ফুটবল",
+            "category": 2,
+            "emoji": "⚽"
+          },
+          {
+            "text": "১ টাকার কয়েন",
+            "category": 2,
+            "emoji": "🪙"
+          },
+          {
+            "text": "মার্বেল",
+            "category": 2,
+            "emoji": "🔮"
+          },
+          {
+            "text": "আংটি",
+            "category": 2,
+            "emoji": "💍"
+          },
+          {
+            "text": "রসগোল্লা",
+            "category": 2,
+            "emoji": "⚪"
+          },
+          {
+            "text": "মোয়া",
+            "category": 2,
+            "emoji": "🟤"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p104-shapes-quiz",
+      "qr": "M2-p104-a",
+      "code": "LSZCF5E9",
+      "type": "mcq",
+      "title": "কোনটি কোন আকৃতি?",
+      "chapter": "অধ্যায় ৪ · জ্যামিতিক আকৃতি ও প্যাটার্ন",
+      "page": 104,
+      "configuration": {},
+      "content": {
+        "questions": [
+          {
+            "prompt": "সমুচার আকৃতি কেমন?",
+            "options": [
+              "ত্রিভুজাকার",
+              "চতুর্ভুজাকার",
+              "গোলাকার"
+            ],
+            "answer": 0,
+            "why": "সমুচার তিনটি কোনা: ত্রিভুজাকার।"
+          },
+          {
+            "prompt": "ইটের আকৃতি কেমন?",
+            "options": [
+              "ত্রিভুজাকার",
+              "চতুর্ভুজাকার",
+              "গোলাকার"
+            ],
+            "answer": 1,
+            "why": "ইটের পাশগুলো চারকোনা: চতুর্ভুজাকার।"
+          },
+          {
+            "prompt": "আংটির আকৃতি কেমন?",
+            "options": [
+              "ত্রিভুজাকার",
+              "চতুর্ভুজাকার",
+              "গোলাকার"
+            ],
+            "answer": 2,
+            "why": "আংটি গোল: গোলাকার।"
+          },
+          {
+            "prompt": "রসগোল্লার আকৃতি কেমন?",
+            "options": [
+              "ত্রিভুজাকার",
+              "চতুর্ভুজাকার",
+              "গোলাকার"
+            ],
+            "answer": 2,
+            "why": "রসগোল্লা গোল: গোলাকার।"
+          },
+          {
+            "prompt": "পাউরুটির আকৃতি কেমন?",
+            "options": [
+              "ত্রিভুজাকার",
+              "চতুর্ভুজাকার",
+              "গোলাকার"
+            ],
+            "answer": 1,
+            "why": "পাউরুটির টুকরোর চারটি কোনা: চতুর্ভুজাকার।"
+          },
+          {
+            "prompt": "১ টাকার কয়েনের আকৃতি কেমন?",
+            "options": [
+              "ত্রিভুজাকার",
+              "চতুর্ভুজাকার",
+              "গোলাকার"
+            ],
+            "answer": 2,
+            "why": "১ টাকার কয়েন গোলাকৃতি।"
+          },
+          {
+            "prompt": "ম্যাচ বাক্সের পৃষ্ঠদেশের আকৃতি কেমন?",
+            "options": [
+              "ত্রিভুজাকার",
+              "চতুর্ভুজাকার",
+              "গোলাকার"
+            ],
+            "answer": 1,
+            "why": "ম্যাচ বাক্সের পৃষ্ঠদেশ চারকোনা: চতুর্ভুজাকার।"
+          },
+          {
+            "prompt": "তিনকোনা আকৃতিকে কী বলে?",
+            "options": [
+              "ত্রিভুজাকার",
+              "চতুর্ভুজাকার",
+              "গোলাকার"
+            ],
+            "answer": 0,
+            "why": "তিনকোনা আকৃতি – ত্রিভুজ আকার।"
+          },
+          {
+            "prompt": "চারকোনা আকৃতিকে কী বলে?",
+            "options": [
+              "ত্রিভুজাকার",
+              "চতুর্ভুজাকার",
+              "গোলাকার"
+            ],
+            "answer": 1,
+            "why": "চারকোনা আকৃতি – চতুর্ভুজ আকার।"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p106-shape-patterns",
+      "qr": "M2-p106-a",
+      "code": "LSKXF7YE",
+      "type": "mcq",
+      "title": "প্যাটার্ন: পরেরটি কী?",
+      "chapter": "অধ্যায় ৪ · জ্যামিতিক আকৃতি ও প্যাটার্ন",
+      "page": 106,
+      "configuration": {},
+      "content": {
+        "questions": [
+          {
+            "prompt": "প্যাটার্নে পরের আকৃতি কোনটি? ○ □ □ □ ○ □ □ □ …",
+            "options": [
+              "○ গোলাকার",
+              "□ চতুর্ভুজাকার",
+              "△ ত্রিভুজাকার"
+            ],
+            "answer": 0,
+            "why": "○ □ □ □ বারবার আসছে, তাই এরপর ○।"
+          },
+          {
+            "prompt": "প্যাটার্নে পরের আকৃতি কোনটি? ○ □ □ □ ○ □ …",
+            "options": [
+              "○ গোলাকার",
+              "□ চতুর্ভুজাকার",
+              "△ ত্রিভুজাকার"
+            ],
+            "answer": 1,
+            "why": "○ □ □ □ বারবার আসছে, তাই এরপর □।"
+          },
+          {
+            "prompt": "প্যাটার্নে পরের আকৃতি কোনটি? △ □ □ □ △ □ □ …",
+            "options": [
+              "○ গোলাকার",
+              "□ চতুর্ভুজাকার",
+              "△ ত্রিভুজাকার"
+            ],
+            "answer": 1,
+            "why": "△ □ □ □ বারবার আসছে, তাই এরপর □।"
+          },
+          {
+            "prompt": "প্যাটার্নে পরের আকৃতি কোনটি? △ □ □ □ …",
+            "options": [
+              "○ গোলাকার",
+              "□ চতুর্ভুজাকার",
+              "△ ত্রিভুজাকার"
+            ],
+            "answer": 2,
+            "why": "△ □ □ □ বারবার আসছে, তাই এরপর △।"
+          },
+          {
+            "prompt": "প্যাটার্নে পরের আকৃতি কোনটি? △ ○ △ ○ △ …",
+            "options": [
+              "○ গোলাকার",
+              "□ চতুর্ভুজাকার",
+              "△ ত্রিভুজাকার"
+            ],
+            "answer": 0,
+            "why": "△ ○ বারবার আসছে, তাই এরপর ○।"
+          },
+          {
+            "prompt": "প্যাটার্নে পরের আকৃতি কোনটি? ○ ○ △ ○ ○ △ …",
+            "options": [
+              "○ গোলাকার",
+              "□ চতুর্ভুজাকার",
+              "△ ত্রিভুজাকার"
+            ],
+            "answer": 0,
+            "why": "○ ○ △ বারবার আসছে, তাই এরপর ○।"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p108-length",
+      "qr": "M2-p108-a",
+      "code": "LS2UGH88",
+      "type": "mcq",
+      "title": "দৈর্ঘ্য পরিমাপ",
+      "chapter": "অধ্যায় ৫ · পরিমাপ",
+      "page": 108,
+      "configuration": {},
+      "content": {
+        "questions": [
+          {
+            "prompt": "১ মিটার = কত সেন্টিমিটার?",
+            "options": [
+              "১০০০ সেন্টিমিটার",
+              "১১০ সেন্টিমিটার",
+              "১০০ সেন্টিমিটার",
+              "১০ সেন্টিমিটার"
+            ],
+            "answer": 2,
+            "why": "১০০ সেন্টিমিটারের সমান ১ মিটার।"
+          },
+          {
+            "prompt": "বড়ো বস্তুর দৈর্ঘ্য পরিমাপের জন্য কোন একক ব্যবহার করি?",
+            "options": [
+              "মিটার",
+              "সেন্টিমিটার",
+              "কেজি"
+            ],
+            "answer": 0,
+            "why": "বড়ো বস্তুর দৈর্ঘ্য পরিমাপের জন্য মিটার ব্যবহার করি।"
+          },
+          {
+            "prompt": "ছোটো বস্তুর দৈর্ঘ্য পরিমাপের জন্য কোন একক ব্যবহার করি?",
+            "options": [
+              "সেন্টিমিটার",
+              "লিটার",
+              "মিটার"
+            ],
+            "answer": 0,
+            "why": "ছোটো বস্তুর দৈর্ঘ্য পরিমাপের জন্য সেন্টিমিটার ব্যবহার করি।"
+          },
+          {
+            "prompt": "বস্তুর দৈর্ঘ্য পরিমাপ করতে কী ব্যবহার করা হয়?",
+            "options": [
+              "স্কেল বা ফিতা",
+              "ঘড়ি",
+              "দাঁড়িপাল্লা"
+            ],
+            "answer": 0,
+            "why": "বস্তুর দৈর্ঘ্য পরিমাপ করতে স্কেল বা ফিতা ব্যবহার করা হয়।"
+          },
+          {
+            "prompt": "স্কেল দিয়ে মাপার সময় বস্তুর এক প্রান্ত স্কেলের কোথায় রাখি?",
+            "options": [
+              "১ এর দাগে",
+              "শূন্য প্রান্তে",
+              "স্কেলের মাঝখানে"
+            ],
+            "answer": 1,
+            "why": "বস্তুর যেকোনো প্রান্ত স্কেলের শূন্য প্রান্তে রাখতে হয়।"
+          },
+          {
+            "prompt": "পেনসিলের এক প্রান্ত স্কেলের শূন্যতে, অন্য প্রান্ত ৮ এর সাথে মিলে গেল। পেনসিলের দৈর্ঘ্য কত?",
+            "options": [
+              "৮ সেন্টিমিটার",
+              "৯ সেন্টিমিটার",
+              "৮ মিটার"
+            ],
+            "answer": 0,
+            "why": "অন্য প্রান্ত ৮ এর সাথে মিলে যায়, অর্থাৎ পেনসিলের দৈর্ঘ্য ৮ সেন্টিমিটার।"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p112-weight",
+      "qr": "M2-p112-a",
+      "code": "LSSZGFN3",
+      "type": "mcq",
+      "title": "ওজন পরিমাপ",
+      "chapter": "অধ্যায় ৫ · পরিমাপ",
+      "page": 112,
+      "configuration": {},
+      "content": {
+        "questions": [
+          {
+            "prompt": "ওজন পরিমাপের একক কোনটি?",
+            "options": [
+              "মিটার",
+              "লিটার",
+              "কিলোগ্রাম বা কেজি"
+            ],
+            "answer": 2,
+            "why": "ওজন পরিমাপের একক হলো কিলোগ্রাম বা কেজি।"
+          },
+          {
+            "prompt": "১ কেজি = কত গ্রাম?",
+            "options": [
+              "১০০০ গ্রাম",
+              "১০ গ্রাম",
+              "১০১০ গ্রাম",
+              "১০০ গ্রাম"
+            ],
+            "answer": 0,
+            "why": "১ কেজি = ১০০০ গ্রাম"
+          },
+          {
+            "prompt": "কম ওজনের বস্তু মাপতে কোন একক ব্যবহার করা হয়?",
+            "options": [
+              "কেজি",
+              "সেন্টিমিটার",
+              "গ্রাম"
+            ],
+            "answer": 2,
+            "why": "কম ওজনের বস্তু মাপতে হলে গ্রাম একক ব্যবহার করা হয়।"
+          },
+          {
+            "prompt": "বস্তুর ওজন পরিমাপ করতে কী ব্যবহার করা হয়?",
+            "options": [
+              "স্কেল বা ফিতা",
+              "ঘড়ি",
+              "দাঁড়িপাল্লা বা ডিজিটাল মাপনী"
+            ],
+            "answer": 2,
+            "why": "বস্তুর ওজন পরিমাপ করতে দাঁড়িপাল্লা বা ডিজিটাল মাপনী ব্যবহার করা হয়।"
+          },
+          {
+            "prompt": "২৫ গ্রাম বাটখারার সমান কোনটি?",
+            "options": [
+              "১০ গ্রাম + ৫ গ্রাম + ৫ গ্রাম",
+              "১০ গ্রাম + ১০ গ্রাম + ৫ গ্রাম",
+              "২০ গ্রাম + ১০ গ্রাম"
+            ],
+            "answer": 1,
+            "why": "১০ গ্রাম + ১০ গ্রাম + ৫ গ্রাম = ২৫ গ্রাম"
+          },
+          {
+            "prompt": "৫০ গ্রাম বাটখারার সমান কোনটি?",
+            "options": [
+              "২০ গ্রাম + ২০ গ্রাম + ২০ গ্রাম",
+              "২০ গ্রাম + ২০ গ্রাম + ১০ গ্রাম",
+              "২০ গ্রাম + ১০ গ্রাম + ১০ গ্রাম"
+            ],
+            "answer": 1,
+            "why": "২০ গ্রাম + ২০ গ্রাম + ১০ গ্রাম = ৫০ গ্রাম"
+          },
+          {
+            "prompt": "১০০ গ্রাম বাটখারার সমান কোনটি?",
+            "options": [
+              "৫০ গ্রাম + ২০ গ্রাম + ২০ গ্রাম + ১০ গ্রাম",
+              "৫০ গ্রাম + ২০ গ্রাম + ১০ গ্রাম",
+              "৫০ গ্রাম + ৫০ গ্রাম + ২০ গ্রাম"
+            ],
+            "answer": 0,
+            "why": "৫০ গ্রাম + ২০ গ্রাম + ২০ গ্রাম + ১০ গ্রাম = ১০০ গ্রাম"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p116-liquid",
+      "qr": "M2-p116-a",
+      "code": "LSQ9ZX77",
+      "type": "mcq",
+      "title": "তরলের আয়তন",
+      "chapter": "অধ্যায় ৫ · পরিমাপ",
+      "page": 116,
+      "configuration": {},
+      "content": {
+        "questions": [
+          {
+            "prompt": "তরলের আয়তন পরিমাপে আমরা কোন আন্তর্জাতিক একক ব্যবহার করি?",
+            "options": [
+              "মিটার",
+              "কেজি",
+              "লিটার"
+            ],
+            "answer": 2,
+            "why": "তরলের আয়তন পরিমাপে আমরা আন্তর্জাতিক একক লিটার ব্যবহার করি।"
+          },
+          {
+            "prompt": "লিটার নির্দেশ করার জন্য কোন ইংরেজি অক্ষর লিখি?",
+            "options": [
+              "K বা k",
+              "M বা m",
+              "L বা l"
+            ],
+            "answer": 2,
+            "why": "লিটার নির্দেশ করার জন্য ইংরেজি অক্ষর “L” বা “l” লিখি।"
+          },
+          {
+            "prompt": "৩টি ১ লিটার বোতলের পানি দিয়ে একটি বালতি পূর্ণ করা হলো। বালতিতে কত লিটার পানি ধরে?",
+            "options": [
+              "৩ লিটার",
+              "৪ লিটার",
+              "১৩ লিটার",
+              "১ লিটার"
+            ],
+            "answer": 0,
+            "why": "৩টি ১ লিটার বোতল: ১ + ১ + ১ = ৩ লিটার"
+          },
+          {
+            "prompt": "৫টি ১ লিটার বোতলের পানি দিয়ে একটি বালতি পূর্ণ করা হলো। বালতিতে কত লিটার পানি ধরে?",
+            "options": [
+              "৪ লিটার",
+              "৫ লিটার",
+              "১৫ লিটার",
+              "১ লিটার"
+            ],
+            "answer": 1,
+            "why": "৫টি ১ লিটার বোতল: ১ + ১ + ১ + ১ + ১ = ৫ লিটার"
+          },
+          {
+            "prompt": "বালতিতে ৫ লিটার এবং মাটির পাত্রে ৪ লিটার পানি ধরে। কোনটিতে বেশি পানি ধরে?",
+            "options": [
+              "দুটিতে সমান",
+              "বালতিতে",
+              "মাটির পাত্রে"
+            ],
+            "answer": 1,
+            "why": "৫ লিটার বেশি, তাই বালতিতে বেশি পানি ধরে।"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p118-time",
+      "qr": "M2-p118-a",
+      "code": "LS7RNY7W",
+      "type": "mcq",
+      "title": "কয়টা বাজে?",
+      "chapter": "অধ্যায় ৫ · পরিমাপ",
+      "page": 118,
+      "configuration": {},
+      "content": {
+        "questions": [
+          {
+            "prompt": "ঘণ্টার কাঁটা ৩ এর ঘরে এবং মিনিটের কাঁটা ১২ এর ঘরে আছে। কয়টা বাজে?",
+            "options": [
+              "১২টা বাজে",
+              "৩টা বাজে",
+              "৩টা ১২ মিনিট"
+            ],
+            "answer": 1,
+            "why": "মিনিটের কাঁটা ১২ তে থাকলে ঘণ্টার কাঁটা যে সংখ্যায়, ঠিক ততটা বাজে: ৩টা।"
+          },
+          {
+            "prompt": "ঘণ্টার কাঁটা ৯ এর ঘরে এবং মিনিটের কাঁটা ১২ এর ঘরে আছে। কয়টা বাজে?",
+            "options": [
+              "১২টা বাজে",
+              "৯টা ১২ মিনিট",
+              "৯টা বাজে"
+            ],
+            "answer": 2,
+            "why": "মিনিটের কাঁটা ১২ তে থাকলে ঘণ্টার কাঁটা যে সংখ্যায়, ঠিক ততটা বাজে: ৯টা।"
+          },
+          {
+            "prompt": "ঘণ্টার কাঁটা ৪ এর ঘরে এবং মিনিটের কাঁটা ১২ এর ঘরে আছে। কয়টা বাজে?",
+            "options": [
+              "১২টা বাজে",
+              "৪টা ১২ মিনিট",
+              "৪টা বাজে"
+            ],
+            "answer": 2,
+            "why": "মিনিটের কাঁটা ১২ তে থাকলে ঘণ্টার কাঁটা যে সংখ্যায়, ঠিক ততটা বাজে: ৪টা।"
+          },
+          {
+            "prompt": "ঘণ্টার কাঁটা ৮ এর ঘরে এবং মিনিটের কাঁটা ১২ এর ঘরে আছে। কয়টা বাজে?",
+            "options": [
+              "১২টা বাজে",
+              "৮টা বাজে",
+              "৮টা ১২ মিনিট"
+            ],
+            "answer": 1,
+            "why": "মিনিটের কাঁটা ১২ তে থাকলে ঘণ্টার কাঁটা যে সংখ্যায়, ঠিক ততটা বাজে: ৮টা।"
+          },
+          {
+            "prompt": "ঘণ্টার কাঁটা ১০ এর ঘরে এবং মিনিটের কাঁটা ১২ এর ঘরে আছে। কয়টা বাজে?",
+            "options": [
+              "১০টা ১২ মিনিট",
+              "১২টা বাজে",
+              "১০টা বাজে"
+            ],
+            "answer": 2,
+            "why": "মিনিটের কাঁটা ১২ তে থাকলে ঘণ্টার কাঁটা যে সংখ্যায়, ঠিক ততটা বাজে: ১০টা।"
+          },
+          {
+            "prompt": "ডিজিটাল ঘড়িতে ১১:৩৫ দেখাচ্ছে। কয়টা বাজে?",
+            "options": [
+              "১২টা ৩৫ মিনিট",
+              "১১টা ৩৫ মিনিট",
+              "১১টা ৫৩ মিনিট"
+            ],
+            "answer": 1,
+            "why": "বামপাশের অঙ্ক দুটি ঘণ্টা (১১), ডানপাশের অঙ্ক দুটি মিনিট (৩৫)।"
+          },
+          {
+            "prompt": "ডিজিটাল ঘড়িতে ০৮:২০ দেখাচ্ছে। কয়টা বাজে?",
+            "options": [
+              "৮টা ২০ মিনিট",
+              "৮টা ২ মিনিট",
+              "৯টা ২০ মিনিট"
+            ],
+            "answer": 0,
+            "why": "বামপাশের অঙ্ক দুটি ঘণ্টা (৮), ডানপাশের অঙ্ক দুটি মিনিট (২০)।"
+          },
+          {
+            "prompt": "ডিজিটাল ঘড়িতে ০৬:২৫ দেখাচ্ছে। কয়টা বাজে?",
+            "options": [
+              "৭টা ২৫ মিনিট",
+              "৬টা ৫২ মিনিট",
+              "৬টা ২৫ মিনিট"
+            ],
+            "answer": 2,
+            "why": "বামপাশের অঙ্ক দুটি ঘণ্টা (৬), ডানপাশের অঙ্ক দুটি মিনিট (২৫)।"
+          },
+          {
+            "prompt": "ডিজিটাল ঘড়িতে ০৭:৪৫ দেখাচ্ছে। কয়টা বাজে?",
+            "options": [
+              "৭টা ৪৫ মিনিট",
+              "৮টা ৪৫ মিনিট",
+              "৭টা ৫৪ মিনিট"
+            ],
+            "answer": 0,
+            "why": "বামপাশের অঙ্ক দুটি ঘণ্টা (৭), ডানপাশের অঙ্ক দুটি মিনিট (৪৫)।"
+          },
+          {
+            "prompt": "সময়ের একক কোনগুলো?",
+            "options": [
+              "মিটার, সেন্টিমিটার",
+              "সেকেন্ড, মিনিট, ঘণ্টা",
+              "কেজি, গ্রাম"
+            ],
+            "answer": 1,
+            "why": "সময়ের একক: সেকেন্ড, মিনিট, ঘণ্টা।"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p119-days",
+      "qr": "M2-p119-a",
+      "code": "LSYGHS9K",
+      "type": "sequence",
+      "title": "সাত দিনের নাম (শনিবার থেকে) · সাজাও",
+      "chapter": "অধ্যায় ৫ · পরিমাপ",
+      "page": 119,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "text": "শনিবার"
+          },
+          {
+            "text": "রবিবার"
+          },
+          {
+            "text": "সোমবার"
+          },
+          {
+            "text": "মঙ্গলবার"
+          },
+          {
+            "text": "বুধবার"
+          },
+          {
+            "text": "বৃহস্পতিবার"
+          },
+          {
+            "text": "শুক্রবার"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p119-bangla-months",
+      "qr": "M2-p119-b",
+      "code": "LS9YKRC6",
+      "type": "sequence",
+      "title": "বাংলা মাসের নাম · সাজাও",
+      "chapter": "অধ্যায় ৫ · পরিমাপ",
+      "page": 119,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "text": "বৈশাখ"
+          },
+          {
+            "text": "জ্যৈষ্ঠ"
+          },
+          {
+            "text": "আষাঢ়"
+          },
+          {
+            "text": "শ্রাবণ"
+          },
+          {
+            "text": "ভাদ্র"
+          },
+          {
+            "text": "আশ্বিন"
+          },
+          {
+            "text": "কার্তিক"
+          },
+          {
+            "text": "অগ্রহায়ণ"
+          },
+          {
+            "text": "পৌষ"
+          },
+          {
+            "text": "মাঘ"
+          },
+          {
+            "text": "ফাল্গুন"
+          },
+          {
+            "text": "চৈত্র"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p120-english-months",
+      "qr": "M2-p120-a",
+      "code": "LSBZG7FB",
+      "type": "sequence",
+      "title": "ইংরেজি মাসের নাম · সাজাও",
+      "chapter": "অধ্যায় ৫ · পরিমাপ",
+      "page": 120,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "text": "জানুয়ারি"
+          },
+          {
+            "text": "ফেব্রুয়ারি"
+          },
+          {
+            "text": "মার্চ"
+          },
+          {
+            "text": "এপ্রিল"
+          },
+          {
+            "text": "মে"
+          },
+          {
+            "text": "জুন"
+          },
+          {
+            "text": "জুলাই"
+          },
+          {
+            "text": "আগস্ট"
+          },
+          {
+            "text": "সেপ্টেম্বর"
+          },
+          {
+            "text": "অক্টোবর"
+          },
+          {
+            "text": "নভেম্বর"
+          },
+          {
+            "text": "ডিসেম্বর"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p120-before-after",
+      "qr": "M2-p120-b",
+      "code": "LSEZQ5UG",
+      "type": "mcq",
+      "title": "আগের ও পরের দিন, মাস",
+      "chapter": "অধ্যায় ৫ · পরিমাপ",
+      "page": 120,
+      "configuration": {},
+      "content": {
+        "questions": [
+          {
+            "prompt": "সোমবারের আগের দিন কোনটি?",
+            "options": [
+              "শনিবার",
+              "রবিবার",
+              "মঙ্গলবার"
+            ],
+            "answer": 1,
+            "why": "সোমবার এর আগে রবিবার।"
+          },
+          {
+            "prompt": "বুধবারের পরের দিন কোনটি?",
+            "options": [
+              "শুক্রবার",
+              "মঙ্গলবার",
+              "বৃহস্পতিবার"
+            ],
+            "answer": 2,
+            "why": "বুধবার এর পরে বৃহস্পতিবার।"
+          },
+          {
+            "prompt": "জ্যৈষ্ঠ মাসের পরের মাস কোনটি?",
+            "options": [
+              "আষাঢ়",
+              "বৈশাখ",
+              "শ্রাবণ"
+            ],
+            "answer": 0,
+            "why": "জ্যৈষ্ঠ এর পরে আষাঢ়।"
+          },
+          {
+            "prompt": "মাঘ মাসের আগের মাস কোনটি?",
+            "options": [
+              "অগ্রহায়ণ",
+              "পৌষ",
+              "ফাল্গুন"
+            ],
+            "answer": 1,
+            "why": "মাঘ এর আগে পৌষ।"
+          },
+          {
+            "prompt": "ফাল্গুন মাসের পরের মাস কোনটি?",
+            "options": [
+              "চৈত্র",
+              "মাঘ",
+              "বৈশাখ"
+            ],
+            "answer": 0,
+            "why": "ফাল্গুন এর পরে চৈত্র।"
+          },
+          {
+            "prompt": "মার্চের পরের মাস কোনটি?",
+            "options": [
+              "মে",
+              "ফেব্রুয়ারি",
+              "এপ্রিল"
+            ],
+            "answer": 2,
+            "why": "মার্চ এর পরে এপ্রিল।"
+          },
+          {
+            "prompt": "আগস্টের আগের মাস কোনটি?",
+            "options": [
+              "সেপ্টেম্বর",
+              "জুন",
+              "জুলাই"
+            ],
+            "answer": 2,
+            "why": "আগস্ট এর আগে জুলাই।"
+          },
+          {
+            "prompt": "নভেম্বর মাসের পূর্বের মাস কোনটি?",
+            "options": [
+              "সেপ্টেম্বর",
+              "অক্টোবর",
+              "ডিসেম্বর"
+            ],
+            "answer": 1,
+            "why": "নভেম্বর এর আগে অক্টোবর।"
+          },
+          {
+            "prompt": "জুন মাসের দুই মাস পরের মাসের নাম কী?",
+            "options": [
+              "আগস্ট",
+              "এপ্রিল",
+              "সেপ্টেম্বর"
+            ],
+            "answer": 0,
+            "why": "জুন থেকে ২ ধাপ পরে: জুলাই, আগস্ট।"
+          },
+          {
+            "prompt": "অক্টোবর মাসের ৫ মাস পরের মাসের নাম কী?",
+            "options": [
+              "মার্চ",
+              "মে",
+              "এপ্রিল"
+            ],
+            "answer": 0,
+            "why": "অক্টোবর থেকে ৫ ধাপ পরে: নভেম্বর, ডিসেম্বর, জানুয়ারি, ফেব্রুয়ারি, মার্চ।"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p122-money-swap",
+      "qr": "M2-p122-a",
+      "code": "LSCNMCHE",
+      "type": "categorize",
+      "title": "টাকার বিনিময় · সাজাও",
+      "chapter": "অধ্যায় ৬ · মুদ্রা",
+      "page": 122,
+      "configuration": {},
+      "content": {
+        "categories": [
+          {
+            "name": "২০০ টাকা",
+            "emoji": ""
+          },
+          {
+            "name": "৫০০ টাকা",
+            "emoji": ""
+          },
+          {
+            "name": "১০০০ টাকা",
+            "emoji": ""
+          }
+        ],
+        "items": [
+          {
+            "text": "২টি ১০০ টাকার নোট",
+            "category": 0,
+            "emoji": "💵"
+          },
+          {
+            "text": "১টি ১০০ টাকার নোট ও ২টি ৫০ টাকার নোট",
+            "category": 0,
+            "emoji": "💵"
+          },
+          {
+            "text": "২টি ৫০ টাকার নোট ও ৫টি ২০ টাকার নোট",
+            "category": 0,
+            "emoji": "💵"
+          },
+          {
+            "text": "৫টি ১০০ টাকার নোট",
+            "category": 1,
+            "emoji": "💵"
+          },
+          {
+            "text": "২টি ২০০ টাকার নোট ও ১টি ১০০ টাকার নোট",
+            "category": 1,
+            "emoji": "💵"
+          },
+          {
+            "text": "৪টি ১০০ টাকার নোট ও ২টি ৫০ টাকার নোট",
+            "category": 1,
+            "emoji": "💵"
+          },
+          {
+            "text": "২টি ৫০০ টাকার নোট",
+            "category": 2,
+            "emoji": "💵"
+          },
+          {
+            "text": "৫টি ২০০ টাকার নোট",
+            "category": 2,
+            "emoji": "💵"
+          },
+          {
+            "text": "১টি ৫০০ টাকার নোট, ২টি ২০০ টাকার নোট ও ১টি ১০০ টাকার নোট",
+            "category": 2,
+            "emoji": "💵"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p123-pay",
+      "qr": "M2-p123-a",
+      "code": "LS9MUM8F",
+      "type": "mcq",
+      "title": "টাকা দিয়ে দাম দিই",
+      "chapter": "অধ্যায় ৬ · মুদ্রা",
+      "page": 123,
+      "configuration": {},
+      "content": {
+        "questions": [
+          {
+            "prompt": "মিরাজ ৩০ টাকা দামের ১টি কলম কিনল। কোনভাবে ঠিক ৩০ টাকা দেওয়া যায়?",
+            "options": [
+              "২টি ১ টাকা, ৪টি ২ টাকা, ২টি ৫ টাকা ও ১টি ১০ টাকা",
+              "১টি ১ টাকা, ৪টি ২ টাকা, ২টি ৫ টাকা ও ১টি ১০ টাকা",
+              "২টি ১ টাকা, ৪টি ২ টাকা, ১টি ৫ টাকা ও ১টি ১০ টাকা"
+            ],
+            "answer": 0,
+            "why": "২টি ১ টাকা, ৪টি ২ টাকা, ২টি ৫ টাকা ও ১টি ১০ টাকা = ৩০ টাকা"
+          },
+          {
+            "prompt": "কোনভাবে ৫০ টাকার সাথে বিনিময় করা যায়?",
+            "options": [
+              "২টি ২০ টাকার নোট ও ১টি ৫ টাকার নোট",
+              "২টি ২০ টাকার নোট, ১টি ১০ টাকার নোট ও ১টি ৫ টাকার নোট",
+              "২টি ২০ টাকার নোট ও ১টি ১০ টাকার নোট"
+            ],
+            "answer": 2,
+            "why": "২টি ২০ টাকার নোট ও ১টি ১০ টাকার নোট = ৫০ টাকা"
+          },
+          {
+            "prompt": "৬০ টাকার কলা কিনতে ১টি ৫০ টাকার নোটের সাথে কয়টি ১০ টাকার নোট লাগবে?",
+            "options": [
+              "৬টি",
+              "২টি",
+              "১টি",
+              "১১টি"
+            ],
+            "answer": 2,
+            "why": "৬০ − ৫০ = ১০ টাকা বাকি: ১টি ১০ টাকার নোট"
+          },
+          {
+            "prompt": "১২০ টাকার আপেল কিনতে ১টি ১০০ টাকার নোটের সাথে কয়টি ১০ টাকার নোট লাগবে?",
+            "options": [
+              "১টি",
+              "১২টি",
+              "৩টি",
+              "২টি"
+            ],
+            "answer": 3,
+            "why": "১২০ − ১০০ = ২০ টাকা বাকি: ২টি ১০ টাকার নোট"
+          },
+          {
+            "prompt": "৫৫০ টাকার তরমুজ কিনতে ১টি ৫০ টাকার নোটের সাথে কয়টি ১০০ টাকার নোট লাগবে?",
+            "options": [
+              "১৫টি",
+              "৬টি",
+              "৪টি",
+              "৫টি"
+            ],
+            "answer": 3,
+            "why": "৫৫০ − ৫০ = ৫০০ টাকা বাকি: ৫টি ১০০ টাকার নোট"
+          },
+          {
+            "prompt": "২৫০ টাকার কাঁঠাল কিনতে কয়টি ৫০ টাকার নোট লাগবে?",
+            "options": [
+              "৫টি",
+              "৪টি",
+              "১৫টি",
+              "২৫টি"
+            ],
+            "answer": 0,
+            "why": "৫০ + ৫০ + ৫০ + ৫০ + ৫০ = ২৫০: ৫টি ৫০ টাকার নোট"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p124-money-sums",
+      "qr": "M2-p124-a",
+      "code": "LS4JXKD2",
+      "type": "mcq",
+      "title": "টাকার হিসাব",
+      "chapter": "অধ্যায় ৬ · মুদ্রা",
+      "page": 124,
+      "configuration": {},
+      "content": {
+        "questions": [
+          {
+            "prompt": "বাংলাদেশি মুদ্রার সাংকেতিক চিহ্ন কোনটি?",
+            "options": [
+              "৳",
+              "₹",
+              "$"
+            ],
+            "answer": 0,
+            "why": "বাংলাদেশি মুদ্রার নাম টাকা এবং এর সাংকেতিক চিহ্ন ‘৳’।"
+          },
+          {
+            "prompt": "বাংলাদেশি মুদ্রা কয় রকমের?",
+            "options": [
+              "দুই রকমের: ধাতব মুদ্রা ও কাগজের নোট",
+              "এক রকমের: শুধু কাগজের নোট",
+              "এক রকমের: শুধু কয়েন"
+            ],
+            "answer": 0,
+            "why": "বাংলাদেশি মুদ্রা দুই রকমের: (ক) ধাতব মুদ্রা বা কয়েন (খ) কাগজের নোট।"
+          },
+          {
+            "prompt": "১টি ৫০০ টাকার নোট = কয়টি ১০০ টাকার নোট?",
+            "options": [
+              "১৫টি",
+              "৪টি",
+              "৫টি",
+              "২টি"
+            ],
+            "answer": 2,
+            "why": "৫০০ টাকা = ৫টি ১০০ টাকার নোট"
+          },
+          {
+            "prompt": "১টি ১০০০ টাকার নোট = কয়টি ৫০০ টাকার নোট?",
+            "options": [
+              "১০টি",
+              "২টি",
+              "১২টি",
+              "৫টি"
+            ],
+            "answer": 1,
+            "why": "১০০০ টাকা = ২টি ৫০০ টাকার নোট"
+          },
+          {
+            "prompt": "ইভা ৪০ টাকায় ১ হালি ডিম এবং ৬৫ টাকায় ১ প্যাকেট বিস্কুট কিনল। সে কত টাকা খরচ করল?",
+            "options": [
+              "৯৫ টাকা",
+              "২৫ টাকা",
+              "১১৫ টাকা",
+              "১০৫ টাকা"
+            ],
+            "answer": 3,
+            "why": "৪০ + ৬৫ = ১০৫"
+          },
+          {
+            "prompt": "১টি খাতা এবং ১টি কলমের দাম একত্রে ১০৫ টাকা। ১টি কলমের দাম ১৫ টাকা হলে ১টি খাতার দাম কত?",
+            "options": [
+              "১০০ টাকা",
+              "৯০ টাকা",
+              "৮০ টাকা",
+              "১২০ টাকা"
+            ],
+            "answer": 1,
+            "why": "১০৫ − ১৫ = ৯০"
+          },
+          {
+            "prompt": "মেহেরুলের কাছে ১০০ টাকা ছিল এবং তার বাবা তাকে ৫০ টাকা দিলেন। মেহেরুল ১২০ টাকায় ১টি জ্যামিতি বক্স কিনল। তার কাছে এখন কত টাকা রইল?",
+            "options": [
+              "২০ টাকা",
+              "১৫০ টাকা",
+              "৩০ টাকা",
+              "৪০ টাকা"
+            ],
+            "answer": 2,
+            "why": "১০০ + ৫০ − ১২০ = ৩০"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p126-fruit-table",
+      "qr": "M2-p126-a",
+      "code": "LSZM9NKE",
+      "type": "mcq",
+      "title": "ফলের তালিকা ও ট্যালি চিহ্ন",
+      "chapter": "অধ্যায় ৭ · উপাত্ত",
+      "page": 126,
+      "configuration": {},
+      "content": {
+        "questions": [
+          {
+            "prompt": "পৃষ্ঠা ১২৬ এর তালিকা দেখি। কোন ফল সবচেয়ে বেশি?",
+            "options": [
+              "আম",
+              "কলা",
+              "লিচু",
+              "আপেল"
+            ],
+            "answer": 2,
+            "why": "লিচু ৮টি, সবচেয়ে বেশি।"
+          },
+          {
+            "prompt": "পৃষ্ঠা ১২৬ এর তালিকা দেখি। কোন ফল সবচেয়ে কম?",
+            "options": [
+              "আম",
+              "কলা",
+              "লিচু",
+              "আপেল"
+            ],
+            "answer": 3,
+            "why": "আপেল ৫টি, সবচেয়ে কম।"
+          },
+          {
+            "prompt": "পৃষ্ঠা ১২৬ এর তালিকা দেখি। আম কয়টি?",
+            "options": [
+              "৫টি",
+              "৭টি",
+              "৮টি",
+              "৬টি"
+            ],
+            "answer": 1,
+            "why": "আমের ট্যালি চিহ্ন: ৫ এর একটি দল ও ২টি দাগ = ৭"
+          },
+          {
+            "prompt": "পৃষ্ঠা ১২৬ এর তালিকা দেখি। লিচু আমের চেয়ে কয়টি বেশি?",
+            "options": [
+              "১৫টি",
+              "১টি",
+              "২টি",
+              "১১টি"
+            ],
+            "answer": 1,
+            "why": "৮ − ৭ = ১"
+          },
+          {
+            "prompt": "পৃষ্ঠা ১২৬ এর তালিকা দেখি। আম ও কলা মিলে কয়টি?",
+            "options": [
+              "১৩টি",
+              "২৩টি",
+              "১টি",
+              "১২টি"
+            ],
+            "answer": 0,
+            "why": "৭ + ৬ = ১৩"
+          },
+          {
+            "prompt": "পৃষ্ঠা ১২৬ এর তালিকা দেখি। সব মিলিয়ে কয়টি ফল?",
+            "options": [
+              "২৭টি",
+              "২৬টি",
+              "৩৬টি",
+              "২৫টি"
+            ],
+            "answer": 1,
+            "why": "৭ + ৬ + ৮ + ৫ = ২৬"
+          },
+          {
+            "prompt": "ট্যালি চিহ্নে ৫ কীভাবে দেখানো হয়?",
+            "options": [
+              "৫টি খাড়া দাগ",
+              "৪টি খাড়া দাগ",
+              "৪টি খাড়া দাগের উপর ১টি আড়াআড়ি দাগ"
+            ],
+            "answer": 2,
+            "why": "পাশাপাশি চারটি দাগ টেনে পঞ্চমটির জন্য চারটি দাগের উপর দিয়ে আড়াআড়ি একটি দাগ টানি।"
+          },
+          {
+            "prompt": "ট্যালি চিহ্নে ৭ লিখতে কী লাগে?",
+            "options": [
+              "৭টি খাড়া দাগ",
+              "১টি পাঁচের দল ও ৩টি দাগ",
+              "১টি পাঁচের দল ও ২টি দাগ"
+            ],
+            "answer": 2,
+            "why": "৭ = ৫ + ২: ১টি পাঁচের দল ও ২টি দাগ"
+          },
+          {
+            "prompt": "পৃষ্ঠা ১২৬ এর তালিকা দেখি। ট্যালি চিহ্নে ৮টি দাগ কোন ফলের?",
+            "options": [
+              "আম",
+              "কলা",
+              "লিচু",
+              "আপেল"
+            ],
+            "answer": 2,
+            "why": "লিচুর ট্যালি চিহ্ন: ৫ এর একটি দল ও ৩টি দাগ = ৮"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": [
+          "প্রশ্নগুলো পৃষ্ঠা ১২৬ এর ফলের তালিকা (আম ৭, কলা ৬, লিচু ৮, আপেল ৫) দেখে।"
+        ]
+      }
+    }
+  ]
+}

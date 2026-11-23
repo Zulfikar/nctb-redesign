@@ -1,0 +1,136 @@
+{
+ "u1-l1-faria-rahat": [
+  {
+   "at": [
+    8,
+    3,
+    40
+   ],
+   "tail": "down-right"
+  },
+  {
+   "at": [
+    54,
+    3,
+    42
+   ],
+   "tail": "down-left"
+  }
+ ],
+ "u1-l3-morning": {
+  "pos": "50% 0%",
+  "bubbles": [
+   {
+    "at": [
+     36,
+     3,
+     34
+    ],
+    "tail": "down-right"
+   },
+   {
+    "at": [
+     3,
+     3,
+     22
+    ],
+    "tail": "down-left"
+   }
+  ]
+ },
+ "u1-l3-afternoon": {
+  "pos": "50% 0%",
+  "bubbles": [
+   {
+    "at": [
+     75,
+     3,
+     24
+    ],
+    "tail": "down-left"
+   },
+   {
+    "at": [
+     27,
+     3,
+     30
+    ],
+    "tail": "down-left"
+   }
+  ]
+ },
+ "u1-l4-goodbye-class": [
+  {
+   "at": [
+    20,
+    3,
+    34
+   ],
+   "tail": "down-left"
+  },
+  {
+   "at": [
+    58,
+    3,
+    32
+   ],
+   "tail": "down-left"
+  }
+ ],
+ "u1-l4-goodbye-ripa": {
+  "pos": "50% 0%",
+  "bubbles": [
+   {
+    "at": [
+     40,
+     3,
+     28
+    ],
+    "tail": "down-right"
+   },
+   {
+    "at": [
+     4,
+     3,
+     30
+    ],
+    "tail": "down-right"
+   }
+  ]
+ },
+ "u1-l5-good-night": {
+  "pos": "50% 0%",
+  "bubbles": [
+   {
+    "at": [
+     6,
+     4,
+     38
+    ],
+    "tail": "down-right"
+   },
+   {
+    "at": [
+     54,
+     4,
+     40
+    ],
+    "tail": "down-right"
+   }
+  ]
+ },
+ "u4-l6-months": {
+  "pos": "50% 55%",
+  "bubbles": []
+ },
+ "u7-l1-river": [
+  {
+   "at": [
+    45,
+    3,
+    50
+   ],
+   "tail": "down-left"
+  }
+ ]
+}

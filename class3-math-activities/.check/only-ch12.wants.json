@@ -1,0 +1,140 @@
+{
+ "m3-p138-angle-types": {
+  "module": "ch12",
+  "items": [
+   {
+    "want": "acute"
+   },
+   {
+    "want": "obtuse"
+   },
+   {
+    "want": "acute"
+   },
+   {
+    "want": "right"
+   },
+   {
+    "want": "straight"
+   },
+   {
+    "want": "right"
+   },
+   {
+    "want": "acute"
+   },
+   {
+    "want": "obtuse"
+   },
+   {
+    "want": "straight"
+   }
+  ]
+ },
+ "m3-p138-dot-angles": {
+  "module": "ch12",
+  "items": [
+   {
+    "want": "acute"
+   },
+   {
+    "want": "obtuse"
+   },
+   {
+    "want": "straight"
+   },
+   {
+    "want": "right"
+   },
+   {
+    "want": "right"
+   },
+   {
+    "want": "acute"
+   },
+   {
+    "want": "obtuse"
+   },
+   {
+    "want": "straight"
+   }
+  ]
+ },
+ "m3-p141-dot-rect-square": {
+  "module": "ch12",
+  "items": [
+   {
+    "want": "rect"
+   },
+   {
+    "want": "square"
+   },
+   {
+    "want": "square"
+   },
+   {
+    "want": "square"
+   },
+   {
+    "want": "square"
+   }
+  ]
+ },
+ "m3-p144-shape-patterns": {
+  "module": "ch12",
+  "items": [
+   {
+    "want": "triangle-red"
+   },
+   {
+    "want": "circle-red"
+   },
+   {
+    "want": "rect-blue"
+   }
+  ]
+ },
+ "m3-p147-name-angles": {
+  "module": "ch12",
+  "items": [
+   {
+    "want": "right"
+   },
+   {
+    "want": "obtuse"
+   },
+   {
+    "want": "straight"
+   },
+   {
+    "want": "acute"
+   },
+   {
+    "want": "acute"
+   },
+   {
+    "want": "right"
+   }
+  ]
+ },
+ "m3-p148-complete-patterns": {
+  "module": "ch12",
+  "items": [
+   {
+    "want": "triangle-grey-s"
+   },
+   {
+    "want": "triangle-grey"
+   },
+   {
+    "want": "triangle-grey-s"
+   },
+   {
+    "want": "triangle-grey"
+   },
+   {
+    "want": 5
+   }
+  ]
+ }
+}

@@ -1,0 +1,354 @@
+{
+ "m3-p138-angle-types": {
+  "module": "ch12",
+  "items": [
+   {
+    "want": "acute"
+   },
+   {
+    "want": "obtuse"
+   },
+   {
+    "want": "acute"
+   },
+   {
+    "want": "right"
+   },
+   {
+    "want": "straight"
+   },
+   {
+    "want": "right"
+   },
+   {
+    "want": "acute"
+   },
+   {
+    "want": "obtuse"
+   },
+   {
+    "want": "straight"
+   }
+  ]
+ },
+ "m3-p138-dot-angles": {
+  "module": "ch12",
+  "items": [
+   {
+    "want": "acute"
+   },
+   {
+    "want": "obtuse"
+   },
+   {
+    "want": "straight"
+   },
+   {
+    "want": "right"
+   },
+   {
+    "want": "right"
+   },
+   {
+    "want": "acute"
+   },
+   {
+    "want": "obtuse"
+   },
+   {
+    "want": "straight"
+   }
+  ]
+ },
+ "m3-p141-dot-rect-square": {
+  "module": "ch12",
+  "items": [
+   {
+    "want": "rect"
+   },
+   {
+    "want": "square"
+   },
+   {
+    "want": "square"
+   },
+   {
+    "want": "square"
+   },
+   {
+    "want": "square"
+   }
+  ]
+ },
+ "m3-p144-shape-patterns": {
+  "module": "ch12",
+  "items": [
+   {
+    "want": "triangle-red"
+   },
+   {
+    "want": "circle-red"
+   },
+   {
+    "want": "rect-blue"
+   }
+  ]
+ },
+ "m3-p147-name-angles": {
+  "module": "ch12",
+  "items": [
+   {
+    "want": "right"
+   },
+   {
+    "want": "obtuse"
+   },
+   {
+    "want": "straight"
+   },
+   {
+    "want": "acute"
+   },
+   {
+    "want": "acute"
+   },
+   {
+    "want": "right"
+   }
+  ]
+ },
+ "m3-p148-complete-patterns": {
+  "module": "ch12",
+  "items": [
+   {
+    "want": "triangle-grey-s"
+   },
+   {
+    "want": "triangle-grey"
+   },
+   {
+    "want": "triangle-grey-s"
+   },
+   {
+    "want": "triangle-grey"
+   },
+   {
+    "want": 5
+   }
+  ]
+ },
+ "m3-p150-tally-rides": {
+  "module": "ch13",
+  "items": [
+   {
+    "mine": "the p.149 picture can't be counted (only the train's 10 is printed): the other rides' numbers are chosen (8, 5, 12)"
+   },
+   {
+    "mine": "the p.149 picture can't be counted (only the train's 10 is printed): the other rides' numbers are chosen (8, 5, 12)"
+   },
+   {
+    "mine": "the p.149 picture can't be counted (only the train's 10 is printed): the other rides' numbers are chosen (8, 5, 12)"
+   },
+   {
+    "mine": "the p.149 picture can't be counted (only the train's 10 is printed): the other rides' numbers are chosen (8, 5, 12)"
+   },
+   {
+    "mine": "the p.149 picture can't be counted (only the train's 10 is printed): the other rides' numbers are chosen (8, 5, 12)"
+   }
+  ]
+ },
+ "m3-p150-tally-colours": {
+  "module": "ch13",
+  "items": [
+   {
+    "mine": "the teacher's colours are spoken in class: the numbers are chosen (7, 5, 9, 4)"
+   },
+   {
+    "mine": "the teacher's colours are spoken in class: the numbers are chosen (7, 5, 9, 4)"
+   },
+   {
+    "mine": "the teacher's colours are spoken in class: the numbers are chosen (7, 5, 9, 4)"
+   },
+   {
+    "mine": "the teacher's colours are spoken in class: the numbers are chosen (7, 5, 9, 4)"
+   }
+  ]
+ },
+ "m3-p152-sports-chart": {
+  "module": "ch13",
+  "items": [
+   {
+    "want": [
+     5,
+     4,
+     6,
+     7
+    ]
+   },
+   {
+    "want": [
+     50,
+     20,
+     15,
+     35
+    ]
+   },
+   {
+    "want": 5
+   },
+   {
+    "want": [
+     0
+    ]
+   },
+   {
+    "want": [
+     2
+    ]
+   },
+   {
+    "want": [
+     50,
+     20,
+     15,
+     35
+    ]
+   },
+   {
+    "want": 35
+   },
+   {
+    "want": 30
+   },
+   {
+    "want": 120
+   },
+   {
+    "want": [
+     3
+    ]
+   },
+   {
+    "want": 22
+   }
+  ]
+ },
+ "m3-p153-veg-flower-charts": {
+  "module": "ch13",
+  "items": [
+   {
+    "want": [
+     35,
+     20,
+     60,
+     50,
+     15
+    ]
+   },
+   {
+    "want": [
+     3
+    ]
+   },
+   {
+    "want": 55
+   },
+   {
+    "want": 225
+   },
+   {
+    "want": [
+     0
+    ]
+   },
+   {
+    "want": 15
+   },
+   {
+    "want": [
+     2
+    ]
+   },
+   {
+    "want": 180
+   }
+  ]
+ },
+ "m3-p154-vehicle-fish-charts": {
+  "module": "ch13",
+  "items": [
+   {
+    "want": 2
+   },
+   {
+    "want": 2
+   },
+   {
+    "want": 1
+   },
+   {
+    "want": 6
+   },
+   {
+    "want": 7
+   },
+   {
+    "want": 12
+   },
+   {
+    "want": 4
+   },
+   {
+    "want": [
+     1
+    ]
+   },
+   {
+    "want": 46
+   },
+   {
+    "want": [
+     1
+    ]
+   },
+   {
+    "want": 8
+   }
+  ]
+ },
+ "m3-p155-library-chart": {
+  "module": "ch13",
+  "items": [
+   {
+    "want": [
+     30,
+     40,
+     40,
+     20
+    ]
+   },
+   {
+    "want": [
+     1,
+     2
+    ]
+   },
+   {
+    "want": [
+     0
+    ]
+   },
+   {
+    "want": 130
+   },
+   {
+    "want": [
+     3
+    ]
+   },
+   {
+    "want": 10
+   }
+  ]
+ }
+}

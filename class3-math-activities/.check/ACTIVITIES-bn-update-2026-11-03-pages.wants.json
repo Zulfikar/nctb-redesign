@@ -1,0 +1,313 @@
+{
+ "m3-p003-tickets-ajut": {
+  "module": "p001-038",
+  "items": [
+   {
+    "want": 10
+   },
+   {
+    "want": 10000
+   },
+   {
+    "want": 20000
+   },
+   {
+    "want": 20
+   },
+   {
+    "want": 23425
+   },
+   {
+    "want": [
+     2,
+     3,
+     4,
+     2,
+     5
+    ]
+   }
+  ]
+ },
+ "m3-p028-make-100000": {
+  "module": "p001-038",
+  "items": [
+   {
+    "want": 700
+   },
+   {
+    "want": 1500
+   },
+   {
+    "want": 3845
+   },
+   {
+    "want": 60020
+   },
+   {
+    "want": 1
+   },
+   {
+    "want": 99889
+   },
+   {
+    "want": 18889
+   },
+   {
+    "want": 88889
+   },
+   {
+    "want": 99991
+   },
+   {
+    "want": 11245
+   }
+  ]
+ },
+ "m3-p057-mina-pencils": {
+  "module": "p043-070",
+  "items": [
+   {
+    "want": 273
+   },
+   {
+    "want": 21
+   },
+   {
+    "want": 3
+   },
+   {
+    "want": 1
+   },
+   {
+    "want": 3
+   },
+   {
+    "want": 200
+   },
+   {
+    "want": 10
+   },
+   {
+    "want": 60
+   },
+   {
+    "want": 3
+   },
+   {
+    "want": 273
+   }
+  ]
+ },
+ "m3-p066-three-at-a-time": {
+  "module": "p043-070",
+  "items": [
+   {
+    "want": 9
+   },
+   {
+    "want": 6
+   },
+   {
+    "want": 3
+   },
+   {
+    "want": 0
+   },
+   {
+    "want": [
+     3,
+     0
+    ]
+   },
+   {
+    "want": 0
+   },
+   {
+    "want": 12
+   },
+   {
+    "want": 3
+   },
+   {
+    "want": 2
+   },
+   {
+    "want": 1
+   }
+  ]
+ },
+ "m3-p119-length-units": {
+  "module": "p079-126",
+  "items": [
+   {
+    "want": 100
+   },
+   {
+    "want": 10
+   },
+   {
+    "want": 1000
+   },
+   {
+    "want": 1
+   },
+   {
+    "want": 1
+   },
+   {
+    "want": 1
+   },
+   {
+    "want": 1000
+   }
+  ]
+ },
+ "m3-p126-time-units": {
+  "module": "p079-126",
+  "items": [
+   {
+    "want": 60
+   },
+   {
+    "want": 1
+   },
+   {
+    "want": 60
+   },
+   {
+    "want": 1
+   },
+   {
+    "want": 3600
+   }
+  ]
+ },
+ "m3-p143-break-the-pattern": {
+  "module": "p133-151",
+  "items": [
+   {
+    "want": "triangle-green"
+   },
+   {
+    "want": 6
+   },
+   {
+    "want": 5
+   },
+   {
+    "want": 7
+   },
+   {
+    "want": 4
+   },
+   {
+    "want": 5
+   }
+  ]
+ },
+ "m3-p145-own-shape-patterns": {
+  "module": "p133-151",
+  "items": [
+   {
+    "want": "square-blue"
+   },
+   {
+    "want": "rect-red"
+   },
+   {
+    "want": 10
+   },
+   {
+    "want": "circle-red"
+   },
+   {
+    "want": "star-yellow"
+   },
+   {
+    "want": "square-green"
+   },
+   {
+    "want": "square-red"
+   }
+  ]
+ },
+ "m3-p149-park-rides": {
+  "module": "p133-151",
+  "items": [
+   {
+    "mine": "the p.149 picture can't be counted (only the train's 10 is printed on p.150): the other rides' numbers are p.150's game's (নাগরদোলা 8, উড়ন্ত বিমান 5, আনন্দঘূর্ণি 12)"
+   },
+   {
+    "want": 10
+   },
+   {
+    "mine": "the p.149 picture can't be counted (only the train's 10 is printed on p.150): the other rides' numbers are p.150's game's (নাগরদোলা 8, উড়ন্ত বিমান 5, আনন্দঘূর্ণি 12)"
+   },
+   {
+    "mine": "the p.149 picture can't be counted (only the train's 10 is printed on p.150): the other rides' numbers are p.150's game's (নাগরদোলা 8, উড়ন্ত বিমান 5, আনন্দঘূর্ণি 12)"
+   },
+   {
+    "mine": "the p.149 picture can't be counted (only the train's 10 is printed on p.150): the other rides' numbers are p.150's game's (নাগরদোলা 8, উড়ন্ত বিমান 5, আনন্দঘূর্ণি 12)"
+   },
+   {
+    "mine": "the p.149 picture can't be counted (only the train's 10 is printed on p.150): the other rides' numbers are p.150's game's (নাগরদোলা 8, উড়ন্ত বিমান 5, আনন্দঘূর্ণি 12)"
+   },
+   {
+    "mine": "the p.149 picture can't be counted (only the train's 10 is printed on p.150): the other rides' numbers are p.150's game's (নাগরদোলা 8, উড়ন্ত বিমান 5, আনন্দঘূর্ণি 12)"
+   },
+   {
+    "mine": "the p.149 picture can't be counted (only the train's 10 is printed on p.150): the other rides' numbers are p.150's game's (নাগরদোলা 8, উড়ন্ত বিমান 5, আনন্দঘূর্ণি 12)"
+   },
+   {
+    "mine": "the p.149 picture can't be counted (only the train's 10 is printed on p.150): the other rides' numbers are p.150's game's (নাগরদোলা 8, উড়ন্ত বিমান 5, আনন্দঘূর্ণি 12)"
+   },
+   {
+    "mine": "the p.149 picture can't be counted (only the train's 10 is printed on p.150): the other rides' numbers are p.150's game's (নাগরদোলা 8, উড়ন্ত বিমান 5, আনন্দঘূর্ণি 12)"
+   }
+  ]
+ },
+ "m3-p151-fruit-pictograph": {
+  "module": "p133-151",
+  "items": [
+   {
+    "want": 5
+   },
+   {
+    "want": 6
+   },
+   {
+    "want": [
+     1
+    ]
+   },
+   {
+    "want": 9
+   },
+   {
+    "want": 1
+   },
+   {
+    "want": 4
+   },
+   {
+    "want": [
+     3
+    ]
+   },
+   {
+    "want": 3
+   },
+   {
+    "want": 13
+   },
+   {
+    "want": [
+     5,
+     4,
+     6,
+     7
+    ]
+   }
+  ]
+ }
+}

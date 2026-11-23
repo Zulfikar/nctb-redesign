@@ -1,0 +1,1485 @@
+{
+  "format": "ebidyaloy-activity-import",
+  "version": 1,
+  "book": {
+    "title": "প্রাথমিক গণিত - ক্লাস থ্রি",
+    "edition": "bn",
+    "editionName": "বাংলা",
+    "language": "bn",
+    "base": true,
+    "chapters": [
+      "অধ্যায় ১ · সংখ্যা",
+      "অধ্যায় ২ · যোগ",
+      "অধ্যায় ৩ · বিয়োগ",
+      "অধ্যায় ৪ · যোগ ও বিয়োগের সম্পর্ক",
+      "অধ্যায় ৫ · গুণ",
+      "অধ্যায় ৬ · ভাগ",
+      "অধ্যায় ৭ · গুণ ও ভাগের সম্পর্ক",
+      "অধ্যায় ৮ · যোগ, বিয়োগ, গুণ ও ভাগসংক্রান্ত সমস্যা",
+      "অধ্যায় ৯ · ভগ্নাংশ",
+      "অধ্যায় ১০ · বাংলাদেশি মুদ্রা",
+      "অধ্যায় ১১ · পরিমাপ",
+      "অধ্যায় ১২ · জ্যামিতি",
+      "অধ্যায় ১৩ · উপাত্ত সংগ্রহ ও বিন্যস্তকরণ"
+    ]
+  },
+  "activities": [
+    {
+      "key": "m3-p133-points",
+      "qr": "M3-p133-a",
+      "code": "LSAPZDQJ",
+      "type": "mcq",
+      "title": "বিন্দু চিনি, বিন্দু যোগ করি",
+      "chapter": "অধ্যায় ১২ · জ্যামিতি",
+      "page": 133,
+      "configuration": {},
+      "content": {
+        "questions": [
+          {
+            "prompt": "রাতের পরিষ্কার আকাশে তারাগুলোকে কেমন মনে হয়?",
+            "options": [
+              "লম্বা লম্বা সোজা দাগ",
+              "অনেকগুলো ছোটো ছোটো ফোঁটা",
+              "বড়ো বড়ো সমতল",
+              "বাঁকা বাঁকা তল"
+            ],
+            "answer": 1,
+            "why": "রাতের পরিষ্কার আকাশে তারাগুলোকে মনে হয় অনেকগুলো ছোটো ছোটো ফোঁটা।"
+          },
+          {
+            "prompt": "ডিজিটাল ঘড়িতে সময় ১০:২০। ১০ আর ২০-এর মাঝে কয়টি ফোঁটা দেখা যায়?",
+            "options": [
+              "১টি",
+              "২টি",
+              "৩টি",
+              "৪টি"
+            ],
+            "answer": 1,
+            "why": "১০ আর ২০-এর মাঝে দুইটি ফোঁটা, একটির উপর আরেকটি। ডিজিটাল ঘড়ির সময়ের মাঝেও ফোঁটা দেখি।"
+          },
+          {
+            "prompt": "নিচের কোনটি বিন্দুর উদাহরণ?",
+            "options": [
+              "বলের বাইরের অংশ",
+              "খেলার মাঠের সাদা দাগ",
+              "ইটের উপরের অংশ",
+              "রাতের আকাশের একটি তারা"
+            ],
+            "answer": 3,
+            "why": "দূরের তারাকে ছোটো একটি ফোঁটার মতো দেখায়; এরকম ফোঁটাকে আমরা বিন্দু বলি।"
+          },
+          {
+            "prompt": "নিচের কোনটি বিন্দু নয়?",
+            "options": [
+              "স্কেল দিয়ে টানা একটি সোজা দাগ",
+              "লুডুর ছক্কার একটি ফোঁটা",
+              "আকাশের একটি তারার ফোঁটা",
+              "ঘড়ির সময়ের মাঝের একটি ফোঁটা"
+            ],
+            "answer": 0,
+            "why": "স্কেল দিয়ে টানা সোজা দাগটি লম্বা, তাই এটি বিন্দু নয়; বাকি তিনটি ছোটো ফোঁটা, অর্থাৎ বিন্দু।"
+          },
+          {
+            "prompt": "আমরা কী দিয়ে সহজেই ফোঁটা আঁকতে পারি?",
+            "options": [
+              "পেনসিলের চোখা মাথা দিয়ে",
+              "রাবারের চওড়া দিক দিয়ে",
+              "বইয়ের মলাট দিয়ে",
+              "স্কেলের লম্বা দিক দিয়ে"
+            ],
+            "answer": 0,
+            "why": "আমরা পেনসিলের চোখা মাথা দিয়ে সহজেই ফোঁটা আঁকতে পারি।"
+          },
+          {
+            "prompt": "একটি বিন্দু কত লম্বা, তা কি স্কেল দিয়ে মাপা যায়?",
+            "options": [
+              "হ্যাঁ, বিন্দু ১ মিটার লম্বা",
+              "হ্যাঁ, তবে শুধু উচ্চতা মাপা যায়",
+              "হ্যাঁ, বিন্দু ১ সেমি লম্বা",
+              "না, বিন্দুর দৈর্ঘ্য, প্রস্থ বা উচ্চতা নেই"
+            ],
+            "answer": 3,
+            "why": "বিন্দুর দৈর্ঘ্য, প্রস্থ বা উচ্চতা নেই, কেবল অবস্থান রয়েছে। তাই মাপার কিছু নেই।"
+          },
+          {
+            "prompt": "কাজ ১: ছেলেটি ৫টি বিন্দু এঁকে সেগুলো যোগ করে কোন চিত্র এঁকেছে?",
+            "options": [
+              "একটি ত্রিভুজ",
+              "একটি সোজা দাগ",
+              "একটি বৃত্ত",
+              "একটি তারা"
+            ],
+            "answer": 3,
+            "why": "আমি ৫টি বিন্দু এঁকেছি এবং এগুলো যোগ করে একটি তারা এঁকেছি।"
+          },
+          {
+            "prompt": "৫টি বিন্দু যোগ করে তারাটি আঁকতে কয়টি সোজা দাগ লেগেছে?",
+            "options": [
+              "১০টি",
+              "৫টি",
+              "৪টি",
+              "৩টি"
+            ],
+            "answer": 1,
+            "why": "তারার প্রতিটি দাগ দুইটি বিন্দু যোগ করেছে; ছবির তারায় ৫টি সোজা দাগ।"
+          },
+          {
+            "prompt": "এক সারিতে নেই এমন ৩টি বিন্দু সোজা দাগে পরপর যোগ করে চিত্রটি বন্ধ করলে কোন চিত্র পাই?",
+            "options": [
+              "বৃত্ত",
+              "ত্রিভুজ",
+              "তারা",
+              "চতুর্ভুজ"
+            ],
+            "answer": 1,
+            "why": "৩টি বিন্দু যোগ করলে ৩টি সোজা দাগের একটি বন্ধ চিত্র পাই: ত্রিভুজ।"
+          },
+          {
+            "prompt": "৪টি বিন্দু সোজা দাগে পরপর যোগ করে শেষ বিন্দুটি প্রথমটির সাথে মিলালে কয়টি সোজা দাগ লাগে?",
+            "options": [
+              "৩টি",
+              "২টি",
+              "৪টি",
+              "৫টি"
+            ],
+            "answer": 2,
+            "why": "১ম থেকে ২য়, ২য় থেকে ৩য়, ৩য় থেকে ৪র্থ, ৪র্থ থেকে ১ম বিন্দু: ৪টি সোজা দাগ।"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p134-point-line-surface-sort",
+      "qr": "M3-p134-a",
+      "code": "LSPFPQJS",
+      "type": "categorize",
+      "title": "বিন্দু, রেখা না তল?",
+      "chapter": "অধ্যায় ১২ · জ্যামিতি",
+      "page": 134,
+      "configuration": {},
+      "content": {
+        "categories": [
+          {
+            "name": "বিন্দু",
+            "emoji": ""
+          },
+          {
+            "name": "রেখা",
+            "emoji": ""
+          },
+          {
+            "name": "তল",
+            "emoji": ""
+          }
+        ],
+        "items": [
+          {
+            "text": "দুই বিন্দুর উপর স্কেল রেখে টানা সোজা দাগ",
+            "category": 1,
+            "emoji": ""
+          },
+          {
+            "text": "খেলার মাঠের সাদা দাগ",
+            "category": 1,
+            "emoji": ""
+          },
+          {
+            "text": "বড়ো রাস্তার উপরের সাদা দাগ",
+            "category": 1,
+            "emoji": ""
+          },
+          {
+            "text": "ইটের বাইরের অংশ",
+            "category": 2,
+            "emoji": ""
+          },
+          {
+            "text": "ইটের দুই তল যেখানে মিলেছে, সেই কিনারা",
+            "category": 1,
+            "emoji": ""
+          },
+          {
+            "text": "ইটের একটি কোনা",
+            "category": 0,
+            "emoji": ""
+          },
+          {
+            "text": "পেনসিলের চোখা মাথা দিয়ে আঁকা একটি ফোঁটা",
+            "category": 0,
+            "emoji": ""
+          },
+          {
+            "text": "ডিজিটাল ঘড়ির সময়ের মাঝের একটি ফোঁটা",
+            "category": 0,
+            "emoji": ""
+          },
+          {
+            "text": "খাতার পাতার একটি পার্শ্ব",
+            "category": 1,
+            "emoji": ""
+          },
+          {
+            "text": "খাতার পাতার একটি কোনা",
+            "category": 0,
+            "emoji": ""
+          },
+          {
+            "text": "বইয়ের মলাট",
+            "category": 2,
+            "emoji": ""
+          },
+          {
+            "text": "টেবিলের উপরের অংশ",
+            "category": 2,
+            "emoji": ""
+          },
+          {
+            "text": "বলের বাইরের অংশ",
+            "category": 2,
+            "emoji": ""
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p136-find-angles",
+      "qr": "M3-p136-a",
+      "code": "LSUXBBQU",
+      "type": "categorize",
+      "title": "কোণ আছে, না কোণ নেই?",
+      "chapter": "অধ্যায় ১২ · জ্যামিতি",
+      "page": 136,
+      "configuration": {},
+      "content": {
+        "categories": [
+          {
+            "name": "কোণ আছে",
+            "emoji": ""
+          },
+          {
+            "name": "কোণ নেই",
+            "emoji": ""
+          }
+        ],
+        "items": [
+          {
+            "text": "তরমুজের ফালি",
+            "category": 0,
+            "emoji": ""
+          },
+          {
+            "text": "ঘড়ির দুইটি কাঁটা (১০টা ১০ মিনিট)",
+            "category": 0,
+            "emoji": ""
+          },
+          {
+            "text": "খোলা কাঁচির দুইটি ফলা",
+            "category": 0,
+            "emoji": ""
+          },
+          {
+            "text": "ঘরের দেয়ালের কোনা",
+            "category": 0,
+            "emoji": ""
+          },
+          {
+            "text": "ঘরের চালের কোনা",
+            "category": 0,
+            "emoji": ""
+          },
+          {
+            "text": "বইয়ের কোনা",
+            "category": 0,
+            "emoji": ""
+          },
+          {
+            "text": "ত্রিভুজ",
+            "category": 0,
+            "emoji": ""
+          },
+          {
+            "text": "ফুটবল",
+            "category": 1,
+            "emoji": ""
+          },
+          {
+            "text": "গোল চাকা",
+            "category": 1,
+            "emoji": ""
+          },
+          {
+            "text": "ডিম",
+            "category": 1,
+            "emoji": ""
+          },
+          {
+            "text": "গোল থালা",
+            "category": 1,
+            "emoji": ""
+          },
+          {
+            "text": "একটিমাত্র বিন্দু",
+            "category": 1,
+            "emoji": ""
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p137-fold-right-angle",
+      "qr": "M3-p137-a",
+      "code": "LSG3KVQ9",
+      "type": "sequence",
+      "title": "ভাঁজ করে সমকোণ ও সরল কোণ তৈরি করি",
+      "chapter": "অধ্যায় ১২ · জ্যামিতি",
+      "page": 137,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "text": "যেকোনো আকৃতির একটি কাগজ নিই।"
+          },
+          {
+            "text": "কাগজটি মাঝ বরাবর ভাঁজ করি।"
+          },
+          {
+            "text": "ভাঁজ করা কাগজটি পুনরায় আড়াআড়ি ভাঁজ করি।"
+          },
+          {
+            "text": "ভাঁজ শেষে কোনায় এক সমকোণ তৈরি হলো।"
+          },
+          {
+            "text": "এবার ভাঁজটি খুলে ফেলি।"
+          },
+          {
+            "text": "মাঝ বরাবর ভাঁজ হওয়া অংশে রেখা টানি।"
+          },
+          {
+            "text": "রেখা দুটির মিলিত বিন্দুতে ৪টি কোণ তৈরি হলো, প্রতিটি এক সমকোণ।"
+          },
+          {
+            "text": "একটি সমকোণে সমকোণের চিহ্ন দিই।"
+          },
+          {
+            "text": "ভাঁজ করে তৈরি দুইটি সমকোণ পাশাপাশি রাখি।"
+          },
+          {
+            "text": "দুইটি সমকোণ একত্রে মিলে সরল কোণ তৈরি করল।"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p139-is-it-quadrilateral",
+      "qr": "M3-p139-a",
+      "code": "LSSHJQNE",
+      "type": "categorize",
+      "title": "চতুর্ভুজ, না চতুর্ভুজ নয়?",
+      "chapter": "অধ্যায় ১২ · জ্যামিতি",
+      "page": 139,
+      "configuration": {},
+      "content": {
+        "categories": [
+          {
+            "name": "চতুর্ভুজ",
+            "emoji": ""
+          },
+          {
+            "name": "চতুর্ভুজ নয়",
+            "emoji": ""
+          }
+        ],
+        "items": [
+          {
+            "text": "৪টি সরল রেখা দ্বারা আবদ্ধ আকৃতি",
+            "category": 0,
+            "emoji": ""
+          },
+          {
+            "text": "৪টি বাহু ও ৪টি কোণ আছে এমন আকৃতি",
+            "category": 0,
+            "emoji": ""
+          },
+          {
+            "text": "সোজা করে বসানো বর্গ",
+            "category": 0,
+            "emoji": ""
+          },
+          {
+            "text": "একটু হেলানো আয়ত",
+            "category": 0,
+            "emoji": ""
+          },
+          {
+            "text": "দুইটি কোণ সমকোণ, আর দুইটি নয়, এমন ৪ বাহুর আকৃতি",
+            "category": 0,
+            "emoji": ""
+          },
+          {
+            "text": "৪টি সরল বাহু, বাহুগুলোর দৈর্ঘ্য ভিন্ন ভিন্ন",
+            "category": 0,
+            "emoji": ""
+          },
+          {
+            "text": "খাড়া করে বসানো আয়ত",
+            "category": 0,
+            "emoji": ""
+          },
+          {
+            "text": "৩টি সরল রেখা দ্বারা আবদ্ধ আকৃতি",
+            "category": 1,
+            "emoji": ""
+          },
+          {
+            "text": "৫টি সরল রেখা দ্বারা আবদ্ধ আকৃতি",
+            "category": 1,
+            "emoji": ""
+          },
+          {
+            "text": "৪টি রেখা, কিন্তু একটি রেখা বাঁকা",
+            "category": 1,
+            "emoji": ""
+          },
+          {
+            "text": "৪টি সরল রেখা, কিন্তু এক কোনায় ফাঁকা (আবদ্ধ নয়)",
+            "category": 1,
+            "emoji": ""
+          },
+          {
+            "text": "বৃত্ত",
+            "category": 1,
+            "emoji": ""
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p142-pattern-or-not",
+      "qr": "M3-p142-a",
+      "code": "LSPEUMH3",
+      "type": "categorize",
+      "title": "প্যাটার্ন আছে, না প্যাটার্ন নেই?",
+      "chapter": "অধ্যায় ১২ · জ্যামিতি",
+      "page": 142,
+      "configuration": {},
+      "content": {
+        "categories": [
+          {
+            "name": "প্যাটার্ন আছে",
+            "emoji": ""
+          },
+          {
+            "name": "প্যাটার্ন নেই",
+            "emoji": ""
+          }
+        ],
+        "items": [
+          {
+            "text": "মৌমাছির চাকের ঘরগুলো",
+            "category": 0,
+            "emoji": ""
+          },
+          {
+            "text": "বিদ্যালয়ের দেয়ালের ইটের সারি",
+            "category": 0,
+            "emoji": ""
+          },
+          {
+            "text": "বসার ঘরের কার্পেটের বর্গাকৃতির নকশা",
+            "category": 0,
+            "emoji": ""
+          },
+          {
+            "text": "□ △ □ △ □ △",
+            "category": 0,
+            "emoji": ""
+          },
+          {
+            "text": "২, ৪, ৬, ৮, ১০",
+            "category": 0,
+            "emoji": ""
+          },
+          {
+            "text": "○ ○ △ ○ ○ △ ○ ○ △",
+            "category": 0,
+            "emoji": ""
+          },
+          {
+            "text": "লাল, নীল, লাল, নীল, লাল, নীল",
+            "category": 0,
+            "emoji": ""
+          },
+          {
+            "text": "□ △ △ ○ □ ○ △",
+            "category": 1,
+            "emoji": ""
+          },
+          {
+            "text": "৭, ২, ৯, ৪, ১",
+            "category": 1,
+            "emoji": ""
+          },
+          {
+            "text": "রাতের আকাশে এলোমেলো ছড়ানো তারা",
+            "category": 1,
+            "emoji": ""
+          },
+          {
+            "text": "○ △ ○ △ △ ○ □",
+            "category": 1,
+            "emoji": ""
+          },
+          {
+            "text": "লাল, নীল, হলুদ, নীল, লাল, লাল",
+            "category": 1,
+            "emoji": ""
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m3-p143-break-the-pattern",
+      "qr": "M3-p143-a",
+      "code": "LS2W8DDA",
+      "type": "shape_patterns",
+      "title": "কোনটি প্যাটার্ন ভেঙেছে?",
+      "chapter": "অধ্যায় ১২ · জ্যামিতি",
+      "page": 143,
+      "configuration": {
+        "fresh": {
+          "skill": "shapes",
+          "count": 5,
+          "more": true
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "shapes",
+            "seq": [
+              "triangle-green",
+              "rect-green",
+              "triangle-green",
+              "rect-green",
+              "triangle-green",
+              "rect-green",
+              null
+            ]
+          },
+          {
+            "kind": "shapes",
+            "ask": "odd",
+            "seq": [
+              "triangle-green",
+              "rect-green",
+              "triangle-green",
+              "rect-green",
+              "triangle-green",
+              "rect-green",
+              "rect-green",
+              "rect-green",
+              "triangle-green",
+              "rect-green",
+              "triangle-green"
+            ]
+          },
+          {
+            "kind": "shapes",
+            "ask": "odd",
+            "seq": [
+              "triangle-green",
+              "rect-green",
+              "triangle-green",
+              "rect-green",
+              "triangle-green",
+              "triangle-green",
+              "triangle-green",
+              "rect-green",
+              "triangle-green",
+              "rect-green"
+            ]
+          },
+          {
+            "kind": "shapes",
+            "ask": "odd",
+            "seq": [
+              "circle-blue",
+              "circle-red",
+              "circle-yellow",
+              "circle-blue",
+              "circle-red",
+              "circle-yellow",
+              "circle-blue",
+              "circle-yellow",
+              "circle-yellow"
+            ]
+          },
+          {
+            "kind": "shapes",
+            "ask": "odd",
+            "seq": [
+              "circle-blue",
+              "circle-red",
+              "circle-yellow",
+              "circle-blue",
+              "circle-blue",
+              "circle-yellow",
+              "circle-blue",
+              "circle-red",
+              "circle-yellow"
+            ]
+          },
+          {
+            "kind": "shapes",
+            "ask": "odd",
+            "seq": [
+              "square-blue",
+              "triangle-red",
+              "square-blue",
+              "triangle-red",
+              "square-blue",
+              "square-blue",
+              "square-blue",
+              "triangle-red",
+              "square-blue",
+              "triangle-red"
+            ]
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": [
+          "বইয়ের তীর চিহ্নগুলো খেলায় আকৃতি দিয়ে দেখানো: ↓ = সবুজ ত্রিভুজ, → = সবুজ আয়ত। ফুলের পাপড়ির রং (বাইরে থেকে ভেতরে নীল, লাল, হলুদ) পাশাপাশি বৃত্ত দিয়ে দেখানো।"
+        ]
+      }
+    },
+    {
+      "key": "m3-p145-own-shape-patterns",
+      "qr": "M3-p145-a",
+      "code": "LSWHA8E8",
+      "type": "shape_patterns",
+      "title": "আয়ত, বর্গ, তারা ও বৃত্তের প্যাটার্ন",
+      "chapter": "অধ্যায় ১২ · জ্যামিতি",
+      "page": 145,
+      "configuration": {
+        "fresh": {
+          "skill": "shapes",
+          "count": 5,
+          "more": true
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "shapes",
+            "seq": [
+              "rect-blue",
+              "square-blue",
+              "rect-blue",
+              "square-blue",
+              "rect-blue",
+              null
+            ]
+          },
+          {
+            "kind": "shapes",
+            "seq": [
+              "square-red",
+              "rect-red",
+              "rect-red",
+              "square-red",
+              "rect-red",
+              "rect-red",
+              "square-red",
+              null
+            ]
+          },
+          {
+            "kind": "shapes",
+            "ask": "odd",
+            "seq": [
+              "rect-blue",
+              "square-blue",
+              "square-blue",
+              "rect-blue",
+              "square-blue",
+              "square-blue",
+              "rect-blue",
+              "square-blue",
+              "square-blue",
+              "rect-blue",
+              "rect-blue"
+            ]
+          },
+          {
+            "kind": "shapes",
+            "seq": [
+              "star-yellow",
+              "circle-red",
+              "star-yellow",
+              "circle-red",
+              "star-yellow",
+              null
+            ]
+          },
+          {
+            "kind": "shapes",
+            "seq": [
+              "star-yellow",
+              "star-yellow",
+              "circle-purple",
+              "star-yellow",
+              "star-yellow",
+              "circle-purple",
+              "star-yellow",
+              null
+            ]
+          },
+          {
+            "kind": "shapes",
+            "seq": [
+              "square-red",
+              "square-green",
+              "square-yellow",
+              "square-red",
+              "square-green",
+              "square-yellow",
+              "square-red",
+              null
+            ]
+          },
+          {
+            "kind": "shapes",
+            "seq": [
+              "square-red",
+              "square-yellow-s",
+              "square-red",
+              "square-yellow-s",
+              null,
+              "square-yellow-s"
+            ]
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": [
+          "এই পৃষ্ঠায় শিশুরা নিজের পছন্দমতো প্যাটার্ন তৈরি করে। খেলায় পৃষ্ঠার আকৃতিগুলো (আয়ত ও বর্গ; তারা ও বৃত্ত; লাল, সবুজ ও হলুদ বর্গ, বড়ো ও ছোটো) দিয়ে তৈরি প্যাটার্ন সম্পূর্ণ করে। ষড়ভুজ খেলার আকৃতিতে নেই।"
+        ]
+      }
+    },
+    {
+      "key": "m3-p149-park-rides",
+      "qr": "M3-p149-a",
+      "code": "LSABH83J",
+      "type": "tally_chart",
+      "title": "শিশুপার্কে কতজন কোন রাইডে চড়েছিল?",
+      "chapter": "অধ্যায় ১৩ · উপাত্ত সংগ্রহ ও বিন্যস্তকরণ",
+      "page": 149,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "tally",
+            "rows": [
+              {
+                "name": "ছোটো মণিদের রেলগাড়ি",
+                "emoji": "🚂",
+                "value": 10
+              },
+              {
+                "name": "নাগরদোলা",
+                "emoji": "🎡",
+                "value": 8
+              },
+              {
+                "name": "উড়ন্ত বিমান",
+                "emoji": "✈️",
+                "value": 5
+              },
+              {
+                "name": "আনন্দঘূর্ণি",
+                "emoji": "🎠",
+                "value": 12
+              }
+            ],
+            "ask": "read"
+          },
+          {
+            "kind": "chart",
+            "rows": [
+              {
+                "name": "ছোটো মণিদের রেলগাড়ি",
+                "emoji": "🚂",
+                "value": 10
+              },
+              {
+                "name": "নাগরদোলা",
+                "emoji": "🎡",
+                "value": 8
+              },
+              {
+                "name": "উড়ন্ত বিমান",
+                "emoji": "✈️",
+                "value": 5
+              },
+              {
+                "name": "আনন্দঘূর্ণি",
+                "emoji": "🎠",
+                "value": 12
+              }
+            ],
+            "key": 1,
+            "symbol": "dot",
+            "dir": "h",
+            "unit": "জন শিক্ষার্থী",
+            "ask": "value",
+            "a": 0,
+            "text": "কতজন শিক্ষার্থী ছোটো মণিদের রেলগাড়িতে চড়েছিল?"
+          },
+          {
+            "kind": "chart",
+            "rows": [
+              {
+                "name": "ছোটো মণিদের রেলগাড়ি",
+                "emoji": "🚂",
+                "value": 10
+              },
+              {
+                "name": "নাগরদোলা",
+                "emoji": "🎡",
+                "value": 8
+              },
+              {
+                "name": "উড়ন্ত বিমান",
+                "emoji": "✈️",
+                "value": 5
+              },
+              {
+                "name": "আনন্দঘূর্ণি",
+                "emoji": "🎠",
+                "value": 12
+              }
+            ],
+            "key": 1,
+            "symbol": "dot",
+            "dir": "h",
+            "unit": "জন শিক্ষার্থী",
+            "ask": "value",
+            "a": 1,
+            "text": "কতজন শিক্ষার্থী নাগরদোলায় চড়েছিল?"
+          },
+          {
+            "kind": "chart",
+            "rows": [
+              {
+                "name": "ছোটো মণিদের রেলগাড়ি",
+                "emoji": "🚂",
+                "value": 10
+              },
+              {
+                "name": "নাগরদোলা",
+                "emoji": "🎡",
+                "value": 8
+              },
+              {
+                "name": "উড়ন্ত বিমান",
+                "emoji": "✈️",
+                "value": 5
+              },
+              {
+                "name": "আনন্দঘূর্ণি",
+                "emoji": "🎠",
+                "value": 12
+              }
+            ],
+            "key": 1,
+            "symbol": "dot",
+            "dir": "h",
+            "unit": "জন শিক্ষার্থী",
+            "ask": "value",
+            "a": 2,
+            "text": "কতজন শিক্ষার্থী উড়ন্ত বিমানে চড়েছিল?"
+          },
+          {
+            "kind": "chart",
+            "rows": [
+              {
+                "name": "ছোটো মণিদের রেলগাড়ি",
+                "emoji": "🚂",
+                "value": 10
+              },
+              {
+                "name": "নাগরদোলা",
+                "emoji": "🎡",
+                "value": 8
+              },
+              {
+                "name": "উড়ন্ত বিমান",
+                "emoji": "✈️",
+                "value": 5
+              },
+              {
+                "name": "আনন্দঘূর্ণি",
+                "emoji": "🎠",
+                "value": 12
+              }
+            ],
+            "key": 1,
+            "symbol": "dot",
+            "dir": "h",
+            "unit": "জন শিক্ষার্থী",
+            "ask": "value",
+            "a": 3,
+            "text": "কতজন শিক্ষার্থী আনন্দঘূর্ণিতে চড়েছিল?"
+          },
+          {
+            "kind": "chart",
+            "rows": [
+              {
+                "name": "ছোটো মণিদের রেলগাড়ি",
+                "emoji": "🚂",
+                "value": 10
+              },
+              {
+                "name": "নাগরদোলা",
+                "emoji": "🎡",
+                "value": 8
+              },
+              {
+                "name": "উড়ন্ত বিমান",
+                "emoji": "✈️",
+                "value": 5
+              },
+              {
+                "name": "আনন্দঘূর্ণি",
+                "emoji": "🎠",
+                "value": 12
+              }
+            ],
+            "key": 1,
+            "symbol": "dot",
+            "dir": "h",
+            "unit": "জন শিক্ষার্থী",
+            "ask": "which",
+            "given": 10,
+            "text": "কোন রাইডে ১০ জন শিক্ষার্থী চড়েছিল?"
+          },
+          {
+            "kind": "chart",
+            "rows": [
+              {
+                "name": "ছোটো মণিদের রেলগাড়ি",
+                "emoji": "🚂",
+                "value": 10
+              },
+              {
+                "name": "নাগরদোলা",
+                "emoji": "🎡",
+                "value": 8
+              },
+              {
+                "name": "উড়ন্ত বিমান",
+                "emoji": "✈️",
+                "value": 5
+              },
+              {
+                "name": "আনন্দঘূর্ণি",
+                "emoji": "🎠",
+                "value": 12
+              }
+            ],
+            "key": 1,
+            "symbol": "dot",
+            "dir": "h",
+            "unit": "জন শিক্ষার্থী",
+            "ask": "diff",
+            "a": 3,
+            "b": 2,
+            "text": "উড়ন্ত বিমানের চেয়ে আনন্দঘূর্ণিতে কতজন বেশি শিক্ষার্থী চড়েছিল?"
+          },
+          {
+            "kind": "chart",
+            "rows": [
+              {
+                "name": "ছোটো মণিদের রেলগাড়ি",
+                "emoji": "🚂",
+                "value": 10
+              },
+              {
+                "name": "নাগরদোলা",
+                "emoji": "🎡",
+                "value": 8
+              },
+              {
+                "name": "উড়ন্ত বিমান",
+                "emoji": "✈️",
+                "value": 5
+              },
+              {
+                "name": "আনন্দঘূর্ণি",
+                "emoji": "🎠",
+                "value": 12
+              }
+            ],
+            "key": 1,
+            "symbol": "dot",
+            "dir": "h",
+            "unit": "জন শিক্ষার্থী",
+            "ask": "diff",
+            "a": 0,
+            "b": 1,
+            "text": "নাগরদোলার চেয়ে রেলগাড়িতে কতজন বেশি শিক্ষার্থী চড়েছিল?"
+          },
+          {
+            "kind": "chart",
+            "rows": [
+              {
+                "name": "ছোটো মণিদের রেলগাড়ি",
+                "emoji": "🚂",
+                "value": 10
+              },
+              {
+                "name": "নাগরদোলা",
+                "emoji": "🎡",
+                "value": 8
+              },
+              {
+                "name": "উড়ন্ত বিমান",
+                "emoji": "✈️",
+                "value": 5
+              },
+              {
+                "name": "আনন্দঘূর্ণি",
+                "emoji": "🎠",
+                "value": 12
+              }
+            ],
+            "key": 1,
+            "symbol": "dot",
+            "dir": "h",
+            "unit": "জন শিক্ষার্থী",
+            "ask": "sum",
+            "a": 0,
+            "b": 2,
+            "text": "কতজন শিক্ষার্থী রেলগাড়ি ও উড়ন্ত বিমানে চড়েছিল?"
+          },
+          {
+            "kind": "chart",
+            "rows": [
+              {
+                "name": "ছোটো মণিদের রেলগাড়ি",
+                "emoji": "🚂",
+                "value": 10
+              },
+              {
+                "name": "নাগরদোলা",
+                "emoji": "🎡",
+                "value": 8
+              },
+              {
+                "name": "উড়ন্ত বিমান",
+                "emoji": "✈️",
+                "value": 5
+              },
+              {
+                "name": "আনন্দঘূর্ণি",
+                "emoji": "🎠",
+                "value": 12
+              }
+            ],
+            "key": 1,
+            "symbol": "dot",
+            "dir": "h",
+            "unit": "জন শিক্ষার্থী",
+            "ask": "sum",
+            "a": 1,
+            "b": 2,
+            "text": "কতজন শিক্ষার্থী নাগরদোলা ও উড়ন্ত বিমানে চড়েছিল?"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": [
+          "পৃষ্ঠা ১৪৯-এর ছবির শিক্ষার্থীদের গোনা যায় না (শুধু রেলগাড়ির ১০ জন পৃষ্ঠা ১৫০-এ ছাপা)। তাই পৃষ্ঠা ১৫০-এর খেলার মতোই নাগরদোলা ৮, উড়ন্ত বিমান ৫ ও আনন্দঘূর্ণি ১২ জন ধরা হয়েছে।"
+        ]
+      }
+    },
+    {
+      "key": "m3-p151-fruit-pictograph",
+      "qr": "M3-p151-a",
+      "code": "LSGJVQC2",
+      "type": "tally_chart",
+      "title": "ফলের ঝুড়ির চিত্রলেখ পড়ি",
+      "chapter": "অধ্যায় ১৩ · উপাত্ত সংগ্রহ ও বিন্যস্তকরণ",
+      "page": 151,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "chart",
+            "rows": [
+              {
+                "name": "আপেল",
+                "emoji": "🍎",
+                "value": 5
+              },
+              {
+                "name": "কলা",
+                "emoji": "🍌",
+                "value": 4
+              },
+              {
+                "name": "পেয়ারা",
+                "emoji": "🍐",
+                "value": 6
+              },
+              {
+                "name": "আনারস",
+                "emoji": "🍍",
+                "value": 7
+              }
+            ],
+            "key": 1,
+            "symbol": "emoji",
+            "dir": "h",
+            "unit": "টি ফল",
+            "ask": "value",
+            "a": 0,
+            "text": "ঝুড়িতে কয়টি আপেল আছে?"
+          },
+          {
+            "kind": "chart",
+            "rows": [
+              {
+                "name": "আপেল",
+                "emoji": "🍎",
+                "value": 5
+              },
+              {
+                "name": "কলা",
+                "emoji": "🍌",
+                "value": 4
+              },
+              {
+                "name": "পেয়ারা",
+                "emoji": "🍐",
+                "value": 6
+              },
+              {
+                "name": "আনারস",
+                "emoji": "🍍",
+                "value": 7
+              }
+            ],
+            "key": 1,
+            "symbol": "emoji",
+            "dir": "h",
+            "unit": "টি ফল",
+            "ask": "value",
+            "a": 2,
+            "text": "ঝুড়িতে কয়টি পেয়ারা আছে?"
+          },
+          {
+            "kind": "chart",
+            "rows": [
+              {
+                "name": "আপেল",
+                "emoji": "🍎",
+                "value": 5
+              },
+              {
+                "name": "কলা",
+                "emoji": "🍌",
+                "value": 4
+              },
+              {
+                "name": "পেয়ারা",
+                "emoji": "🍐",
+                "value": 6
+              },
+              {
+                "name": "আনারস",
+                "emoji": "🍍",
+                "value": 7
+              }
+            ],
+            "key": 1,
+            "symbol": "emoji",
+            "dir": "h",
+            "unit": "টি ফল",
+            "ask": "least",
+            "text": "ঝুড়িতে কোন ফল সবচেয়ে কম আছে?"
+          },
+          {
+            "kind": "chart",
+            "rows": [
+              {
+                "name": "আপেল",
+                "emoji": "🍎",
+                "value": 5
+              },
+              {
+                "name": "কলা",
+                "emoji": "🍌",
+                "value": 4
+              },
+              {
+                "name": "পেয়ারা",
+                "emoji": "🍐",
+                "value": 6
+              },
+              {
+                "name": "আনারস",
+                "emoji": "🍍",
+                "value": 7
+              }
+            ],
+            "key": 1,
+            "symbol": "emoji",
+            "dir": "h",
+            "unit": "টি ফল",
+            "ask": "sum",
+            "a": 0,
+            "b": 1,
+            "text": "ঝুড়িতে আপেল ও কলা মিলে কয়টি?"
+          },
+          {
+            "kind": "chart",
+            "rows": [
+              {
+                "name": "আপেল",
+                "emoji": "🍎",
+                "value": 5
+              },
+              {
+                "name": "কলা",
+                "emoji": "🍌",
+                "value": 4
+              },
+              {
+                "name": "পেয়ারা",
+                "emoji": "🍐",
+                "value": 6
+              },
+              {
+                "name": "আনারস",
+                "emoji": "🍍",
+                "value": 7
+              }
+            ],
+            "key": 1,
+            "symbol": "emoji",
+            "dir": "h",
+            "unit": "টি ফল",
+            "ask": "diff",
+            "a": 2,
+            "b": 0,
+            "text": "আপেলের চেয়ে পেয়ারা কয়টি বেশি?"
+          },
+          {
+            "kind": "chart",
+            "rows": [
+              {
+                "name": "আপেল",
+                "emoji": "🍎",
+                "value": 5
+              },
+              {
+                "name": "কলা",
+                "emoji": "🍌",
+                "value": 4
+              },
+              {
+                "name": "পেয়ারা",
+                "emoji": "🍐",
+                "value": 6
+              },
+              {
+                "name": "আনারস",
+                "emoji": "🍍",
+                "value": 7
+              }
+            ],
+            "key": 1,
+            "symbol": "dot",
+            "dir": "h",
+            "unit": "টি ফল",
+            "ask": "value",
+            "a": 1,
+            "text": "ঝুড়িতে কয়টি কলা আছে?"
+          },
+          {
+            "kind": "chart",
+            "rows": [
+              {
+                "name": "আপেল",
+                "emoji": "🍎",
+                "value": 5
+              },
+              {
+                "name": "কলা",
+                "emoji": "🍌",
+                "value": 4
+              },
+              {
+                "name": "পেয়ারা",
+                "emoji": "🍐",
+                "value": 6
+              },
+              {
+                "name": "আনারস",
+                "emoji": "🍍",
+                "value": 7
+              }
+            ],
+            "key": 1,
+            "symbol": "dot",
+            "dir": "h",
+            "unit": "টি ফল",
+            "ask": "which",
+            "given": 7,
+            "text": "কোন ফল ৭টি আছে?"
+          },
+          {
+            "kind": "chart",
+            "rows": [
+              {
+                "name": "আপেল",
+                "emoji": "🍎",
+                "value": 5
+              },
+              {
+                "name": "কলা",
+                "emoji": "🍌",
+                "value": 4
+              },
+              {
+                "name": "পেয়ারা",
+                "emoji": "🍐",
+                "value": 6
+              },
+              {
+                "name": "আনারস",
+                "emoji": "🍍",
+                "value": 7
+              }
+            ],
+            "key": 1,
+            "symbol": "dot",
+            "dir": "h",
+            "unit": "টি ফল",
+            "ask": "diff",
+            "a": 3,
+            "b": 1,
+            "text": "কলার চেয়ে আনারস কয়টি বেশি?"
+          },
+          {
+            "kind": "chart",
+            "rows": [
+              {
+                "name": "আপেল",
+                "emoji": "🍎",
+                "value": 5
+              },
+              {
+                "name": "কলা",
+                "emoji": "🍌",
+                "value": 4
+              },
+              {
+                "name": "পেয়ারা",
+                "emoji": "🍐",
+                "value": 6
+              },
+              {
+                "name": "আনারস",
+                "emoji": "🍍",
+                "value": 7
+              }
+            ],
+            "key": 1,
+            "symbol": "dot",
+            "dir": "h",
+            "unit": "টি ফল",
+            "ask": "sum",
+            "a": 2,
+            "b": 3,
+            "text": "ঝুড়িতে পেয়ারা ও আনারস মিলে কয়টি?"
+          },
+          {
+            "kind": "chart",
+            "rows": [
+              {
+                "name": "আপেল",
+                "emoji": "🍎",
+                "value": 5
+              },
+              {
+                "name": "কলা",
+                "emoji": "🍌",
+                "value": 4
+              },
+              {
+                "name": "পেয়ারা",
+                "emoji": "🍐",
+                "value": 6
+              },
+              {
+                "name": "আনারস",
+                "emoji": "🍍",
+                "value": 7
+              }
+            ],
+            "key": 1,
+            "symbol": "dot",
+            "dir": "h",
+            "unit": "টি ফল",
+            "ask": "table",
+            "text": "চিত্রলেখ দেখে প্রতিটি ফলের সংখ্যা লিখি।"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    }
+  ]
+}

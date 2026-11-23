@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Made by the builds, so rebuilt rather than stored (each project's README says how):
+# page previews, work files (OCR caches, test PDFs, renders), print-sized copies of the pictures
+*/previews/
+*/.work/*
+!*/.work/tessdata/
+!*/.work/standin.js
+*/art/ready/
+
+# The finished books (rebuilt with node build.js): class2-math-book.pdf, class3-math-book.pdf, class4-math-book.pdf,
+# eft-class3-book.pdf
+*/*-book.pdf
+
+# Zips of picture kits and references
+*.zip

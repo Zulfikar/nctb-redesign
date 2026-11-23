@@ -1,0 +1,1834 @@
+{
+  "format": "ebidyaloy-activity-import",
+  "version": 1,
+  "book": {
+    "title": "প্রাথমিক গণিত - দ্বিতীয় শ্রেণী",
+    "edition": "bn",
+    "editionName": "বাংলা",
+    "language": "bn",
+    "base": true,
+    "chapters": [
+      "অধ্যায় ১ · সংখ্যা ও স্থানীয় মান",
+      "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "অধ্যায় ৩ · গুণ",
+      "অধ্যায় ৪ · জ্যামিতিক আকৃতি ও প্যাটার্ন",
+      "অধ্যায় ৫ · পরিমাপ",
+      "অধ্যায় ৬ · মুদ্রা",
+      "অধ্যায় ৭ · উপাত্ত"
+    ]
+  },
+  "activities": [
+    {
+      "key": "m2-p030-tool-numberline-1",
+      "qr": "M2-p30-a",
+      "code": "LS7Q93YG",
+      "type": "number_line",
+      "title": "সংখ্যারেখায় প্যাটার্ন (১)",
+      "chapter": "অধ্যায় ১ · সংখ্যা ও স্থানীয় মান",
+      "page": 30,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "numberline",
+            "from": 0,
+            "to": 30,
+            "step": 2,
+            "target": 14,
+            "ask": "place"
+          },
+          {
+            "kind": "numberline",
+            "from": 0,
+            "to": 20,
+            "step": 2,
+            "target": 12,
+            "ask": "read"
+          },
+          {
+            "kind": "numberline",
+            "from": 0,
+            "to": 60,
+            "step": 5,
+            "target": 35,
+            "ask": "place"
+          },
+          {
+            "kind": "numberline",
+            "from": 15,
+            "to": 60,
+            "step": 5,
+            "target": 50,
+            "ask": "read"
+          },
+          {
+            "kind": "numberline",
+            "from": 1,
+            "to": 25,
+            "step": 2,
+            "target": 11,
+            "ask": "place"
+          },
+          {
+            "kind": "numberline",
+            "from": 9,
+            "to": 21,
+            "step": 2,
+            "target": 13,
+            "ask": "read"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p032-tool-numberline-2",
+      "qr": "M2-p32-a",
+      "code": "LSXNDHMU",
+      "type": "number_line",
+      "title": "সংখ্যারেখায় প্যাটার্ন (২)",
+      "chapter": "অধ্যায় ১ · সংখ্যা ও স্থানীয় মান",
+      "page": 32,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "numberline",
+            "from": 1,
+            "to": 31,
+            "step": 2,
+            "target": 19,
+            "ask": "place"
+          },
+          {
+            "kind": "numberline",
+            "from": 4,
+            "to": 20,
+            "step": 2,
+            "target": 14,
+            "ask": "read"
+          },
+          {
+            "kind": "numberline",
+            "from": 3,
+            "to": 47,
+            "step": 4,
+            "target": 23,
+            "ask": "place"
+          },
+          {
+            "kind": "numberline",
+            "from": 3,
+            "to": 35,
+            "step": 4,
+            "target": 31,
+            "ask": "read"
+          },
+          {
+            "kind": "numberline",
+            "from": 0,
+            "to": 70,
+            "step": 5,
+            "target": 45,
+            "ask": "place"
+          },
+          {
+            "kind": "numberline",
+            "from": 0,
+            "to": 50,
+            "step": 5,
+            "target": 40,
+            "ask": "read"
+          },
+          {
+            "kind": "numberline",
+            "from": 38,
+            "to": 48,
+            "step": 2,
+            "target": 42,
+            "ask": "read"
+          },
+          {
+            "kind": "numberline",
+            "from": 9,
+            "to": 24,
+            "step": 3,
+            "target": 18,
+            "ask": "read"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p044-tool-mistake-add",
+      "qr": "M2-p44-c",
+      "code": "LS2FSRSN",
+      "type": "find_mistake",
+      "title": "ভুলটি খুঁজি: হাতে রেখে যোগ",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 44,
+      "configuration": {
+        "fresh": {
+          "skill": "mistake",
+          "count": 5,
+          "digits": 2
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "mistake",
+            "a": 23,
+            "op": "+",
+            "b": 18,
+            "shown": 31
+          },
+          {
+            "kind": "mistake",
+            "a": 45,
+            "op": "+",
+            "b": 27,
+            "shown": 62
+          },
+          {
+            "kind": "mistake",
+            "a": 26,
+            "op": "+",
+            "b": 37,
+            "shown": 62
+          },
+          {
+            "kind": "mistake",
+            "a": 47,
+            "op": "+",
+            "b": 18,
+            "shown": 55
+          },
+          {
+            "kind": "mistake",
+            "a": 42,
+            "op": "+",
+            "b": 29,
+            "shown": 61
+          },
+          {
+            "kind": "mistake",
+            "a": 56,
+            "op": "+",
+            "b": 14,
+            "shown": 71
+          },
+          {
+            "kind": "mistake",
+            "a": 36,
+            "op": "+",
+            "b": 17,
+            "shown": 43
+          },
+          {
+            "kind": "mistake",
+            "a": 75,
+            "op": "+",
+            "b": 15,
+            "shown": 80
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": [
+          "প্রতিটি যোগফলের একটি অঙ্ক ভুল: কোথাও হাতে রাখা ১ পরের ঘরে যোগ করা হয়নি, কোথাও এককের ঘরের যোগে ১ বেশি বা কম হয়েছে।"
+        ]
+      }
+    },
+    {
+      "key": "m2-p052-tool-mistake-sub",
+      "qr": "M2-p52-c",
+      "code": "LSNRGPPD",
+      "type": "find_mistake",
+      "title": "ভুলটি খুঁজি: দশক থেকে ১ দশ নিয়ে বিয়োগ",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 52,
+      "configuration": {
+        "fresh": {
+          "skill": "mistake",
+          "count": 5,
+          "digits": 2
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "mistake",
+            "a": 97,
+            "op": "−",
+            "b": 59,
+            "shown": 48
+          },
+          {
+            "kind": "mistake",
+            "a": 71,
+            "op": "−",
+            "b": 44,
+            "shown": 37
+          },
+          {
+            "kind": "mistake",
+            "a": 70,
+            "op": "−",
+            "b": 22,
+            "shown": 47
+          },
+          {
+            "kind": "mistake",
+            "a": 32,
+            "op": "−",
+            "b": 15,
+            "shown": 27
+          },
+          {
+            "kind": "mistake",
+            "a": 85,
+            "op": "−",
+            "b": 47,
+            "shown": 48
+          },
+          {
+            "kind": "mistake",
+            "a": 64,
+            "op": "−",
+            "b": 27,
+            "shown": 38
+          },
+          {
+            "kind": "mistake",
+            "a": 92,
+            "op": "−",
+            "b": 23,
+            "shown": 79
+          },
+          {
+            "kind": "mistake",
+            "a": 50,
+            "op": "−",
+            "b": 3,
+            "shown": 57
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": [
+          "প্রতিটি বিয়োগফলের একটি অঙ্ক ভুল: কোথাও দশক থেকে ১ দশ নেওয়া হয়েছে, কিন্তু দশকের ঘর থেকে ১ কমানো হয়নি; কোথাও এককের ঘরের বিয়োগে ১ বেশি বা কম হয়েছে।"
+        ]
+      }
+    },
+    {
+      "key": "m2-p062-tool-mistake-add3",
+      "qr": "M2-p62-b",
+      "code": "LSHTRTRA",
+      "type": "find_mistake",
+      "title": "ভুলটি খুঁজি: তিন অঙ্কের যোগ",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 62,
+      "configuration": {
+        "fresh": {
+          "skill": "mistake",
+          "count": 5,
+          "digits": 3
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "mistake",
+            "a": 468,
+            "op": "+",
+            "b": 394,
+            "shown": 852
+          },
+          {
+            "kind": "mistake",
+            "a": 596,
+            "op": "+",
+            "b": 312,
+            "shown": 808
+          },
+          {
+            "kind": "mistake",
+            "a": 649,
+            "op": "+",
+            "b": 161,
+            "shown": 811
+          },
+          {
+            "kind": "mistake",
+            "a": 427,
+            "op": "+",
+            "b": 185,
+            "shown": 602
+          },
+          {
+            "kind": "mistake",
+            "a": 381,
+            "op": "+",
+            "b": 269,
+            "shown": 640
+          },
+          {
+            "kind": "mistake",
+            "a": 284,
+            "op": "+",
+            "b": 581,
+            "shown": 866
+          },
+          {
+            "kind": "mistake",
+            "a": 294,
+            "op": "+",
+            "b": 687,
+            "shown": 881
+          },
+          {
+            "kind": "mistake",
+            "a": 409,
+            "op": "+",
+            "b": 384,
+            "shown": 783
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": [
+          "প্রতিটি যোগফলের একটি অঙ্ক ভুল: কোথাও হাতে রাখা ১ পরের ঘরে যোগ করা হয়নি, কোথাও এককের ঘরের যোগে ১ বেশি বা কম হয়েছে।"
+        ]
+      }
+    },
+    {
+      "key": "m2-p067-tool-mistake-sub3",
+      "qr": "M2-p67-b",
+      "code": "LS2YG8B6",
+      "type": "find_mistake",
+      "title": "ভুলটি খুঁজি: তিন অঙ্কের বিয়োগ",
+      "chapter": "অধ্যায় ২ · যোগ ও বিয়োগ",
+      "page": 67,
+      "configuration": {
+        "fresh": {
+          "skill": "mistake",
+          "count": 5,
+          "digits": 3
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "mistake",
+            "a": 231,
+            "op": "−",
+            "b": 48,
+            "shown": 283
+          },
+          {
+            "kind": "mistake",
+            "a": 230,
+            "op": "−",
+            "b": 90,
+            "shown": 240
+          },
+          {
+            "kind": "mistake",
+            "a": 437,
+            "op": "−",
+            "b": 273,
+            "shown": 165
+          },
+          {
+            "kind": "mistake",
+            "a": 663,
+            "op": "−",
+            "b": 267,
+            "shown": 496
+          },
+          {
+            "kind": "mistake",
+            "a": 490,
+            "op": "−",
+            "b": 84,
+            "shown": 416
+          },
+          {
+            "kind": "mistake",
+            "a": 941,
+            "op": "−",
+            "b": 608,
+            "shown": 332
+          },
+          {
+            "kind": "mistake",
+            "a": 792,
+            "op": "−",
+            "b": 486,
+            "shown": 316
+          },
+          {
+            "kind": "mistake",
+            "a": 341,
+            "op": "−",
+            "b": 126,
+            "shown": 225
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": [
+          "প্রতিটি বিয়োগফলের একটি অঙ্ক ভুল: কোথাও ১ দশ বা ১ শত নেওয়া হয়েছে, কিন্তু পরের ঘর থেকে ১ কমানো হয়নি; কোথাও এককের ঘরের বিয়োগে ১ বেশি বা কম হয়েছে।"
+        ]
+      }
+    },
+    {
+      "key": "m2-p077-tool-groups-1",
+      "qr": "M2-p77-b",
+      "code": "LSFAXRTP",
+      "type": "equal_groups",
+      "title": "সমান ভাগে ভাগ করি (১)",
+      "chapter": "অধ্যায় ৩ · গুণ",
+      "page": 77,
+      "configuration": {
+        "fresh": {
+          "skill": "groups",
+          "count": 5
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "groups",
+            "total": 10,
+            "groups": 5,
+            "emoji": "🍎"
+          },
+          {
+            "kind": "groups",
+            "total": 15,
+            "groups": 5,
+            "emoji": "🥔"
+          },
+          {
+            "kind": "groups",
+            "total": 20,
+            "groups": 5,
+            "emoji": "🐟"
+          },
+          {
+            "kind": "groups",
+            "total": 16,
+            "groups": 4,
+            "emoji": "🍌"
+          },
+          {
+            "kind": "groups",
+            "total": 12,
+            "groups": 6,
+            "emoji": "🍎"
+          },
+          {
+            "kind": "groups",
+            "total": 12,
+            "groups": 3,
+            "emoji": "🐟"
+          },
+          {
+            "kind": "groups",
+            "total": 15,
+            "groups": 5,
+            "emoji": "⚽"
+          },
+          {
+            "kind": "groups",
+            "total": 20,
+            "groups": 4,
+            "emoji": "🍅"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p081-tool-numberline-5-2",
+      "qr": "M2-p81-b",
+      "code": "LS2K7UQX",
+      "type": "number_line",
+      "title": "সংখ্যারেখায় লাফ: ৫ ও ২ এর গুণ",
+      "chapter": "অধ্যায় ৩ · গুণ",
+      "page": 81,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "numberline",
+            "from": 0,
+            "to": 50,
+            "step": 5,
+            "target": 15,
+            "ask": "read"
+          },
+          {
+            "kind": "numberline",
+            "from": 0,
+            "to": 75,
+            "step": 5,
+            "target": 35,
+            "ask": "place"
+          },
+          {
+            "kind": "numberline",
+            "from": 0,
+            "to": 50,
+            "step": 5,
+            "target": 30,
+            "ask": "read"
+          },
+          {
+            "kind": "numberline",
+            "from": 0,
+            "to": 75,
+            "step": 5,
+            "target": 45,
+            "ask": "place"
+          },
+          {
+            "kind": "numberline",
+            "from": 0,
+            "to": 20,
+            "step": 2,
+            "target": 6,
+            "ask": "read"
+          },
+          {
+            "kind": "numberline",
+            "from": 0,
+            "to": 30,
+            "step": 2,
+            "target": 14,
+            "ask": "place"
+          },
+          {
+            "kind": "numberline",
+            "from": 0,
+            "to": 20,
+            "step": 2,
+            "target": 8,
+            "ask": "read"
+          },
+          {
+            "kind": "numberline",
+            "from": 0,
+            "to": 30,
+            "step": 2,
+            "target": 18,
+            "ask": "place"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p086-tool-groups-2",
+      "qr": "M2-p86-b",
+      "code": "LSQD4NFU",
+      "type": "equal_groups",
+      "title": "সমান ভাগে ভাগ করি (২)",
+      "chapter": "অধ্যায় ৩ · গুণ",
+      "page": 86,
+      "configuration": {
+        "fresh": {
+          "skill": "groups",
+          "count": 5
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "groups",
+            "total": 15,
+            "groups": 3,
+            "emoji": "🍅"
+          },
+          {
+            "kind": "groups",
+            "total": 25,
+            "groups": 5,
+            "emoji": "🍅"
+          },
+          {
+            "kind": "groups",
+            "total": 30,
+            "groups": 6,
+            "emoji": "🍒"
+          },
+          {
+            "kind": "groups",
+            "total": 9,
+            "groups": 3,
+            "emoji": "⚽"
+          },
+          {
+            "kind": "groups",
+            "total": 18,
+            "groups": 6,
+            "emoji": "⚽"
+          },
+          {
+            "kind": "groups",
+            "total": 12,
+            "groups": 3,
+            "emoji": "🍏"
+          },
+          {
+            "kind": "groups",
+            "total": 16,
+            "groups": 4,
+            "emoji": "🍏"
+          },
+          {
+            "kind": "groups",
+            "total": 20,
+            "groups": 5,
+            "emoji": "🍏"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p086-tool-numberline-3-4",
+      "qr": "M2-p86-c",
+      "code": "LSHBJFZC",
+      "type": "number_line",
+      "title": "সংখ্যারেখায় লাফ: ৩ ও ৪ এর গুণ",
+      "chapter": "অধ্যায় ৩ · গুণ",
+      "page": 86,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "numberline",
+            "from": 0,
+            "to": 30,
+            "step": 3,
+            "target": 9,
+            "ask": "read"
+          },
+          {
+            "kind": "numberline",
+            "from": 0,
+            "to": 45,
+            "step": 3,
+            "target": 21,
+            "ask": "place"
+          },
+          {
+            "kind": "numberline",
+            "from": 0,
+            "to": 30,
+            "step": 3,
+            "target": 12,
+            "ask": "read"
+          },
+          {
+            "kind": "numberline",
+            "from": 0,
+            "to": 45,
+            "step": 3,
+            "target": 27,
+            "ask": "place"
+          },
+          {
+            "kind": "numberline",
+            "from": 0,
+            "to": 40,
+            "step": 4,
+            "target": 16,
+            "ask": "read"
+          },
+          {
+            "kind": "numberline",
+            "from": 0,
+            "to": 60,
+            "step": 4,
+            "target": 20,
+            "ask": "place"
+          },
+          {
+            "kind": "numberline",
+            "from": 0,
+            "to": 40,
+            "step": 4,
+            "target": 12,
+            "ask": "read"
+          },
+          {
+            "kind": "numberline",
+            "from": 0,
+            "to": 60,
+            "step": 4,
+            "target": 28,
+            "ask": "place"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p104-tool-compose",
+      "qr": "M2-p104-b",
+      "code": "LS693QZ8",
+      "type": "make_shapes",
+      "title": "আকৃতি বানাই",
+      "chapter": "অধ্যায় ৪ · জ্যামিতিক আকৃতি ও প্যাটার্ন",
+      "page": 104,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "compose",
+            "target": "square"
+          },
+          {
+            "kind": "compose",
+            "target": "rectangle"
+          },
+          {
+            "kind": "compose",
+            "target": "circle"
+          },
+          {
+            "kind": "compose",
+            "target": "big-square"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p106-tool-shapes-1",
+      "qr": "M2-p106-b",
+      "code": "LSM3V994",
+      "type": "shape_patterns",
+      "title": "আকৃতির প্যাটার্ন (১)",
+      "chapter": "অধ্যায় ৪ · জ্যামিতিক আকৃতি ও প্যাটার্ন",
+      "page": 106,
+      "configuration": {
+        "fresh": {
+          "skill": "shapes",
+          "count": 5
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "shapes",
+            "seq": [
+              "circle-orange",
+              "square-blue",
+              "square-blue",
+              "square-blue",
+              "circle-orange",
+              "square-blue",
+              "square-blue",
+              "square-blue",
+              null
+            ]
+          },
+          {
+            "kind": "shapes",
+            "seq": [
+              "circle-orange",
+              "square-blue",
+              "square-blue",
+              "square-blue",
+              "circle-orange",
+              "square-blue",
+              null,
+              "square-blue",
+              "circle-orange",
+              "square-blue"
+            ]
+          },
+          {
+            "kind": "shapes",
+            "seq": [
+              "triangle-green",
+              "square-blue",
+              "square-blue",
+              "square-blue",
+              "triangle-green",
+              "square-blue",
+              "square-blue",
+              "square-blue",
+              null,
+              "square-blue"
+            ]
+          },
+          {
+            "kind": "shapes",
+            "seq": [
+              "triangle-green",
+              "square-blue",
+              null,
+              "square-blue",
+              "triangle-green",
+              "square-blue",
+              "square-blue",
+              "square-blue",
+              "triangle-green",
+              "square-blue"
+            ]
+          },
+          {
+            "kind": "shapes",
+            "seq": [
+              "circle-orange",
+              "square-blue",
+              "circle-orange",
+              "square-blue",
+              "circle-orange",
+              null,
+              "circle-orange",
+              "square-blue"
+            ]
+          },
+          {
+            "kind": "shapes",
+            "seq": [
+              "triangle-green",
+              "circle-orange",
+              "triangle-green",
+              "circle-orange",
+              null,
+              "circle-orange",
+              "triangle-green",
+              "circle-orange"
+            ]
+          },
+          {
+            "kind": "shapes",
+            "seq": [
+              "circle-orange",
+              "circle-orange",
+              "triangle-green",
+              "circle-orange",
+              "circle-orange",
+              "triangle-green",
+              "circle-orange",
+              null,
+              "triangle-green"
+            ]
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p106-tool-shapes-2",
+      "qr": "M2-p106-c",
+      "code": "LSJ7BRXP",
+      "type": "shape_patterns",
+      "title": "আকৃতির প্যাটার্ন (২)",
+      "chapter": "অধ্যায় ৪ · জ্যামিতিক আকৃতি ও প্যাটার্ন",
+      "page": 106,
+      "configuration": {
+        "fresh": {
+          "skill": "shapes",
+          "count": 5
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "shapes",
+            "seq": [
+              "star-yellow",
+              "heart-red",
+              "star-yellow",
+              "heart-red",
+              "star-yellow",
+              null,
+              "star-yellow",
+              "heart-red"
+            ]
+          },
+          {
+            "kind": "shapes",
+            "seq": [
+              "circle-red",
+              "square-blue",
+              "triangle-green",
+              "circle-red",
+              "square-blue",
+              "triangle-green",
+              "circle-red",
+              null,
+              "triangle-green"
+            ]
+          },
+          {
+            "kind": "shapes",
+            "seq": [
+              "square-red",
+              "square-red",
+              "circle-blue",
+              "square-red",
+              "square-red",
+              "circle-blue",
+              null,
+              "square-red",
+              "circle-blue"
+            ]
+          },
+          {
+            "kind": "shapes",
+            "seq": [
+              "triangle-orange",
+              "star-purple",
+              "heart-red",
+              "circle-green",
+              "triangle-orange",
+              "star-purple",
+              null,
+              "circle-green",
+              "triangle-orange",
+              "star-purple"
+            ]
+          },
+          {
+            "kind": "shapes",
+            "seq": [
+              null,
+              "rect-purple",
+              "rect-yellow",
+              "rect-purple",
+              "rect-yellow",
+              "rect-purple",
+              "rect-yellow",
+              "rect-purple"
+            ]
+          },
+          {
+            "kind": "shapes",
+            "seq": [
+              "heart-red",
+              "heart-red",
+              "star-yellow",
+              "star-yellow",
+              "heart-red",
+              "heart-red",
+              "star-yellow",
+              null,
+              "heart-red",
+              "heart-red"
+            ]
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p109-tool-ruler",
+      "qr": "M2-p109-a",
+      "code": "LSAN93GH",
+      "type": "measure_it",
+      "title": "স্কেল দিয়ে মাপি",
+      "chapter": "অধ্যায় ৫ · পরিমাপ",
+      "page": 109,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "measure",
+            "tool": "ruler",
+            "value": 8,
+            "emoji": "✏️"
+          },
+          {
+            "kind": "measure",
+            "tool": "ruler",
+            "value": 12,
+            "emoji": "✏️"
+          },
+          {
+            "kind": "measure",
+            "tool": "ruler",
+            "value": 9,
+            "emoji": "✏️"
+          },
+          {
+            "kind": "measure",
+            "tool": "ruler",
+            "value": 3,
+            "emoji": "🥛"
+          },
+          {
+            "kind": "measure",
+            "tool": "ruler",
+            "value": 5,
+            "emoji": "🕯️"
+          },
+          {
+            "kind": "measure",
+            "tool": "ruler",
+            "value": 7,
+            "emoji": "🖍️"
+          },
+          {
+            "kind": "measure",
+            "tool": "ruler",
+            "value": 14,
+            "emoji": "🥕"
+          },
+          {
+            "kind": "measure",
+            "tool": "ruler",
+            "value": 18,
+            "emoji": "🍌"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p113-tool-balance",
+      "qr": "M2-p113-a",
+      "code": "LSKTHP3H",
+      "type": "measure_it",
+      "title": "দাঁড়িপাল্লায় ওজন মাপি",
+      "chapter": "অধ্যায় ৫ · পরিমাপ",
+      "page": 113,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "measure",
+            "tool": "balance",
+            "weights": [
+              10,
+              10,
+              5
+            ],
+            "emoji": "🍫"
+          },
+          {
+            "kind": "measure",
+            "tool": "balance",
+            "weights": [
+              20,
+              5
+            ],
+            "emoji": "🍫"
+          },
+          {
+            "kind": "measure",
+            "tool": "balance",
+            "weights": [
+              20,
+              20,
+              10
+            ],
+            "emoji": "🥚"
+          },
+          {
+            "kind": "measure",
+            "tool": "balance",
+            "weights": [
+              20,
+              10,
+              10,
+              5,
+              5
+            ],
+            "emoji": "🥚"
+          },
+          {
+            "kind": "measure",
+            "tool": "balance",
+            "weights": [
+              50,
+              50
+            ],
+            "emoji": "🍅"
+          },
+          {
+            "kind": "measure",
+            "tool": "balance",
+            "weights": [
+              50,
+              20,
+              20,
+              10
+            ],
+            "emoji": "🍅"
+          },
+          {
+            "kind": "measure",
+            "tool": "balance",
+            "weights": [
+              100,
+              50,
+              20
+            ],
+            "emoji": "🍌"
+          },
+          {
+            "kind": "measure",
+            "tool": "balance",
+            "weights": [
+              200,
+              50
+            ],
+            "emoji": "🍆"
+          },
+          {
+            "kind": "measure",
+            "tool": "balance",
+            "weights": [
+              500,
+              200,
+              200,
+              100
+            ],
+            "emoji": "🍍"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p116-tool-jug",
+      "qr": "M2-p116-b",
+      "code": "LSHPCEZ2",
+      "type": "measure_it",
+      "title": "জগে পানি মাপি (মিলিলিটার)",
+      "chapter": "অধ্যায় ৫ · পরিমাপ",
+      "page": 116,
+      "configuration": {},
+      "content": {
+        "items": [
+          {
+            "kind": "measure",
+            "tool": "jug",
+            "value": 1000,
+            "ask": "read"
+          },
+          {
+            "kind": "measure",
+            "tool": "jug",
+            "value": 500,
+            "ask": "fill"
+          },
+          {
+            "kind": "measure",
+            "tool": "jug",
+            "value": 250,
+            "ask": "read"
+          },
+          {
+            "kind": "measure",
+            "tool": "jug",
+            "value": 750,
+            "ask": "fill"
+          },
+          {
+            "kind": "measure",
+            "tool": "jug",
+            "value": 500,
+            "ask": "read"
+          },
+          {
+            "kind": "measure",
+            "tool": "jug",
+            "value": 1000,
+            "ask": "fill"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": [
+          "বইয়ে তরল মাপা হয়েছে লিটার ও গ্লাস দিয়ে; মিলিলিটার বইয়ে নেই। ১ লিটার = ১০০০ মিলিলিটার, আধা লিটার = ৫০০ মিলিলিটার।"
+        ]
+      }
+    },
+    {
+      "key": "m2-p117-tool-clock-read",
+      "qr": "M2-p117-a",
+      "code": "LSE54CWV",
+      "type": "clock_time",
+      "title": "ঘড়ি দেখি",
+      "chapter": "অধ্যায় ৫ · পরিমাপ",
+      "page": 117,
+      "configuration": {
+        "fresh": {
+          "skill": "clock",
+          "count": 5
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "clock",
+            "h": 9,
+            "m": 0,
+            "ask": "read"
+          },
+          {
+            "kind": "clock",
+            "h": 1,
+            "m": 0,
+            "ask": "read"
+          },
+          {
+            "kind": "clock",
+            "h": 4,
+            "m": 0,
+            "ask": "read"
+          },
+          {
+            "kind": "clock",
+            "h": 3,
+            "m": 0,
+            "ask": "read"
+          },
+          {
+            "kind": "clock",
+            "h": 8,
+            "m": 0,
+            "ask": "read"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p118-tool-clock-set",
+      "qr": "M2-p118-b",
+      "code": "LSUJYF9Z",
+      "type": "clock_time",
+      "title": "ঘড়ির কাঁটা বসাই",
+      "chapter": "অধ্যায় ৫ · পরিমাপ",
+      "page": 118,
+      "configuration": {
+        "fresh": {
+          "skill": "clock",
+          "count": 5
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "clock",
+            "h": 8,
+            "m": 0,
+            "ask": "set"
+          },
+          {
+            "kind": "clock",
+            "h": 2,
+            "m": 0,
+            "ask": "set"
+          },
+          {
+            "kind": "clock",
+            "h": 10,
+            "m": 0,
+            "ask": "set"
+          },
+          {
+            "kind": "clock",
+            "h": 3,
+            "m": 0,
+            "ask": "set"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p118-tool-clock-minutes",
+      "qr": "M2-p118-c",
+      "code": "LS9ZCHN8",
+      "type": "clock_time",
+      "title": "ঘণ্টা ও মিনিট",
+      "chapter": "অধ্যায় ৫ · পরিমাপ",
+      "page": 118,
+      "configuration": {
+        "fresh": {
+          "skill": "clock",
+          "count": 5
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "clock",
+            "h": 11,
+            "m": 15,
+            "ask": "read"
+          },
+          {
+            "kind": "clock",
+            "h": 11,
+            "m": 35,
+            "ask": "set"
+          },
+          {
+            "kind": "clock",
+            "h": 8,
+            "m": 20,
+            "ask": "read"
+          },
+          {
+            "kind": "clock",
+            "h": 6,
+            "m": 25,
+            "ask": "set"
+          },
+          {
+            "kind": "clock",
+            "h": 7,
+            "m": 45,
+            "ask": "read"
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p123-tool-money-count",
+      "qr": "M2-p123-b",
+      "code": "LSZT9G8P",
+      "type": "taka_shop",
+      "title": "টাকা গুনি",
+      "chapter": "অধ্যায় ৬ · মুদ্রা",
+      "page": 123,
+      "configuration": {
+        "fresh": {
+          "skill": "money",
+          "count": 5,
+          "digits": 2
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "money",
+            "ask": "count",
+            "notes": [
+              10,
+              5,
+              5,
+              2,
+              2,
+              2,
+              2,
+              1,
+              1
+            ]
+          },
+          {
+            "kind": "money",
+            "ask": "count",
+            "notes": [
+              100,
+              100
+            ]
+          },
+          {
+            "kind": "money",
+            "ask": "count",
+            "notes": [
+              100,
+              50,
+              50
+            ]
+          },
+          {
+            "kind": "money",
+            "ask": "count",
+            "notes": [
+              50,
+              50,
+              20,
+              20,
+              20,
+              20,
+              20
+            ]
+          },
+          {
+            "kind": "money",
+            "ask": "count",
+            "notes": [
+              100,
+              100,
+              100,
+              100,
+              100
+            ]
+          },
+          {
+            "kind": "money",
+            "ask": "count",
+            "notes": [
+              500,
+              500
+            ]
+          },
+          {
+            "kind": "money",
+            "ask": "count",
+            "notes": [
+              20,
+              10,
+              10,
+              5,
+              2,
+              2,
+              1
+            ]
+          },
+          {
+            "kind": "money",
+            "ask": "count",
+            "notes": [
+              50,
+              10
+            ]
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p124-tool-money-pay",
+      "qr": "M2-p124-b",
+      "code": "LSTKSA5Q",
+      "type": "taka_shop",
+      "title": "দোকানে কেনাকাটা",
+      "chapter": "অধ্যায় ৬ · মুদ্রা",
+      "page": 124,
+      "configuration": {
+        "fresh": {
+          "skill": "money",
+          "count": 5,
+          "digits": 3
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "money",
+            "ask": "pay",
+            "items": [
+              {
+                "name": "পেঁপে",
+                "emoji": "🍈",
+                "price": 188
+              }
+            ]
+          },
+          {
+            "kind": "money",
+            "ask": "pay",
+            "items": [
+              {
+                "name": "কলা",
+                "emoji": "🍌",
+                "price": 60
+              }
+            ]
+          },
+          {
+            "kind": "money",
+            "ask": "pay",
+            "items": [
+              {
+                "name": "আপেল",
+                "emoji": "🍎",
+                "price": 120
+              }
+            ]
+          },
+          {
+            "kind": "money",
+            "ask": "pay",
+            "items": [
+              {
+                "name": "তরমুজ",
+                "emoji": "🍉",
+                "price": 550
+              }
+            ]
+          },
+          {
+            "kind": "money",
+            "ask": "pay",
+            "items": [
+              {
+                "name": "কাঁঠাল",
+                "emoji": "",
+                "price": 250
+              }
+            ]
+          },
+          {
+            "kind": "money",
+            "ask": "pay",
+            "items": [
+              {
+                "name": "১ হালি ডিম",
+                "emoji": "🥚",
+                "price": 40
+              },
+              {
+                "name": "১ প্যাকেট বিস্কুট",
+                "emoji": "🍪",
+                "price": 65
+              }
+            ]
+          },
+          {
+            "kind": "money",
+            "ask": "pay",
+            "items": [
+              {
+                "name": "খাতা",
+                "emoji": "📒",
+                "price": 90
+              },
+              {
+                "name": "কলম",
+                "emoji": "🖊️",
+                "price": 15
+              }
+            ]
+          },
+          {
+            "kind": "money",
+            "ask": "pay",
+            "items": [
+              {
+                "name": "কলম",
+                "emoji": "🖊️",
+                "price": 30
+              }
+            ]
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    },
+    {
+      "key": "m2-p124-tool-money-change",
+      "qr": "M2-p124-c",
+      "code": "LSR5AJZA",
+      "type": "taka_shop",
+      "title": "ফেরত টাকা হিসাব করি",
+      "chapter": "অধ্যায় ৬ · মুদ্রা",
+      "page": 124,
+      "configuration": {
+        "fresh": {
+          "skill": "money",
+          "count": 5,
+          "digits": 3
+        }
+      },
+      "content": {
+        "items": [
+          {
+            "kind": "money",
+            "ask": "change",
+            "items": [
+              {
+                "name": "কলা",
+                "emoji": "🍌",
+                "price": 60
+              }
+            ],
+            "paid": 100
+          },
+          {
+            "kind": "money",
+            "ask": "change",
+            "items": [
+              {
+                "name": "আপেল",
+                "emoji": "🍎",
+                "price": 120
+              }
+            ],
+            "paid": 200
+          },
+          {
+            "kind": "money",
+            "ask": "change",
+            "items": [
+              {
+                "name": "কাঁঠাল",
+                "emoji": "",
+                "price": 250
+              }
+            ],
+            "paid": 500
+          },
+          {
+            "kind": "money",
+            "ask": "change",
+            "items": [
+              {
+                "name": "তরমুজ",
+                "emoji": "🍉",
+                "price": 550
+              }
+            ],
+            "paid": 1000
+          },
+          {
+            "kind": "money",
+            "ask": "change",
+            "items": [
+              {
+                "name": "পেঁপে",
+                "emoji": "🍈",
+                "price": 188
+              }
+            ],
+            "paid": 200
+          },
+          {
+            "kind": "money",
+            "ask": "change",
+            "items": [
+              {
+                "name": "১ হালি ডিম",
+                "emoji": "🥚",
+                "price": 40
+              },
+              {
+                "name": "১ প্যাকেট বিস্কুট",
+                "emoji": "🍪",
+                "price": 65
+              }
+            ],
+            "paid": 200
+          },
+          {
+            "kind": "money",
+            "ask": "change",
+            "items": [
+              {
+                "name": "জ্যামিতি বক্স",
+                "emoji": "📐",
+                "price": 120
+              }
+            ],
+            "paid": 150
+          },
+          {
+            "kind": "money",
+            "ask": "change",
+            "items": [
+              {
+                "name": "খাতা",
+                "emoji": "📒",
+                "price": 90
+              },
+              {
+                "name": "কলম",
+                "emoji": "🖊️",
+                "price": 15
+              }
+            ],
+            "paid": 500
+          }
+        ]
+      },
+      "guide": {
+        "audio": null,
+        "pictures": [],
+        "notes": []
+      }
+    }
+  ]
+}
