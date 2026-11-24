@@ -1,5 +1,6 @@
-// A1 in the real player: a phone-wide (or WIDTH) page on :3003 plays a game of the new big-number rounds, the way a
-// child would (one round wrong first), with every API call answered here. Screenshots in shots/a1-*.png.
+// A3 in the real player: a phone-wide (or WIDTH) page on :3003 plays long division in the book's উপর-নিচে layout, a box
+// at a time (each step's quotient digit, product, difference; then ভাগফল and ভাগশেষ), the way a child would (one round
+// with a wrong digit first), with every API call answered here. Screenshots in shots/a3-*.png.
 require("./globals.cjs");
 const path = require("path"), fs = require("fs");
 const puppeteer = require(path.join(process.env.HOME, "ebidyaloy-web/ebidyaloy_web_client/source/backend/node_modules/puppeteer-core"));
@@ -9,11 +10,15 @@ const CORS = { "Access-Control-Allow-Origin": SITE, "Access-Control-Allow-Creden
 const raw = [
   { kind: "longdiv", a: 3266, b: 23 },
   { kind: "longdiv", a: 941, b: 23, text: "৯৪১টি লিচু ২৩ জনের মধ্যে সমানভাবে ভাগ করে দিলে প্রত্যেকে কয়টি পাবে, কয়টি থাকবে?" },
+  { kind: "longdiv", a: 801, b: 5 }, // p62: a 0 left before a brought-down digit, and a 0 at the end of the quotient
+  { kind: "longdiv", a: 73, b: 9 }, // p52: the quotient starts over the ones
+  { kind: "longdiv", a: 99999, b: 2 }, // the longest: five steps
 ];
+const MISS = 1; // this round's first box is answered wrong once (the hint), then right: no star
 const items = srv.normalizeWorkItems(raw, "work_it_out");
 if (items.length !== raw.length) { console.log("the server dropped some:", raw.length - items.length); process.exit(1); }
 const data = { id: "x", book: { id: "b", title: "প্রাথমিক গণিত - চতুর্থ শ্রেণি", publicCode: "KZT9KF", read: null }, institute: { name: "eBidyaloy" }, gameLook: { scene: "", timeAware: false }, help: null, edition: "", editions: [], speech: null,
-  publicCode: CODE, version: 1, activityType: "work_it_out", activitySubtype: "", title: "ভাগ (A3, for now)", instruction: "হিসাব করে প্রতিটি উত্তর লেখো।", instructionLang: "bn", chapter: "অধ্যায় ১ · সংখ্যা ও স্থানীয় মান", pageRef: "4",
+  publicCode: CODE, version: 1, activityType: "work_it_out", activitySubtype: "", title: "উপর-নিচে ভাগ (A3)", instruction: "হিসাব করে প্রতিটি উত্তর লেখো।", instructionLang: "bn", chapter: "অধ্যায় ১ · সংখ্যা ও স্থানীয় মান", pageRef: "4",
   author: "", publisher: "", locked: false, configuration: { language: "bn" }, content: { items }, instructionAudioUrl: null, access: { prices: {}, buyable: false } };
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 (async () => {
@@ -45,11 +50,23 @@ const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
   const typeNum = async (v) => { await page.keyboard.type(String(v)); };
   let expectStars = 0;
   for (let k = 0; k < items.length; k++) {
-    const it = items[k];
+    const it = items[k], cells = srv.longDivWork(it.a, it.b).cells;
     await sleep(500);
-    await shot(k + 1);
-    expectStars++; await typeNum(it.answer[0]); await page.keyboard.press("Tab"); await typeNum(it.answer[1]); await page.keyboard.press("Enter");
+    await shot(`${k + 1}a`);
+    if (k === MISS) {
+      await typeNum(cells[0] + 1); await page.keyboard.press("Enter"); await sleep(400);
+      await shot(`${k + 1}-miss`);
+    } else expectStars++;
+    for (let j = 0; j < cells.length; j++) {
+      await typeNum(cells[j]); await page.keyboard.press("Enter"); await sleep(160);
+      if (k === 0 && j === 4) await shot("1b"); // mid-way: the first step done, the next digit brought down
+      if (k === 2 && j === 6) await shot("3b"); // ৮০১ ÷ ৫: ৩০ − ৩০ leaves a faded ০ before the brought-down ১
+      if (k === items.length - 1 && j === cells.length - 3) await shot(`${k + 1}b`); // the longest, before ভাগফল
+    }
+    await sleep(250);
+    await shot(`${k + 1}z`);
     await sleep(1300);
+    if (k === MISS) { await main(); await sleep(500); }
   }
   await sleep(800);
   await shot(99);
