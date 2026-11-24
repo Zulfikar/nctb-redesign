@@ -245,6 +245,7 @@ module.exports = {
     },
     {
       page: 120,
+      fitMin: 0.76, // (its three games' QRs need the room: 24 Nov)
       dense: true,
       blocks: [
         { practise: "নিজে করি" },

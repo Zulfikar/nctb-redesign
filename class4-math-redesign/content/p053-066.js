@@ -193,7 +193,8 @@ module.exports = {
             ], w: [0, 11, 0, 11], gap: 3, align: "flex-start" },
             { row: [{ kind: "c4p053_tbox", text: "৩২৬৬ ÷ ২৩ = ১৪২", center: true, size: 13 }, sm("girl", "talk", "পুকুরে ১৪২টি করে পোনামাছ ছাড়া হলো।", null, true)], w: [44, 0], gap: 3 },
           ], gap: 1 },
-          L({ d: "২৩", n: "৩২৬৬", q: " ১৪২", rows: ["২৩  ", " ৯৬ ", " ৯২ ", "  ৮৬", "  ৮৬", "   ০"], lines: [0, 2, 4], arrows: [{ col: 3, to: 3 }], cut: 3 }),
+          // (৪৬, as the NCTB book prints: ৯৬ − ৯২ = ৪, then ৬ brought down; our first build had ৮৬, found 24 Nov)
+          L({ d: "২৩", n: "৩২৬৬", q: " ১৪২", rows: ["২৩  ", " ৯৬ ", " ৯২ ", "  ৪৬", "  ৪৬", "   ০"], lines: [0, 2, 4], arrows: [{ col: 3, to: 3 }], cut: 3 }),
         ], w: [0, 36], gap: 2, align: "flex-start" },
         { ex: "১", mark: "kaj", text: "নিচের ভাগ করি।", body: [
           { row: [

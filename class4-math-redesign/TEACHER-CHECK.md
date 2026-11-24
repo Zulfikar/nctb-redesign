@@ -11,6 +11,14 @@
 | ১০৭ | "রাফির অংশ", where the story's child is রকি | as printed |
 | ৩১ | step 2 strikes the ৯ in ৭৬৯৮৪ (the number taken away) instead of the ৫ in ৯০৫৬৮ | as printed |
 | ৪৩ | the "১০০০ বার" arrow points from ৩৮৮৮০০০ to ৩৮৮৮ | as printed |
+| ৯৬ নিজে করি ১(১) | option ক «০, ৫, ১০» is also all multiples of ৫ if ০ counts, so ক and ঘ could both be right | as printed (the game's quiz shows ক as «১, ৫, ১০») |
+| ৬০ কাজ ১(১) | «□ = ১৪৬ × □ + ৩» has no single answer (any ভাগফল works) | as printed (the game fixes the ভাগফল at ৫) |
+| ১৩৭ কাজ ২(৩) | «৬১ দিন × ২৪ ঘণ্টা» multiplies a day by an hour (it is ৬১ × ২৪ ঘণ্টা; the answer ১৪৬৪ is right) | as printed |
+| ১৪১ নিজে করি ৩(১) | «১ মি ২৩ সেমি ১০ মিমি» has ১০ মিমি (as «১৮ মিমি» does) | as printed (the game writes them in their right form) |
+| ১৫৬ ৪(১) | the red arc can be read as the angle the long way round (১৮০° + ৩০° = ২১০°, which the chapter never teaches) or the inside angle (১৫০°) | as printed (the game asks ১৮০ + ৩০; a teacher should say which is meant) |
+| ১৬৮ ৪(২), (৩) | angles labelled ৬০° are drawn about ৪৯° and ৬৪°; the ৭ × ৪ right triangle's angles are not ৩০° and ৬০° | as printed (the games use the labels) |
+
+**Found in our own pages by the games' helpers and fixed (24 Nov):** p৫৯ the last step of ৩২৬৬ ÷ ২৩ showed ৮৬ for ৪৬ (the NCTB book is right); p১৫৯ the সূক্ষ্মকোণী row's বিষমবাহু triangle was drawn with a ১০৩° angle (now ৩৪, ২৮, ২২ mm, acute, as the NCTB page).
 
 ## 2. Spelling and printing slips (kept as printed)
 - **p১০:** the number line starts with an English "0".

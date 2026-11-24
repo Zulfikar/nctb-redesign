@@ -7,8 +7,8 @@
 //   from the old book) with a small "stand-in" tag. Stickers are shared with the Class 2 and 3 books: sticker-<name>.png is
 //   looked for here (art/ready, art/new), then in the Class 3 book's art, then in the Class 2 book's; until then an emoji.
 // - The children (রাফি, তুলি) are the Class 2/3 pair (art/new/ref-children.png); the parrot টিয়া is face-parrot.
-// - QR codes: none yet (the user, 23 Nov: "you design it first, we will put the page qr after that"). Once the book has its
-//   Activity Studio link (BOOK_LINK) and its games (~/Downloads/class4-math-activities, by printed page), they come back.
+// - QR codes (24 Nov): the book's link /b/KZT9KF on the cover (BOOK_LINK) and each page's game(s) from
+//   ../class4-math-activities/ACTIVITIES-bn.json (255 games, by printed page; "+N" when a page has more).
 // - Kinds: lib/c2-*.parts.js are the Class 2 book's own kinds (p040_cs …) and lib/c3-*.parts.js the Class 3 book's
 //   (c3p021_ …), loaded for every page; this book's ranges add theirs in content/pNNN-NNN.parts.js (prefixed c4pNNN_).
 // - The text check: tesseract (Bengali, .work/tessdata) reads the book's page; every word on our page must be found there.
@@ -24,10 +24,10 @@ const puppeteer = require(path.join(HOME, "ebidyaloy-web/ebidyaloy_web_client/so
 const QR = require(path.join(HOME, "Downloads/Esho-Bhasha-Shikhi/node_modules/qrcode"));
 const BOOK_PDF = path.join(__dirname, "source/class4-math-nctb-2026.pdf"); // ~/Downloads/2. Math_G4_Bangla_AY-2026_(in-25) …, copied
 const FRONT = 7; // printed page 1 is the PDF's page 8
-// the book's games, once they are made (none yet: the page QRs come after the design)
+// the book's games (../class4-math-activities, 24 Nov): each page's QR
 const ACT_FILES = ["ACTIVITIES-bn.json"].map((f) => path.join(__dirname, "..", "class4-math-activities", f)).filter((f) => fs.existsSync(f));
 const ACTS = { activities: ACT_FILES.flatMap((f) => JSON.parse(fs.readFileSync(f, "utf8")).activities) };
-const BOOK_LINK = null; // the book's Activity Studio link (https://ebidyaloy.com/b/…), once it has one: the cover's QR
+const BOOK_LINK = "https://ebidyaloy.com/b/KZT9KF"; // the book's Activity Studio link (made by the user 23 Nov): the cover's QR
 const W = 190.5, H = 253.3;
 const C3_ART = path.join(__dirname, "..", "class3-math-redesign/art"), C2_ART = path.join(__dirname, "..", "class2-math-redesign/art");
 
@@ -369,7 +369,7 @@ function pageHtml(pg) {
   const opener = pg.opener ? `<header class="opener"><div class="ubadge"><small>অধ্যায়</small><b>${bn(P.chapter)}</b></div>
       <div class="ut"><span class="un">${esc(pg.opener.n || P.ordinal + " অধ্যায়")}</span><span class="utt">${esc(pg.opener.title)}</span></div>${qrs ? `<div class="qrs">${qrs}</div>` : ""}</header>` : "";
   const top = pg.title || (!pg.opener && qrs) ? `<header class="top">${pg.title ? `<h1>${esc(pg.title)}</h1>` : `<span class="flex"></span>`}${pg.opener ? "" : `<div class="qrs">${qrs}</div>`}</header>` : "";
-  return `<section class="page${pg.opener ? " is-opener" : ""}${!opener && !top ? " nohead" : ""}${pg.dense ? " dense" : ""}${pg.spread ? " spread" : ""}" data-page="${pg.page}" style="--c:${c};--s:${s};--d:${d}">
+  return `<section class="page${pg.opener ? " is-opener" : ""}${!opener && !top ? " nohead" : ""}${pg.dense ? " dense" : ""}${pg.spread ? " spread" : ""}" data-page="${pg.page}"${pg.fitMin ? ` data-fitmin="${pg.fitMin}"` : ""} style="--c:${c};--s:${s};--d:${d}">
   <div class="strip"><span class="brand">প্রাথমিক গণিত <i>চতুর্থ শ্রেণি</i></span><span class="upill">অধ্যায় ${bn(P.chapter)} · ${esc(P.name)}</span></div>
   ${opener}${top}
   <div class="body">${pg.blocks.map((b) => blockHtml(b, pg.page)).join("\n")}</div>${pg.art ? pg.art.map((a) => decoHtml(a)).join("") : ""}
@@ -585,13 +585,15 @@ function textCheck(n, ours) {
   await page.evaluate(() => document.fonts.ready);
   const fontsOk = await page.evaluate(() => { const f = [...document.fonts]; return ["Baloo Da 2", "Noto Sans Bengali"].every((n) => f.some((x) => x.family.replace(/"/g, "") === n && x.status === "loaded")) && !f.some((x) => x.status === "error"); });
   // a page whose content runs past the footer (most often because a QR row was added above a full page) is scaled down
-  // just enough to fit, at most to 85%; a page with a true-size ruler is never scaled (it is reported as spilling instead)
+  // just enough to fit, at most to 85% (a page's own fitMin: lower, for the two review pages with three QRs, 24 Nov); a page
+  // with a true-size ruler is never scaled (it is reported as spilling instead)
   const fitted = await page.evaluate(() => [...document.querySelectorAll(".page:not(.cover)")].map((p) => {
     if (p.querySelector('[class*="ruler"]')) return null;
     const body = p.querySelector(".body"), foot = p.querySelector("footer");
     const over = () => { const fb = foot.getBoundingClientRect().top, r = p.getBoundingClientRect().right; let m = 0; for (const e of body.querySelectorAll("*")) { const q = e.getBoundingClientRect(); if (q.width) m = Math.max(m, q.bottom - fb, q.right - (r - 8)); } return m; };
     let z = 1;
-    while (over() > 0.5 && z > 0.855) { z = Math.round((z - 0.01) * 100) / 100; body.style.zoom = z; }
+    const min = Number(p.dataset.fitmin || 0.85) + 0.005;
+    while (over() > 0.5 && z > min) { z = Math.round((z - 0.01) * 100) / 100; body.style.zoom = z; }
     return z < 1 ? `p${p.dataset.page} ${Math.round(z * 100)}%` : null;
   }).filter(Boolean));
   if (fitted.length) console.log(`fitted (content scaled to fit): ${fitted.join(", ")}`);
@@ -607,7 +609,16 @@ function textCheck(n, ours) {
     const c = p.cloneNode(true); c.querySelectorAll(".strip, footer, .qrs, .ubadge, .opener .un").forEach((e) => e.remove());
     const w = document.createTreeWalker(c, NodeFilter.SHOW_TEXT), out = []; while (w.nextNode()) out.push(w.currentNode.nodeValue); return [p.dataset.page, out.join(" ")];
   }));
-  await page.pdf({ path: path.join(WHOLE ? __dirname : OUT, name + ".pdf"), width: `${W}mm`, height: `${H}mm`, printBackground: true, preferCSSPageSize: true });
+  // printed in parts of 50 pages, then joined (24 Nov: with every page's QR, Chrome failed to print the whole book at once)
+  {
+    const { PDFDocument } = require(path.join(HOME, "ebidyaloy-web/ebidyaloy_web_client/source/backend/node_modules/pdf-lib"));
+    const total = await page.evaluate(() => document.querySelectorAll(".page").length), CH = 50, joined = await PDFDocument.create();
+    for (let s0 = 1; s0 <= total; s0 += CH) {
+      const part = await PDFDocument.load(await page.pdf({ width: `${W}mm`, height: `${H}mm`, printBackground: true, preferCSSPageSize: true, pageRanges: `${s0}-${Math.min(total, s0 + CH - 1)}` }));
+      for (const pg of await joined.copyPages(part, part.getPageIndices())) joined.addPage(pg);
+    }
+    fs.writeFileSync(path.join(WHOLE ? __dirname : OUT, name + ".pdf"), await joined.save());
+  }
   if (WHOLE) { // the book's own front pages (title page, credits, preface, the characters and symbols' key, contents, the name label: PDF pages 2–7) after our cover, and its back page, as printed
     const { PDFDocument } = require(path.join(HOME, "ebidyaloy-web/ebidyaloy_web_client/source/backend/node_modules/pdf-lib"));
     const ours = await PDFDocument.load(fs.readFileSync(path.join(__dirname, name + ".pdf"))), book = await PDFDocument.load(fs.readFileSync(BOOK_PDF));

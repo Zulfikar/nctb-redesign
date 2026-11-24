@@ -87,7 +87,8 @@ const L = (c) => ({ c, align: "left" });
 const acu = put([[0, 16.6], [18.1, 0], [24.5, 16.6]], 2, 1.5), rtt = put([[0, 12.9], [19.9, 0], [19.9, 12.9]], 2, 3), obt = put([[0, 14.2], [24.5, 0], [20.7, 14.2]], 2, 2);
 // p159–160's sorting tables: one triangle of each kind, true to its kind
 const S = {
-  acuEq: bySides(22, 22, 22), acuIso: bySides(16, 27, 27), acuSca: bySides(37, 26, 21),
+  // (acuSca: every angle under 90°, as the NCTB page draws it; our first build's 37, 26, 21 had a 103° angle, found 24 Nov)
+  acuEq: bySides(22, 22, 22), acuIso: bySides(16, 27, 27), acuSca: bySides(34, 28, 22),
   obtIso: (() => { const B = [0, 0], A = [22, 0], C = [22 * cos(116), -22 * sin(116)]; return [C, B, A]; })(),
   obtSca: (() => { const B = [0, 0], A = [38, 0], C = [21 * cos(122), -21 * sin(122)]; return [C, B, A]; })(),
   rtSca: [[0, -19], [0, 0], [36, 0]], rtIso: [[0, -23], [0, 0], [23, 0]],
@@ -576,6 +577,7 @@ module.exports = {
     // ── 168 ── নিজে করি
     {
       page: 168,
+      fitMin: 0.78, // (its three games' QRs need the room: 24 Nov)
       dense: true,
       allow: ["কাঁটা"], // (২) "…মিনিটের কাঁটা কত ডিগ্রি…": checked by eye; the OCR misreads it
       blocks: [
